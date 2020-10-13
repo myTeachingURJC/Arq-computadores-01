@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="82.364929mm"
+   height="52.294991mm"
+   viewBox="0 0 82.364929 52.294991"
+   version="1.1"
+   id="svg852"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="bit.svg">
+  <defs
+     id="defs846" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-82.536448"
+     inkscape:cy="176.56044"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1637"
+     inkscape:window-height="927"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata849">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-54.519469,-114.91492)">
+    <g
+       id="g1425"
+       transform="matrix(0.30103423,0,0,0.30103423,54.519469,114.91757)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/bits.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path6"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-5.3533745"
+         y="100.34553"
+         id="text4142"
+         transform="scale(0.91185408,1.0966667)"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan4144"
+           x="-5.3533745"
+           y="100.34553"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:179.184px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000">o</tspan></text>
+    </g>
+    <path
+       d="m 113.9669,126.76209 11.92921,-9.14969 9.654,2.18024 -7.71396,32.94496 -7.50901,-1.69591 5.93263,-26.29687 -8.81573,5.34131 z"
+       id="path4"
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.282218"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/bits.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 123.86561,150.71119 -6.02663,7.97465 5.05429,6.0305 -1.74897,1.55579 m 3.96022,-15.36675 3.49949,7.97542 7.97052,1.55579 -0.58325,2.52825"
+       id="path6-3"
+       style="fill:none;stroke:#008000;stroke-width:0.619751;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/bits.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
