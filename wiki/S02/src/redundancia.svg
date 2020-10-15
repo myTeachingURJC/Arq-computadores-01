@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1381.7192"
+   height="601.58661"
+   viewBox="-0.5 -0.5 1381.7192 601.58661"
+   content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2020-10-15T05:24:28.162Z&quot; agent=&quot;5.0 (X11)&quot; etag=&quot;dgEcNk7hBXn-KVdDceuS&quot; version=&quot;13.8.0&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;5Sf-jU6DFPu0_Lgiju-N&quot; name=&quot;Page-1&quot;&gt;3VZtb5swEP41+UgUIG/9mGZJt2nTJrXapHyJHHyAFeNDtvPCfv3OYNLQtGonZapUPoD93Jmz73nuoBfPi+OdZmX+HTnIXjTgx178qRdFYTwa0MMhVYNMJqMGyLTg3ukRuBd/wIN+XbYTHEzH0SJKK8oumKBSkNgOxrTGQ9ctRdmNWrIMLoD7hMlL9LfgNm/QaXssh38GkeVt5HDgLQVrnT1gcsbxcAbFi14814i2GRXHOUiXvDYvzbrlC9bTxjQo+5YFBh9mm9WXUfFV/VolufmxussD/5Y9kzt/YL9ZW7UZoH2XbiiKOlW3uS0kTUMa7kFbQbmaSZEpwiyWZ+g3tgH5E42wAp11g9ZiQQ7SGW5Zss007hSfo0Rdx4rT+iKXOtjMlA2lA0JYO0nFEXjrQvPcWqeFmTt5tEy4GvQFqSEVioPuJxQxWnJmGT0cbuhpbFAyq0WyDUzAWRXUeYuGdLsF0OsHVq65Fmq73jAdhNG0X6rMZ4oOB8cXKQhPxFJFABZgdUUu7YJWNtWT+eFRWhStwfJzWbUg83LOTu9+ZJwGnvR/EED0dgEUx8zVeN8Q2aafIvJ+nSShsvWBWcpb1JVHiUIRvNhTeozHUiHlGeGD+iLcWI1baC0KFbxFSc8LkPlZAi48AVegLr7pUhc/Q91kfMnczf8iLv6AlRu9WrkKDkEFVJQaDMqd25+Dx650z6AgnF6zbKMu98Phu5ft8AOyH7/KPiQYpJJZ17WWo9DdFwntIqvWGpIqkbA2bA9NN7qmAOInxR+9uwBG1+zb4Qfu2+GTT+74krrp8Cp927Wg099cbTv7J44XfwE=&lt;/diagram&gt;&lt;/mxfile&gt;"
+   id="svg22"
+   sodipodi:docname="redundancia.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="0.38842482"
+     inkscape:cx="680.26504"
+     inkscape:cy="449.62779"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="false"
+     inkscape:document-rotation="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="back"
+     transform="translate(295.41019,51.456081)"
+     style="display:inline">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect985"
+       width="1381.7192"
+       height="601.58661"
+       x="-295.91019"
+       y="-51.956081"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       x="830.06586"
+       y="-443.05515"
+       width="0"
+       height="0"
+       fill="none"
+       stroke="#6881b3"
+       stroke-width="1.96"
+       pointer-events="all"
+       id="rect865" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3"
+     style="display:inline"
+     transform="translate(295.41019,51.456081)">
+    <path
+       style="fill:#000000"
+       d="m 369.42052,179.91287 c 0,0 -188.70053,-0.50489 -198.79726,-0.64757 l -21.93391,-0.30995 -3.77503,-2.88182 c -5.531,-4.22231 -6.56283,-7.61613 -6.56283,-21.58606 v -12.03212 h -3 -3 v 13.59887 c 0,15.05795 0.79504,17.99256 6.35752,23.46654 5.52955,5.44158 10.51172,5.93459 31.84444,5.93459 8.16509,0 198.77683,-0.50429 198.77683,-0.50429 z M 143.95183,135.05446 c 0.31284,-0.81526 0.41209,-2.29607 0.22054,-3.2907 -0.30334,-1.57512 -1.44301,-1.80841 -8.83458,-1.80841 h -8.4863 v 3 3 l 8.26577,0.2907 c 6.57174,0.23112 8.38234,-0.0131 8.83457,-1.19159 z m 24.19966,-12.79911 c 1.267,-1.267 1.79513,-37.08553 0.59301,-40.21821 -0.53641,-1.39788 -4.41894,-1.58179 -33.39301,-1.58179 -28.97407,0 -32.8566,0.18391 -33.39301,1.58179 -1.20212,3.13268 -0.67399,38.95121 0.59301,40.21821 1.71648,1.71648 63.88352,1.71648 65.6,0 z M 156.68482,72.78868 c 0.82919,-0.82919 0.86033,-24.00878 0.0364,-27.08333 -0.41144,-1.53531 -1.36003,-2.25 -2.98634,-2.25 h -2.38337 v 15 15 h 2.33333 c 1.28334,0 2.63334,-0.3 3,-0.66667 z M 119.35149,58.52177 V 43.45535 h -2.48095 c -3.3109,0 -3.65971,1.7925 -3.30808,17 l 0.28903,12.5 2.75,0.31642 2.75,0.31642 z"
+       id="path1086"
+       sodipodi:nodetypes="cscsscccsssccssscccssssssssssscccsssccsscccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1114"
+       width="160.97807"
+       height="186.54256"
+       x="51.75423"
+       y="236.98473"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#a9d6ea;stroke-width:0.761336"
+       d="m 113.89486,404.11748 c -18.460562,-0.32693 -15.749502,-0.40205 15.2267,-0.42189 20.72735,-0.0135 35.4592,0.0768 32.73742,0.20016 -11.55423,0.52373 -26.90385,0.59468 -47.96412,0.22173 z m -25.752712,-2.50634 c -0.91046,-0.96915 -1.65409,-2.2539 -1.65254,-2.85501 10e-4,-0.60111 0.65868,-0.0174 1.46024,1.29714 0.80157,1.31456 1.91375,2.57226 2.4715,2.79492 0.55776,0.22263 0.64558,0.43186 0.19514,0.46491 -0.45042,0.033 -1.56387,-0.73282 -2.47434,-1.70196 z m 81.227532,-0.4436 c 1.10331,-1.21314 2.15009,-2.06829 2.32622,-1.90034 0.39645,0.37802 -3.04576,4.10601 -3.79126,4.10601 -0.29751,0 0.36175,-0.99256 1.46504,-2.20567 z m 2.74774,-57.93983 c 0,-30.35826 0.0943,-42.77754 0.20962,-27.59841 0.11528,15.17912 0.11528,40.01769 0,55.19681 -0.11528,15.17914 -0.20962,2.75985 -0.20962,-27.5984 z M 86.509918,287.5926 c -0.0246,-1.2763 3.01856,-4.52187 4.21326,-4.49347 0.39175,0.009 -0.0139,0.60887 -0.90155,1.33234 -0.88761,0.72347 -1.99064,2.00062 -2.45118,2.83808 -0.63271,1.15051 -0.84303,1.22948 -0.86053,0.32305 z m 82.859762,-2.30472 c -1.10329,-1.21312 -1.76255,-2.20567 -1.46504,-2.20567 0.7455,0 4.18771,3.72799 3.79126,4.10601 -0.17613,0.16794 -1.22291,-0.68722 -2.32622,-1.90034 z m -70.158762,-2.77323 7.775472,-0.24643 0.25088,-7.01603 0.25088,-7.01603 0.15801,7.42302 0.15801,7.42303 -8.184362,-0.16057 -8.18436,-0.16057 z m 51.228042,-7.74872 c 0,-7.92601 -0.0966,-8.43102 -2.0574,-10.76138 -1.70779,-2.02955 -1.78168,-2.27287 -0.43487,-1.43177 2.59027,1.61765 3.2536,4.09347 3.2536,12.14393 v 7.55088 l 7.80368,0.24675 7.8037,0.24673 -8.18436,0.16057 -8.18435,0.16057 z m -42.63479,-9.11028 c 0,-0.72243 3.72025,-4.2693 4.01764,-3.8304 0.11934,0.17613 -0.7358,1.24053 -1.90033,2.36535 -1.16452,1.12482 -2.11731,1.78409 -2.11731,1.46505 z m 5.32934,-4.65218 c 0,-0.48338 5.83691,-0.76133 15.98805,-0.76133 10.15113,0 15.98804,0.27795 15.98804,0.76133 0,0.4834 -5.83691,0.76134 -15.98804,0.76134 -10.15114,0 -15.98805,-0.27794 -15.98805,-0.76134 z"
+       id="path1102"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#f5e53d;stroke-width:0.761336"
+       d="m 122.856,355.33016 -0.2058,-16.2898 -5.90035,-0.22236 c -3.24519,-0.12232 -5.90034,-0.34933 -5.90034,-0.50453 0,-0.37439 23.65057,-24.0165 24.0251,-24.0165 0.15992,0 0.38696,4.19685 0.50453,9.32635 l 0.21377,9.32635 6.58594,0.21888 6.58592,0.21887 -12.54714,18.81192 c -6.90091,10.34657 -12.68408,18.94888 -12.85147,19.11627 -0.1674,0.16739 -0.39696,-7.02605 -0.51016,-15.98545 z"
+       id="path1100"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#d5da54;stroke-width:0.761336"
+       d="m 122.09405,356.36075 -0.20518,-16.55906 -6.28102,-0.22112 c -3.45455,-0.12164 -6.28101,-0.46799 -6.28101,-0.76973 0,-0.7255 25.35708,-26.03655 26.08389,-26.03655 0.30957,0 0.56285,4.45381 0.56285,9.89737 v 9.89736 h 6.85202 c 3.76861,0 6.85202,0.23612 6.85202,0.52473 0,0.94785 -26.12002,39.82604 -26.75684,39.82604 -0.34184,0 -0.71388,-7.45157 -0.82673,-16.55904 z m 14.12358,-4.16141 12.54714,-18.81192 -6.58592,-0.21887 -6.58594,-0.21888 -0.21377,-9.32635 c -0.11758,-5.1295 -0.34461,-9.32635 -0.50453,-9.32635 -0.37453,0 -24.0251,23.64211 -24.0251,24.0165 0,0.1552 2.65515,0.38224 5.90034,0.50453 l 5.90035,0.22236 0.2058,16.2898 c 0.11326,8.9594 0.34276,16.15284 0.51016,15.98545 0.16739,-0.16739 5.95056,-8.7697 12.85147,-19.11627 z"
+       id="path1098"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#58b0d7;stroke-width:0.761336"
+       d="m 90.103098,402.55088 c -3.64783,-2.12466 -3.61633,-1.60783 -3.61633,-59.32317 0,-58.31915 -0.0811,-57.09982 3.93562,-59.24945 1.20028,-0.64237 4.38855,-0.87227 9.771992,-0.70465 l 7.99046,0.2488 -8.497362,0.16056 c -8.47373,0.16012 -8.50281,0.16708 -10.46836,2.50298 l -1.97102,2.34243 v 54.58834 c 0,50.02726 0.10771,54.74563 1.28821,56.47075 0.70851,1.03532 1.65066,2.13411 2.09368,2.44175 0.44301,0.30763 17.825392,0.56458 38.627522,0.571 32.61518,0.009 37.97928,-0.14557 38.96406,-1.13034 0.6281,-0.62811 1.42343,-1.13061 1.76738,-1.11669 0.34397,0.0139 -0.18342,0.69915 -1.17195,1.52268 -1.73496,1.44537 -3.10919,1.49654 -39.58945,1.47419 -24.25002,-0.0149 -38.269522,-0.30122 -39.124452,-0.79918 z m 80.511242,-59.32317 c 0,-30.90638 0.25695,-56.03462 0.57101,-55.84052 0.74652,0.46138 0.74652,111.21966 0,111.68104 -0.31406,0.19409 -0.57101,-24.93414 -0.57101,-55.84052 z m -20.50711,-9.3592 c 0.2859,-0.75084 0.71162,-1.17339 0.94602,-0.93898 0.23441,0.23442 4.9e-4,0.84873 -0.51982,1.36517 -0.75191,0.74631 -0.83936,0.65886 -0.4262,-0.42619 z M 167.9698,285.0098 c -0.6892,-0.83043 -3.11052,-1.18001 -9.41959,-1.35994 l -8.49192,-0.24217 8.48067,-0.16275 c 7.45986,-0.14314 8.69703,0.0175 10.27804,1.33461 0.98853,0.82353 1.41104,1.50874 0.93889,1.52267 -0.47214,0.0139 -1.27589,-0.47767 -1.78609,-1.09242 z m -60.02451,-10.45017 c -0.13016,-7.50726 -0.008,-8.28164 1.57189,-9.93467 0.94215,-0.98602 1.1991,-1.14221 0.57099,-0.3471 -0.78757,0.99699 -1.27541,4.08032 -1.57188,9.93467 l -0.42989,8.48901 z m 40.57956,-9.2078 c -1.40579,-2.24148 -1.94452,-2.48162 -6.47136,-2.88461 l -4.93791,-0.4396 4.69067,-0.13138 c 4.37597,-0.12259 4.82291,0.0257 6.66169,2.211 1.08406,1.28833 1.97102,2.65873 1.97102,3.04534 0,1.08166 -0.25941,0.83762 -1.91411,-1.80074 z m -30.25233,-3.39211 c 3.45457,-0.14107 9.10749,-0.14107 12.56204,0 3.45456,0.14107 0.6281,0.25649 -6.28101,0.25649 -6.90912,0 -9.73558,-0.11542 -6.28103,-0.25649 z"
+       id="path1096"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#5fb2ad;stroke-width:0.761336"
+       d="m 121.20654,373.99314 c -0.25281,-0.65884 -0.45967,-8.35063 -0.45967,-17.09287 v -15.89499 l -6.21974,-0.22113 c -3.83928,-0.13648 -6.33084,-0.55693 -6.51004,-1.09854 -0.38095,-1.15132 27.06455,-28.60408 28.21467,-28.22214 0.5962,0.19798 0.95288,3.54611 1.09605,10.28841 l 0.21221,9.99492 6.19786,0.22077 c 3.62981,0.12935 6.31221,0.56654 6.47385,1.05526 0.32395,0.97949 -25.95541,40.71871 -27.49797,41.58198 -0.65765,0.36803 -1.21864,0.14038 -1.50722,-0.61167 z m 15.40343,-20.72401 c 7.18721,-10.80785 13.06765,-19.88677 13.06765,-20.17538 0,-0.28861 -3.08341,-0.52473 -6.85202,-0.52473 h -6.85202 v -9.89736 c 0,-5.44356 -0.25328,-9.89737 -0.56285,-9.89737 -0.72681,0 -26.08389,25.31105 -26.08389,26.03655 0,0.30174 2.82646,0.64811 6.28101,0.76973 l 6.28102,0.22112 0.20518,16.55906 c 0.11285,9.10747 0.48489,16.55904 0.82673,16.55904 0.34185,0 6.50198,-8.84279 13.68919,-19.65066 z"
+       id="path1094"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#2da1d3;stroke-width:0.761336"
+       d="m 90.629988,402.02922 c -0.44302,-0.30764 -1.38517,-1.40643 -2.09368,-2.44175 -1.18056,-1.72512 -1.28821,-6.44349 -1.28821,-56.47075 v -54.58834 l 1.97102,-2.34243 1.97103,-2.34241 h 8.30699 c 4.568872,0 8.306812,-0.25695 8.306542,-0.571 -2.7e-4,-0.31406 9.40915,-0.47481 20.90983,-0.35723 l 20.91032,0.21375 0.247,-7.82711 0.24699,-7.82712 0.16057,8.18435 0.16057,8.18436 8.18435,0.0253 c 7.14872,0.0222 8.4252,0.22566 10.0877,1.6085 l 1.90333,1.58316 v 56.18895 56.18896 l -1.82949,1.58672 c -1.80157,1.5625 -2.40583,1.58653 -39.58945,1.57506 -20.76797,-0.007 -38.122402,-0.26336 -38.565412,-0.57101 z m 46.688662,-48.13355 c 10.05729,-15.0713 13.64013,-21.00985 12.94269,-21.45254 -0.53041,-0.33667 -3.61954,-0.61739 -6.86473,-0.62379 l -5.90036,-0.0122 v -10.27803 c 0,-9.30422 -0.12705,-10.27804 -1.34028,-10.27804 -2.05473,0 -28.67976,26.97798 -28.1045,28.47708 0.37334,0.9729 1.68466,1.21501 6.58082,1.21501 h 6.11458 v 16.62249 c 0,9.14238 0.23555,16.85803 0.52342,17.14592 0.28787,0.28786 0.88744,0.41103 1.33234,0.27368 0.4449,-0.13736 7.0671,-9.62791 14.71602,-21.09012 z"
+       id="path1092"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#1676b9;stroke-width:0.761336"
+       d="m 108.5655,275.25759 c 0,-7.74581 0.70896,-10.29262 3.38189,-12.14879 0.44301,-0.30763 8.21907,-0.56458 17.28016,-0.571 21.05757,-0.0149 19.96676,-0.64389 20.32525,11.7202 l 0.25585,8.82421 H 129.18707 108.5655 Z"
+       id="path1090"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.92942;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 215.28946,329.21422 H 371.31918"
+       id="path1116"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       x="370.06961"
+       y="360.56534"
+       width="357.2926"
+       height="57.322582"
+       rx="7.6326265"
+       ry="7.6326265"
+       fill="#cccccc"
+       stroke="#6881b3"
+       stroke-width="7.63263"
+       pointer-events="all"
+       id="rect841"
+       style="display:inline"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       x="370.06961"
+       y="293.70193"
+       width="357.2926"
+       height="57.322582"
+       rx="7.6326265"
+       ry="7.6326265"
+       fill="#cccccc"
+       stroke="#6881b3"
+       stroke-width="7.63263"
+       pointer-events="all"
+       id="rect843"
+       style="display:inline"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       x="370.06961"
+       y="226.83855"
+       width="357.2926"
+       height="57.322582"
+       rx="7.6326265"
+       ry="7.6326265"
+       fill="#cccccc"
+       stroke="#6881b3"
+       stroke-width="7.63263"
+       pointer-events="all"
+       id="rect845"
+       style="display:inline"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       x="370.06961"
+       y="159.93623"
+       width="357.2926"
+       height="57.322582"
+       rx="7.6326265"
+       ry="7.6326265"
+       fill="#cccccc"
+       stroke="#6881b3"
+       stroke-width="7.63263"
+       pointer-events="all"
+       id="rect847"
+       style="display:inline"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       x="370.06961"
+       y="93.072777"
+       width="357.2926"
+       height="57.322582"
+       rx="7.6326265"
+       ry="7.6326265"
+       fill="#cccccc"
+       stroke="#6881b3"
+       stroke-width="7.63263"
+       pointer-events="all"
+       id="rect849"
+       style="display:inline"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 385.95792,85.440252 83.37476,-49.68996 h 158.76644 l 83.37474,49.68996 z"
+       fill="#cccccc"
+       stroke="#6881b3"
+       stroke-width="7.63263"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path851"
+       style="display:inline"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       cx="695.58569"
+       cy="389.22659"
+       rx="15.879251"
+       ry="15.285634"
+       fill="#ffffff"
+       stroke="none"
+       pointer-events="all"
+       id="ellipse853"
+       style="display:inline;stroke-width:3.8942"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       cx="694.30054"
+       cy="322.36319"
+       rx="15.879251"
+       ry="15.285634"
+       fill="#ffffff"
+       stroke="none"
+       pointer-events="all"
+       id="ellipse855"
+       style="display:inline;stroke-width:3.8942"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       cx="695.58569"
+       cy="255.49992"
+       rx="15.879251"
+       ry="15.285634"
+       fill="#ffffff"
+       stroke="none"
+       pointer-events="all"
+       id="ellipse857"
+       style="display:inline;stroke-width:3.8942"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       cx="695.58569"
+       cy="188.59764"
+       rx="15.879251"
+       ry="15.285634"
+       fill="#ffffff"
+       stroke="none"
+       pointer-events="all"
+       id="ellipse859"
+       style="display:inline;stroke-width:3.8942"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       cx="695.58569"
+       cy="121.73412"
+       rx="15.879251"
+       ry="15.285634"
+       fill="#ffffff"
+       stroke="none"
+       pointer-events="all"
+       id="ellipse861"
+       style="display:inline;stroke-width:3.8942"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 389.93,410.25524 19.82147,-42.05733 h 19.8604 l -19.8604,42.05733 z m 39.68187,0 19.86041,-42.05733 h 19.8604 l -19.8604,42.05733 z m 39.72081,0 19.82147,-42.05733 h 19.8604 l -19.8604,42.05733 z m 39.68187,0 19.86041,-42.05733 h 19.82146 l -19.82146,42.05733 z m 39.68187,0 19.8604,-42.05733 h 19.8604 l -19.8604,42.05733 z m 39.7208,0 19.8604,-42.05733 h 19.8215 l -19.8215,42.05733 z M 389.93,343.39187 409.75147,301.33454 h 19.8604 l -19.8604,42.05733 z m 39.68187,0 19.86041,-42.05733 h 19.8604 l -19.8604,42.05733 z m 39.72081,0 19.82147,-42.05733 h 19.8604 l -19.8604,42.05733 z m 39.68187,0 19.86041,-42.05733 h 19.82146 l -19.82146,42.05733 z m 39.68187,0 19.8604,-42.05733 h 19.8604 l -19.8604,42.05733 z m 39.7208,0 19.8604,-42.05733 h 19.8215 l -19.8215,42.05733 z M 389.93,276.48956 409.75147,234.47118 h 19.8604 l -19.8604,42.01838 z m 39.68187,0 19.86041,-42.01838 h 19.8604 l -19.8604,42.01838 z m 39.72081,0 17.83543,-42.01838 h 19.8604 l -19.8604,42.01838 z m 39.68187,0 19.86041,-42.01838 h 19.82146 l -19.82146,42.01838 z m 39.68187,0 19.8604,-42.01838 h 19.8604 l -19.8604,42.01838 z m 39.7208,0 19.8604,-42.01838 h 19.8215 l -19.8215,42.01838 z M 389.93,209.6262 409.75147,167.60781 h 19.8604 l -19.8604,42.01839 z m 39.68187,0 19.86041,-42.01839 h 19.8604 l -19.8604,42.01839 z m 39.72081,0 19.82147,-42.01839 h 19.8604 l -19.8604,42.01839 z m 39.68187,0 19.86041,-42.01839 h 19.82146 l -19.82146,42.01839 z m 39.68187,0 19.8604,-42.01839 h 19.8604 l -19.8604,42.01839 z m 39.7208,0 19.8604,-42.01839 h 19.8215 l -19.8215,42.01839 z M 389.93,142.76283 409.75147,100.7055 h 19.8604 l -19.8604,42.05733 z m 39.68187,0 19.86041,-42.05733 h 19.8604 l -19.8604,42.05733 z m 39.72081,0 19.82147,-42.05733 h 19.8604 l -19.8604,42.05733 z m 39.68187,0 19.86041,-42.05733 h 19.82146 l -19.82146,42.05733 z m 39.68187,0 19.8604,-42.05733 h 19.8604 l -19.8604,42.05733 z m 39.7208,0 19.8604,-42.05733 h 19.8215 l -19.8215,42.05733 z"
+       fill="#ffffff"
+       stroke="none"
+       pointer-events="all"
+       id="path863"
+       style="display:inline;stroke-width:3.8942"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/redundancia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
