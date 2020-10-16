@@ -1,0 +1,2173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   viewBox="0 0 740.74775 449.14297"
+   version="1.1"
+   sodipodi:docname="rendimiento.svg.2020_10_16_17_42_27.0.svg"
+   width="740.74774"
+   height="449.14297"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     id="namedview98"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.98419249"
+     inkscape:cx="301.3451"
+     inkscape:cy="174.77598"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3749"
+       x1="276.98001"
+       gradientUnits="userSpaceOnUse"
+       y1="463.79001"
+       gradientTransform="matrix(0.94806833,0,0,0.94806833,-16.799506,-49.16156)"
+       x2="360"
+       y2="304.04999">
+      <stop
+         id="stop3755"
+         stop-color="#2e3436"
+         offset="0" />
+      <stop
+         id="stop3757"
+         stop-color="#555753"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4030"
+       x1="373.78"
+       gradientUnits="userSpaceOnUse"
+       y1="983.84003"
+       gradientTransform="matrix(1.0856283,0,0,1.0856283,-54.259116,-549.42775)"
+       x2="335.56"
+       y2="706.15997">
+      <stop
+         id="stop3721"
+         stop-color="#2e3436"
+         stop-opacity=".75096"
+         offset="0" />
+      <stop
+         id="stop3723"
+         stop-color="#2e3436"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4284"
+       y2="575.35999"
+       gradientUnits="userSpaceOnUse"
+       y1="293.56"
+       x2="488"
+       x1="279"
+       gradientTransform="matrix(1.0856283,0,0,1.0856283,-67.286656,-111.91956)">
+      <stop
+         id="stop4280"
+         stop-color="#888a85"
+         offset="0" />
+      <stop
+         id="stop4282"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4330"
+       y2="434.35001"
+       gradientUnits="userSpaceOnUse"
+       y1="114.74"
+       x2="358.64999"
+       x1="345.07001">
+      <stop
+         id="stop4326"
+         stop-color="#fff"
+         stop-opacity=".90421"
+         offset="0" />
+      <stop
+         id="stop4328"
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <filter
+       id="filter4336"
+       width="1.2627"
+       y="-0.13131"
+       x="-0.13133"
+       height="1.2625999"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4338"
+         stdDeviation="10.133756" />
+    </filter>
+    <linearGradient
+       id="linearGradient4330-3"
+       y2="434.35001"
+       gradientUnits="userSpaceOnUse"
+       y1="114.74"
+       x2="358.64999"
+       x1="345.07001">
+      <stop
+         id="stop4326-6"
+         stop-color="#fff"
+         stop-opacity=".90421"
+         offset="0" />
+      <stop
+         id="stop4328-7"
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <filter
+       id="filter4336-5"
+       width="1.2627"
+       y="-0.13131"
+       x="-0.13133"
+       height="1.2625999"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4338-3"
+         stdDeviation="10.133756" />
+    </filter>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1086"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1080"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1086-3"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send-5-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1086-3-2"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1086-1"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata95">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>speedometer</dc:title>
+        <dc:date>2010-12-08T20:58:36</dc:date>
+        <dc:description>car, clip art, clipart, dial, gauge, hour, kilometers, miles, speed, speedometer, velocity, </dc:description>
+        <dc:source>http://openclipart.org/detail/99937/speedometer-by-rg1024</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>rg1024</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>car</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>dial</rdf:li>
+            <rdf:li>gauge</rdf:li>
+            <rdf:li>hour</rdf:li>
+            <rdf:li>kilometers</rdf:li>
+            <rdf:li>miles</rdf:li>
+            <rdf:li>speed</rdf:li>
+            <rdf:li>speedometer</rdf:li>
+            <rdf:li>velocity</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     style="display:inline"
+     transform="translate(50.320217,15.97863)">
+    <rect
+       style="fill:none;stroke-width:2.41554;stroke-linecap:round"
+       id="rect1295"
+       width="740.74774"
+       height="449.14297"
+       x="-50.320217"
+       y="-15.97863"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="matrix(0,11.93866,-11.93866,0,617.62015,-136.19449)"
+       id="g420"
+       style="stroke-width:0"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(0.5,0,0,0.5,12.5504,12.5504)"
+         id="g418"
+         style="stroke-width:0">
+        <g
+           transform="rotate(180,47.78065,8.09035)"
+           id="g8"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="7.5942702"
+             height="0.99212402"
+             id="rect6"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,9.50765)"
+           id="g12"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="9.01159"
+             height="0.99212402"
+             id="rect10"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,10.925)"
+           id="g16"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="10.4289"
+             height="0.99212402"
+             id="rect14"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,12.34235)"
+           id="g20"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="11.8462"
+             height="0.99212402"
+             id="rect18"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,13.75965)"
+           id="g24"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="13.2636"
+             height="0.99212402"
+             id="rect22"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,15.177)"
+           id="g28"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="14.6809"
+             height="0.99212402"
+             id="rect26"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,16.5943)"
+           id="g32"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="16.098301"
+             height="0.99212402"
+             id="rect30"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,18.01165)"
+           id="g36"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="17.5156"
+             height="0.99212402"
+             id="rect34"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,19.42895)"
+           id="g40"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="18.932899"
+             height="0.99212402"
+             id="rect38"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,20.84625)"
+           id="g44"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="20.350201"
+             height="0.99212402"
+             id="rect42"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,22.2636)"
+           id="g48"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="21.7675"
+             height="0.99212402"
+             id="rect46"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,23.6809)"
+           id="g52"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="23.1849"
+             height="0.99212402"
+             id="rect50"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,25.09825)"
+           id="g56"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="24.6022"
+             height="0.99212402"
+             id="rect54"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,26.51555)"
+           id="g60"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="26.019501"
+             height="0.99212402"
+             id="rect58"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,27.93285)"
+           id="g64"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="27.4368"
+             height="0.99212402"
+             id="rect62"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,29.3502)"
+           id="g68"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="28.854099"
+             height="0.99212402"
+             id="rect66"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,30.76755)"
+           id="g72"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="30.2715"
+             height="0.99212402"
+             id="rect70"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,32.18485)"
+           id="g76"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="31.688801"
+             height="0.99212402"
+             id="rect74"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,33.6022)"
+           id="g80"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="33.106098"
+             height="0.99212402"
+             id="rect78"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,35.0195)"
+           id="g84"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="34.523399"
+             height="0.99212402"
+             id="rect82"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,36.4367)"
+           id="g88"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="35.940701"
+             height="0.99212402"
+             id="rect86"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,37.854)"
+           id="g92"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="37.358101"
+             height="0.99212402"
+             id="rect90"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,39.2713)"
+           id="g96"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="38.775398"
+             height="0.99212402"
+             id="rect94"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,40.68865)"
+           id="g100"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="40.192699"
+             height="0.99212402"
+             id="rect98"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,47.78065,42.10595)"
+           id="g104"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="45.6548"
+             y="41.610001"
+             height="0.99212402"
+             id="rect102"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,42.11135,47.77525)"
+           id="g108"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="41.615398"
+             y="45.649399"
+             height="4.2519698"
+             id="rect106"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,40.69405,47.77525)"
+           id="g112"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="40.198101"
+             y="45.649399"
+             height="4.2519698"
+             id="rect110"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,39.2767,47.77525)"
+           id="g116"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="38.7808"
+             y="45.649399"
+             height="4.2519698"
+             id="rect114"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,37.8594,47.77525)"
+           id="g120"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="37.363499"
+             y="45.649399"
+             height="4.2519698"
+             id="rect118"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,36.4421,47.77525)"
+           id="g124"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="35.946098"
+             y="45.649399"
+             height="4.2519698"
+             id="rect122"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,35.02485,47.77525)"
+           id="g128"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="34.528801"
+             y="45.649399"
+             height="4.2519698"
+             id="rect126"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,33.60755,47.77525)"
+           id="g132"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="33.1115"
+             y="45.649399"
+             height="4.2519698"
+             id="rect130"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,32.19025,47.77525)"
+           id="g136"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="31.694201"
+             y="45.649399"
+             height="4.2519698"
+             id="rect134"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,30.7729,47.77525)"
+           id="g140"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="30.276899"
+             y="45.649399"
+             height="4.2519698"
+             id="rect138"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,29.3556,47.77525)"
+           id="g144"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="28.859501"
+             y="45.649399"
+             height="4.2519698"
+             id="rect142"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,27.93825,47.77525)"
+           id="g148"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="27.4422"
+             y="45.649399"
+             height="4.2519698"
+             id="rect146"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,26.52095,47.77525)"
+           id="g152"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="26.0249"
+             y="45.649399"
+             height="4.2519698"
+             id="rect150"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,25.10365,47.77525)"
+           id="g156"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="24.607599"
+             y="45.649399"
+             height="4.2519698"
+             id="rect154"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,23.6863,47.77525)"
+           id="g160"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="23.1903"
+             y="45.649399"
+             height="4.2519698"
+             id="rect158"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,22.269,47.77525)"
+           id="g164"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="21.7729"
+             y="45.649399"
+             height="4.2519698"
+             id="rect162"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,20.85165,47.77525)"
+           id="g168"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="20.3556"
+             y="45.649399"
+             height="4.2519698"
+             id="rect166"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,19.43435,47.77525)"
+           id="g172"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="18.9382"
+             y="45.649399"
+             height="4.2519698"
+             id="rect170"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,18.017,47.77525)"
+           id="g176"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="17.520901"
+             y="45.649399"
+             height="4.2519698"
+             id="rect174"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,16.59965,47.77525)"
+           id="g180"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="16.1036"
+             y="45.649399"
+             height="4.2519698"
+             id="rect178"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,15.18235,47.77525)"
+           id="g184"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="14.6863"
+             y="45.649399"
+             height="4.2519698"
+             id="rect182"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,13.76505,47.77525)"
+           id="g188"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="13.269"
+             y="45.649399"
+             height="4.2519698"
+             id="rect186"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,12.3477,47.77525)"
+           id="g192"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="11.8516"
+             y="45.649399"
+             height="4.2519698"
+             id="rect190"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,10.9304,47.77525)"
+           id="g196"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="10.4343"
+             y="45.649399"
+             height="4.2519698"
+             id="rect194"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,9.51305,47.77525)"
+           id="g200"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="9.0169897"
+             y="45.649399"
+             height="4.2519698"
+             id="rect198"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,8.09575,47.77525)"
+           id="g204"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="7.5996699"
+             y="45.649399"
+             height="4.2519698"
+             id="rect202"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,42.10595)"
+           id="g208"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="41.610001"
+             height="0.99212402"
+             id="rect206"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,40.68865)"
+           id="g212"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="40.192699"
+             height="0.99212402"
+             id="rect210"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,39.2713)"
+           id="g216"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="38.775398"
+             height="0.99212402"
+             id="rect214"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,37.854)"
+           id="g220"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="37.358101"
+             height="0.99212402"
+             id="rect218"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,36.4367)"
+           id="g224"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="35.940701"
+             height="0.99212402"
+             id="rect222"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,35.0195)"
+           id="g228"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="34.523399"
+             height="0.99212402"
+             id="rect226"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,33.6022)"
+           id="g232"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="33.106098"
+             height="0.99212402"
+             id="rect230"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,32.18485)"
+           id="g236"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="31.688801"
+             height="0.99212402"
+             id="rect234"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,30.76755)"
+           id="g240"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="30.2715"
+             height="0.99212402"
+             id="rect238"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,29.3502)"
+           id="g244"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="28.854099"
+             height="0.99212402"
+             id="rect242"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,27.93285)"
+           id="g248"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="27.4368"
+             height="0.99212402"
+             id="rect246"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,26.51555)"
+           id="g252"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="26.019501"
+             height="0.99212402"
+             id="rect250"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,25.09825)"
+           id="g256"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="24.6022"
+             height="0.99212402"
+             id="rect254"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,23.6809)"
+           id="g260"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="23.1849"
+             height="0.99212402"
+             id="rect258"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,22.2636)"
+           id="g264"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="21.7675"
+             height="0.99212402"
+             id="rect262"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,20.84625)"
+           id="g268"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="20.350201"
+             height="0.99212402"
+             id="rect266"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,19.42895)"
+           id="g272"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="18.932899"
+             height="0.99212402"
+             id="rect270"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,18.01165)"
+           id="g276"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="17.5156"
+             height="0.99212402"
+             id="rect274"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,16.5943)"
+           id="g280"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="16.098301"
+             height="0.99212402"
+             id="rect278"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,15.177)"
+           id="g284"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="14.6809"
+             height="0.99212402"
+             id="rect282"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,13.75965)"
+           id="g288"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="13.2636"
+             height="0.99212402"
+             id="rect286"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,12.34235)"
+           id="g292"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="11.8462"
+             height="0.99212402"
+             id="rect290"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,10.925)"
+           id="g296"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="10.4289"
+             height="0.99212402"
+             id="rect294"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,9.50765)"
+           id="g300"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="9.01159"
+             height="0.99212402"
+             id="rect298"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,2.42646,8.09035)"
+           id="g304"
+           style="stroke-width:0">
+          <rect
+             width="4.2519698"
+             x="0.300473"
+             y="7.5942702"
+             height="0.99212402"
+             id="rect302"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,8.09575,2.42107)"
+           id="g308"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="7.5996699"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect306"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,9.51305,2.42107)"
+           id="g312"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="9.0169897"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect310"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,10.9304,2.42107)"
+           id="g316"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="10.4343"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect314"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,12.3477,2.42107)"
+           id="g320"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="11.8516"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect318"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,13.76505,2.42107)"
+           id="g324"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="13.269"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect322"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,15.18235,2.42107)"
+           id="g328"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="14.6863"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect326"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,16.59965,2.42107)"
+           id="g332"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="16.1036"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect330"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,18.017,2.42107)"
+           id="g336"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="17.520901"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect334"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,19.43435,2.42107)"
+           id="g340"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="18.9382"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect338"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,20.85165,2.42107)"
+           id="g344"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="20.3556"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect342"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,22.269,2.42107)"
+           id="g348"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="21.7729"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect346"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,23.6863,2.42107)"
+           id="g352"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="23.1903"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect350"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,25.10365,2.42107)"
+           id="g356"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="24.607599"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect354"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,26.52095,2.42107)"
+           id="g360"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="26.0249"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect358"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,27.93825,2.42107)"
+           id="g364"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="27.4422"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect362"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,29.3556,2.42107)"
+           id="g368"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="28.859501"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect366"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,30.7729,2.42107)"
+           id="g372"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="30.276899"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect370"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,32.19025,2.42107)"
+           id="g376"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="31.694201"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect374"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,33.60755,2.42107)"
+           id="g380"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="33.1115"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect378"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,35.02485,2.42107)"
+           id="g384"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="34.528801"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect382"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,36.4421,2.42107)"
+           id="g388"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="35.946098"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect386"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,37.8594,2.42107)"
+           id="g392"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="37.363499"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect390"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,39.2767,2.42107)"
+           id="g396"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="38.7808"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect394"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,40.69405,2.42107)"
+           id="g400"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="40.198101"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect398"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <g
+           transform="rotate(180,42.11135,2.42107)"
+           id="g404"
+           style="stroke-width:0">
+          <rect
+             width="0.99212402"
+             x="41.615398"
+             y="0.29508701"
+             height="4.2519698"
+             id="rect402"
+             style="fill:#8c8c8c;stroke:none;stroke-width:0" />
+        </g>
+        <rect
+           width="39.685001"
+           x="5.2582698"
+           y="5.2582698"
+           height="39.685001"
+           id="rect406"
+           style="fill:#303030;stroke:none;stroke-width:0" />
+        <polygon
+           points="5.25827,5.25827 44.9433,5.25827 44.2233,5.97827 5.97827,5.97827 "
+           id="polygon408"
+           style="fill:#1f1f1f;stroke-width:0" />
+        <polygon
+           points="5.25827,44.9433 44.9433,44.9433 44.2233,44.2233 5.97827,44.2233 "
+           id="polygon410"
+           style="fill:#1f1f1f;stroke-width:0" />
+        <polygon
+           points="5.25827,5.25827 5.25827,44.9433 5.97827,44.2233 5.97827,5.97827 "
+           id="polygon412"
+           style="fill:#000000;stroke-width:0" />
+        <polygon
+           points="44.9433,5.25827 44.9433,44.9433 44.2233,44.2233 44.2233,5.97827 "
+           id="polygon414"
+           style="fill:#3d3d3d;stroke-width:0" />
+        <circle
+           cx="7.4182301"
+           cy="42.783298"
+           r="0.72000003"
+           id="circle416"
+           style="fill:#1f1f1f;stroke:none;stroke-width:0" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.3695px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.05172"
+       x="250.28104"
+       y="130.70616"
+       id="text5461"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5459"
+         x="250.28104"
+         y="130.70616"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#ffff00;stroke-width:2.05172">CPU</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="middle"
+     style="display:inline"
+     transform="translate(50.320217,15.97863)">
+    <path
+       id="path2816"
+       style="color:#000000"
+       d="m 323.53952,210.44689 c -100.04498,0 -181.16964,81.08449 -181.16964,181.12622 0,9.07325 0.67995,17.98452 1.9677,26.69995 h 358.3876 c 1.28777,-8.71521 1.9677,-17.62627 1.9677,-26.69995 0.0217,-100.04064 -81.10728,-181.12622 -181.14793,-181.12622 z"
+       fill-rule="evenodd"
+       stroke="#000000"
+       stroke-width="0.990657px"
+       fill="#382509"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path3688"
+       style="color:#000000;text-indent:0;text-transform:none;fill:url(#linearGradient4284);stroke-width:1.08563"
+       fill-rule="evenodd"
+       fill="url(#linearGradient4284)"
+       d="m 323.53952,206.77747 c -102.02517,0 -184.82821,82.76939 -184.82821,184.79564 0,9.06869 0.66997,17.9791 1.93372,26.69995 h 7.66725 c -1.31393,-8.70869 -2.03555,-17.62301 -2.03555,-26.69995 0,-97.94537 79.316,-177.26138 177.26138,-177.26138 97.94213,0 177.26139,79.32143 177.26139,177.26138 0,9.07662 -0.72162,17.99104 -2.03556,26.69995 h 7.66725 c 1.27019,-8.71759 1.94328,-17.6306 1.94328,-26.6956 0,-102.02734 -82.80087,-184.79565 -184.82822,-184.79565 z"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path3694"
+       style="color:#000000;fill:#808080"
+       d="m 324.49488,217.1995 c -95.74482,0 -173.36398,77.61699 -173.36398,173.36398 0,9.44008 0.78707,18.68692 2.23911,27.71718 h 342.30945 c 1.45148,-9.02885 2.17125,-18.27981 2.17125,-27.71718 0,-95.74482 -77.61699,-173.36398 -173.36398,-173.36398 z"
+       fill-rule="evenodd"
+       stroke="#000000"
+       stroke-width="0.948071px"
+       fill="url(#linearGradient3749)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path3710"
+       style="color:#000000;fill:url(#linearGradient4030);stroke-width:1.08563"
+       fill-rule="evenodd"
+       fill="url(#linearGradient4030)"
+       d="m 424.02527,271.48092 c -95.62322,0 -176.90312,61.32714 -206.6819,146.79865 h 278.28995 c 1.4504,-9.0257 2.20512,-18.28306 2.20512,-27.71717 0,-45.25008 -17.33857,-86.44424 -45.73209,-117.31299 -9.19245,-1.17737 -18.57836,-1.76415 -28.09063,-1.76415 z"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="flowRoot3759"
+       transform="matrix(1.2523808,0,0,1.2523808,-64.588536,97.41129)"
+       fill="#ffffff"
+       style="fill:#ff9955"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path4375"
+         d="m 292.08,129.36 1.4,-1.675 h 0.05 v 12.45 h 2.95 v -16.75 h -2.4 l -3.625,4.3 1.625,1.675"
+         style="fill:#ff9955" />
+      <path
+         id="path4377"
+         d="m 305.54,128.66 c 0,-1.75 0.875,-3.225 2.75,-3.225 1.6,0 2.675,1.25 2.675,2.65 0,4.55 -7.925,5.5 -8.375,12.05 h 11.225 v -2.6 h -7.175 c 1.6,-2.55 7.625,-5 7.625,-9.4 0,-3.4 -2.625,-5.2 -5.925,-5.2 -3.25,0 -5.65,1.675 -5.85,5.725 h 3.05"
+         style="fill:#ff9955" />
+      <path
+         id="path4379"
+         d="m 322.41,125.44 c 2,0 2.925,1.6 2.925,6.325 0,4.725 -0.925,6.325 -2.925,6.325 -2,0 -2.925,-1.6 -2.925,-6.325 0,-4.725 0.925,-6.325 2.925,-6.325 m -6.225,6.325 c 0,6.125 2.575,8.825 6.225,8.825 3.65,0 6.225,-2.7 6.225,-8.825 0,-6.125 -2.575,-8.825 -6.225,-8.825 -3.65,0 -6.225,2.7 -6.225,8.825"
+         style="fill:#ff9955" />
+    </g>
+    <g
+       id="flowRoot3787"
+       transform="matrix(1.2523808,0,0,1.2523808,-126.03108,113.2506)"
+       fill="#ffffff"
+       style="fill:#b3ff80"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path4382"
+         d="m 301.53,125.44 c 1.425,0 2.625,0.925 2.625,2.425 0,1.55 -1.25,2.375 -2.625,2.375 -1.425,0 -2.625,-0.825 -2.625,-2.375 0,-1.5 1.15,-2.425 2.575,-2.425 h 0.05 m 0,-2.5 c -2.625,0 -5.675,1.625 -5.675,4.45 0,1.95 0.75001,3.425 2.75,3.875 v 0.05 c -1.975,0.425 -3.125,1.975 -3.125,4.025 0,3.25 2.45,5.25 6.05,5.25 3.6,0 6.05,-2 6.05,-5.25 0,-2.05 -1.15,-3.6 -3.125,-4.025 v -0.05 c 2,-0.45 2.75,-1.925 2.75,-3.875 0,-2.825 -3.05,-4.45 -5.675,-4.45 m 0,9.5 c 1.5,0 2.85,0.85 2.85,2.7 0,2 -1.15,2.95 -2.85,2.95 -1.75,0 -2.85,-0.95 -2.85,-2.95 0,-1.85 1.3,-2.7 2.8,-2.7 h 0.05"
+         style="fill:#b3ff80" />
+      <path
+         id="path4384"
+         d="m 315.45,125.44 c 2,0 2.925,1.6 2.925,6.325 0,4.725 -0.925,6.325 -2.925,6.325 -2,0 -2.925,-1.6 -2.925,-6.325 0,-4.725 0.925,-6.325 2.925,-6.325 m -6.225,6.325 c 0,6.125 2.575,8.825 6.225,8.825 3.65,0 6.225,-2.7 6.225,-8.825 0,-6.125 -2.575,-8.825 -6.225,-8.825 -3.65,0 -6.225,2.7 -6.225,8.825"
+         style="fill:#b3ff80" />
+    </g>
+    <g
+       id="flowRoot3805"
+       transform="matrix(1.2523808,0,0,1.2523808,-163.45269,155.67695)"
+       fill="#ffffff"
+       style="fill:#66ff00"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path4387"
+         d="m 305.86,123.39 h -3.175 l -7.475,9.45 v 2.675 h 7.7 v 4.625 h 2.95 v -4.575 h 2.125 v -2.55 h -2.125 v -9.625 m -2.95,9.625 h -4.75 l 4.7,-6.225 h 0.05 v 6.225"
+         style="fill:#66ff00" />
+      <path
+         id="path4389"
+         d="m 315.45,125.44 c 2,0 2.925,1.6 2.925,6.325 0,4.725 -0.925,6.325 -2.925,6.325 -2,0 -2.925,-1.6 -2.925,-6.325 0,-4.725 0.925,-6.325 2.925,-6.325 m -6.225,6.325 c 0,6.125 2.575,8.825 6.225,8.825 3.65,0 6.225,-2.7 6.225,-8.825 0,-6.125 -2.575,-8.825 -6.225,-8.825 -3.65,0 -6.225,2.7 -6.225,8.825"
+         style="fill:#66ff00" />
+    </g>
+    <g
+       id="flowRoot3823"
+       transform="matrix(1.2523808,0,0,1.2523808,-7.0473063,112.91406)"
+       fill="#ffffff"
+       style="fill:#ff6600"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path4368"
+         d="m 292.08,129.36 1.4,-1.675 h 0.05 v 12.45 h 2.95 v -16.75 h -2.4 l -3.625,4.3 1.625,1.675"
+         style="fill:#ff6600" />
+      <path
+         id="path4370"
+         d="m 305.97,134.76 c 0,-1.9 0.875,-3.575 2.825,-3.575 1.95,0 2.825,1.675 2.825,3.575 0,1.825 -0.875,3.325 -2.825,3.325 -1.95,0 -2.825,-1.5 -2.825,-3.325 m 8.5,-7.3 c -0.6,-2.95 -2.4,-4.525 -5.425,-4.525 -5.275,0 -6.475,5.15 -6.475,9.475 0,7.275 4.225,8.175 6.325,8.175 3.35,0 5.875,-2.55 5.875,-5.9 0,-4.5 -3.075,-5.75 -5.3,-5.75 -1.675,0 -2.8,0.6 -3.85,2.5 h -0.05 c -0.125,-1.95 0.50001,-6 3.575,-6 1.375,0 1.9,0.8 2.25,2.025 h 3.075"
+         style="fill:#ff6600" />
+      <path
+         id="path4372"
+         d="m 322.41,125.44 c 2,0 2.925,1.6 2.925,6.325 0,4.725 -0.925,6.325 -2.925,6.325 -2,0 -2.925,-1.6 -2.925,-6.325 0,-4.725 0.925,-6.325 2.925,-6.325 m -6.225,6.325 c 0,6.125 2.575,8.825 6.225,8.825 3.65,0 6.225,-2.7 6.225,-8.825 0,-6.125 -2.575,-8.825 -6.225,-8.825 -3.65,0 -6.225,2.7 -6.225,8.825"
+         style="fill:#ff6600" />
+    </g>
+    <g
+       id="flowRoot3841"
+       transform="matrix(1.2523808,0,0,1.2523808,36.105324,154.45019)"
+       fill="#ffffff"
+       style="fill:#ff0000"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path4392"
+         d="m 291.63,128.66 c 0,-1.75 0.875,-3.225 2.75,-3.225 1.6,0 2.675,1.25 2.675,2.65 0,4.55 -7.925,5.5 -8.375,12.05 h 11.225 v -2.6 h -7.175 c 1.6,-2.55 7.625,-5 7.625,-9.4 0,-3.4 -2.625,-5.2 -5.925,-5.2 -3.25,0 -5.65,1.675 -5.85,5.725 h 3.05"
+         style="fill:#ff0000" />
+      <path
+         id="path4394"
+         d="m 308.49,125.44 c 2,0 2.925,1.6 2.925,6.325 0,4.725 -0.925,6.325 -2.925,6.325 -2,0 -2.925,-1.6 -2.925,-6.325 0,-4.725 0.925,-6.325 2.925,-6.325 m -6.225,6.325 c 0,6.125 2.575,8.825 6.225,8.825 3.65,0 6.225,-2.7 6.225,-8.825 0,-6.125 -2.575,-8.825 -6.225,-8.825 -3.65,0 -6.225,2.7 -6.225,8.825"
+         style="fill:#ff0000" />
+      <path
+         id="path4396"
+         d="m 322.41,125.44 c 2,0 2.925,1.6 2.925,6.325 0,4.725 -0.925,6.325 -2.925,6.325 -2,0 -2.925,-1.6 -2.925,-6.325 0,-4.725 0.925,-6.325 2.925,-6.325 m -6.225,6.325 c 0,6.125 2.575,8.825 6.225,8.825 3.65,0 6.225,-2.7 6.225,-8.825 0,-6.125 -2.575,-8.825 -6.225,-8.825 -3.65,0 -6.225,2.7 -6.225,8.825"
+         style="fill:#ff0000" />
+    </g>
+    <g
+       id="g4061"
+       transform="matrix(1.0856283,0,0,1.0856283,-67.286646,-111.91956)"
+       style="fill:#ffe680"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4057"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#ffe680" />
+    </g>
+    <g
+       id="g4065"
+       transform="matrix(0.94018664,0.54281413,-0.54281413,0.94018664,236.10302,-240.58822)"
+       style="fill:#ffd42a"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4067"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#ffd42a" />
+    </g>
+    <g
+       id="g4071"
+       transform="matrix(0.54281413,0.94018664,-0.94018664,0.54281413,563.1811,-200.31684)"
+       style="fill:#ff6600"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4073"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#ff6600" />
+    </g>
+    <g
+       id="g4077"
+       transform="matrix(0.94018664,-0.54281413,0.54281413,0.94018664,-265.69607,151.20416)"
+       style="fill:#ccffaa"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4079"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#ccffaa" />
+    </g>
+    <g
+       id="g4083"
+       transform="matrix(0.54281413,-0.94018664,0.94018664,0.54281413,-305.97289,478.28224)"
+       style="fill:#66ff00"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4085"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#66ff00" />
+    </g>
+    <g
+       id="g4107"
+       transform="matrix(0.53816764,-0.07085136,0.14170706,1.0763353,63.433854,-82.05718)"
+       style="fill:#ffeeaa"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4109"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#ffeeaa" />
+    </g>
+    <g
+       id="g4113"
+       transform="matrix(0.52431503,-0.14049116,0.28098231,1.0486409,4.0499837,-44.1199)"
+       style="fill:#ffeeaa"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4115"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#ffeeaa" />
+    </g>
+    <g
+       id="g4119"
+       transform="matrix(0.50149512,-0.20772411,0.41544823,1.0029902,-49.869916,1.2463296)"
+       style="fill:#e5ffd5"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4121"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#e5ffd5" />
+    </g>
+    <g
+       id="g4125"
+       transform="matrix(0.43064702,-0.33044353,0.66088708,0.8612832,-137.74719,111.02506)"
+       style="fill:#b3ff80"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4127"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#b3ff80" />
+    </g>
+    <g
+       id="g4131"
+       transform="matrix(0.38382387,-0.38382387,0.76765861,0.76765861,-170.20204,173.57896)"
+       style="fill:#b3ff80"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4133"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#b3ff80" />
+    </g>
+    <g
+       id="g4137"
+       transform="matrix(0.33044353,-0.43064702,0.8612832,0.66088708,-194.21831,239.82399)"
+       style="fill:#99ff55"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4139"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#99ff55" />
+    </g>
+    <g
+       id="g4143"
+       transform="matrix(0.53816764,0.07085136,-0.14170706,1.0763353,194.42575,-133.1957)"
+       style="fill:#ffdd55"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4145"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#ffdd55" />
+    </g>
+    <g
+       id="g4149"
+       transform="matrix(0.52431503,0.14049116,-0.28098231,1.0486409,263.80825,-145.52193)"
+       style="fill:#ffe680"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4151"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#ffe680" />
+    </g>
+    <g
+       id="g4155"
+       transform="matrix(0.50149512,0.20772411,-0.41544823,1.0029902,334.20039,-148.68762)"
+       style="fill:#ffd42a"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4157"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#ffd42a" />
+    </g>
+    <g
+       id="g4161"
+       transform="matrix(0.43064702,0.33044353,-0.66088708,0.8612832,473.21509,-127.47661)"
+       style="fill:#ffcc00"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4163"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#ffcc00" />
+    </g>
+    <g
+       id="g4167"
+       transform="matrix(0.38382387,0.38382387,-0.76765861,0.76765861,539.46013,-103.46295)"
+       style="fill:#ff9955"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4169"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#ff9955" />
+    </g>
+    <g
+       id="g4173"
+       transform="matrix(0.33044353,0.43064702,-0.8612832,0.66088708,602.00317,-71.00766)"
+       style="fill:#ff7f2a"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4175"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#ff7f2a" />
+    </g>
+    <g
+       id="g4179"
+       transform="matrix(0.20772411,0.50149512,-1.0029902,0.41544823,711.79275,16.86852)"
+       style="fill:#d45500"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4181"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#d45500" />
+    </g>
+    <g
+       id="g4185"
+       transform="matrix(0.20772411,-0.50149512,1.0029902,0.41544823,-215.43148,378.8387)"
+       style="fill:#66ff00"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4187"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#66ff00" />
+    </g>
+    <g
+       id="g4191"
+       transform="matrix(0.14049116,-0.52431503,1.0486409,0.28098231,-212.26145,449.23083)"
+       style="fill:#55d400"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4193"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#55d400" />
+    </g>
+    <rect
+       id="rect4199"
+       ry="1.2711567"
+       height="21.92091"
+       width="2.7140574"
+       y="201.80435"
+       x="-345.72546"
+       style="fill:#55d400;stroke-width:0.767652"
+       transform="matrix(0.13052664,-0.9914448,0.99144429,0.13053057,0,0)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       id="rect4201"
+       ry="1.2711567"
+       height="21.92091"
+       width="2.7140574"
+       y="518.80646"
+       x="-345.72546"
+       style="fill:#ff0000;stroke-width:0.767652"
+       transform="matrix(0.13052664,-0.9914448,0.99144429,0.13053057,0,0)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       id="rect4205"
+       ry="1.2711622"
+       height="21.921005"
+       width="5.4281416"
+       y="153.68214"
+       x="-391.23657"
+       style="fill:#44aa00;stroke-width:1.08563"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       id="rect4207"
+       ry="1.2711622"
+       height="21.921005"
+       width="5.4281416"
+       y="470.68561"
+       x="-391.23657"
+       style="fill:#c83737;stroke-width:1.08563"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4209"
+       transform="matrix(0.14049116,0.52431503,-1.0486409,0.28098231,757.15034,70.79168)"
+       style="fill:#d35f5f"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         id="rect4211"
+         ry="1.1709"
+         height="20.191999"
+         width="5"
+         y="306.13"
+         x="358.39001"
+         fill="#ffffff"
+         style="fill:#d35f5f" />
+    </g>
+    <rect
+       id="rect4217"
+       ry="1.2711567"
+       height="21.92091"
+       width="2.7140574"
+       y="-438.95892"
+       x="427.3732"
+       style="fill:#c83737;stroke-width:0.767652"
+       transform="matrix(0.13052664,0.9914448,-0.99144429,0.13053057,0,0)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       id="rect4219"
+       ry="1.2711567"
+       height="21.92091"
+       width="2.7140574"
+       y="-121.95684"
+       x="427.3732"
+       style="fill:#44aa00;stroke-width:0.767652"
+       transform="matrix(0.13052664,0.9914448,-0.99144429,0.13053057,0,0)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="rect4235"
+       fill="#ffffff"
+       d="m 229.17991,284.84115 1.19498,-0.90925 85.93721,106.28771 4.15478,10.19725 -3.0436,2.31588 -8.72046,-6.72366 -79.52444,-111.1691 z"
+       style="stroke-width:1.08563"
+       inkscape:transform-center-x="43.366686"
+       inkscape:transform-center-y="-60.12744"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path4344"
+       d="m 232.05771,283.07344 89.16996,117.18868 1.6175,-1.23076 -4.14417,-10.18151 -85.95172,-106.30443 -0.69322,0.52748 z"
+       style="stroke-width:1.08563"
+       inkscape:transform-center-x="40.738701"
+       inkscape:transform-center-y="-62.055994"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path4263"
+       d="m 229.44105,283.79407 89.16996,117.18867 1.61752,-1.23075 -4.1442,-10.1815 -85.9517,-106.30443 -0.69322,0.52747 z"
+       fill="#babdb6"
+       style="stroke-width:1.08563"
+       inkscape:transform-center-x="43.355344"
+       inkscape:transform-center-y="-61.335361"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="display:inline"
+     transform="translate(50.320215,-12.624185)">
+    <path
+       id="path4316"
+       filter="url(#filter4336)"
+       fill="url(#linearGradient4330)"
+       d="m 360.88,303.16 c -16.78,0 -32.962,2.6072 -48.156,7.4062 l -31.812,177.81 h 185.19 l -51.48,-175.94 c -16.797,-6.0037 -34.889,-9.2812 -53.75,-9.2812 z"
+       style="fill:url(#linearGradient4330-3);filter:url(#filter4336-5)"
+       transform="matrix(0.71356914,0,0,0.59163869,3.7235436,127.51219)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/rendimiento.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
