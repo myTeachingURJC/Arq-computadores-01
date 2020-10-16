@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1050.0145mm"
+   width="856.02698mm"
    height="334.18585mm"
-   viewBox="0 0 1050.0145 334.18585"
+   viewBox="0 0 856.02696 334.18585"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -232,10 +232,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="2024.9292"
-     inkscape:cy="658.24155"
+     inkscape:cx="1399.8646"
+     inkscape:cy="571.19407"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer4"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -264,15 +264,15 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="back"
-     transform="translate(513.60925,123.2888)">
+     transform="translate(471.74817,123.2888)">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.85118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect989"
-       width="1050.0145"
+       width="856.02698"
        height="334.18585"
-       x="-513.60925"
+       x="-471.74817"
        y="-123.2888"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/hw-sw-hierarchical.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -304,110 +304,98 @@
      id="layer2"
      inkscape:label="Layer 2"
      style="display:inline;opacity:1"
-     transform="translate(472.14216,41.105883)">
+     transform="translate(430.28108,41.105886)">
     <text
        id="text1711"
        y="-290.01559"
        x="-134.00485"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve" />
-    <g
-       id="g1214"
-       transform="translate(-14.445083)"
+    <path
+       inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-20-LAB-AO/wiki/L02/asm-01.png"
-         sodipodi:nodetypes="ccccc"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         d="m -190.5566,130.27836 v 41.70778 h 126.24376 v -41.70778 z"
-         id="path1736"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-20-LAB-AO/wiki/L02/asm-01.png"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:5.88768pt;stroke-opacity:1"
-         d="M -26.27789,151.12272 -77.2063,180.5611 v -58.87675 z"
-         id="path2173"
-         inkscape:connector-curvature="0" />
-      <text
-         transform="scale(0.99894541,1.0010557)"
-         id="text986-8-0-9-7-6-7"
-         y="154.96466"
-         x="-123.38021"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
-         xml:space="preserve"
-         inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-20-LAB-AO/wiki/L02/asm-01.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           id="tspan2216"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
-           y="154.96466"
-           x="-123.38021"
-           sodipodi:role="line">Compilador</tspan></text>
-    </g>
-    <g
-       id="g1214-5"
-       transform="translate(345.78413)"
-       style="display:inline;opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png"
+       sodipodi:nodetypes="ccccc"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m -211.4066,130.27836 v 41.70778 h 72.52388 v -41.70778 z"
+       id="path1736"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-20-LAB-AO/wiki/L02/asm-01.png"
-         sodipodi:nodetypes="ccccc"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         d="m -190.5566,130.27836 v 41.70778 h 126.24376 v -41.70778 z"
-         id="path1736-6"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-20-LAB-AO/wiki/L02/asm-01.png"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:5.88768pt;stroke-opacity:1"
-         d="M -26.27789,151.12272 -77.2063,180.5611 v -58.87675 z"
-         id="path2173-2"
-         inkscape:connector-curvature="0" />
-      <text
-         transform="scale(0.99894541,1.0010557)"
-         id="text986-8-0-9-7-6-7-9"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:5.88768pt;stroke-opacity:1"
+       d="m -110.08456,150.41697 -50.92841,29.43838 V 120.9786 Z"
+       id="path2173"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="scale(0.99894541,1.0010557)"
+       id="text986-8-0-9-7-6-7"
+       y="153.85847"
+       x="-165.44125"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan2216"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
+         y="153.85847"
+         x="-165.44125"
+         sodipodi:role="line">Compilador</tspan></text>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png"
+       sodipodi:nodetypes="ccccc"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 73.960889,130.27836 v 41.70778 h 71.992221 v -41.70778 z"
+       id="path1736-6"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:5.88768pt;stroke-opacity:1"
+       d="M 183.98806,151.12272 133.05965,180.5611 V 121.68435 Z"
+       id="path2173-2"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="scale(0.99894541,1.0010557)"
+       id="text986-8-0-9-7-6-7-9"
+       y="154.96466"
+       x="124.46464"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan2216-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
          y="154.96466"
-         x="-123.38021"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
-         xml:space="preserve"
-         inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-20-LAB-AO/wiki/L02/asm-01.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           id="tspan2216-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
-           y="154.96466"
-           x="-123.38021"
-           sodipodi:role="line">Ensamblador</tspan></text>
-    </g>
+         x="124.46464"
+         sodipodi:role="line">Ensamblador</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.9763px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.745792"
-       x="15.763467"
+       x="-58.683624"
        y="45.294159"
        id="text848-5"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png"><tspan
          sodipodi:role="line"
-         x="15.763467"
+         x="-58.683624"
          y="45.294159"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.745792"
          id="tspan898-6">Lenguaje</tspan><tspan
          sodipodi:role="line"
-         x="15.763467"
+         x="-58.683624"
          y="61.514534"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.745792"
          id="tspan928">Ensambaldor</tspan><tspan
          sodipodi:role="line"
-         x="15.763467"
+         x="-58.683624"
          y="77.734909"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.745792"
          id="tspan930">(Risc-V)</tspan></text>
@@ -416,19 +404,21 @@
        id="rect1060-6"
        width="174.86632"
        height="131.35895"
-       x="-27.658861"
+       x="-102.10596"
        y="90.435616"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.60356px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:74.1995;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-144.62131"
        y="63.456856"
        id="text848-3-9"
-       transform="matrix(2.8187454,0,0,2.8187454,409.05845,-79.229101)"
+       transform="matrix(2.8187454,0,0,2.8187454,334.61136,-79.229101)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png"><tspan
          x="-144.62131"
          y="63.456856"><tspan
            style="fill:#d45500;stroke-width:0.264583">
@@ -463,7 +453,8 @@
        y="59.067184"
        id="text848"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png"><tspan
          sodipodi:role="line"
          id="tspan846"
          x="-397.98608"
@@ -487,7 +478,8 @@
        x="-422.15225"
        y="104.66239"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.60356px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:74.1995;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -496,7 +488,8 @@
        id="text848-3"
        transform="matrix(2.8187454,0,0,2.8187454,-2.5629717,-32.858286)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png"><tspan
          x="-144.62131"
          y="63.456856"><tspan
            style="fill:#0000ff;stroke-width:0.264583">def expresion(a, b, c, d): 
@@ -507,18 +500,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.9763px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.745792"
-       x="376.53543"
+       x="236.96645"
        y="74.932236"
        id="text848-5-1"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png"><tspan
          sodipodi:role="line"
-         x="376.53543"
+         x="236.96645"
          y="74.932236"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.745792"
          id="tspan928-7">Código máquina</tspan><tspan
          sodipodi:role="line"
-         x="376.53543"
+         x="236.96645"
          y="91.152611"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.745792"
          id="tspan930-0">(Risc-V)</tspan></text>
@@ -527,19 +521,21 @@
        id="rect1060-6-0"
        width="225.72995"
        height="92.490128"
-       x="332.19281"
+       x="192.62383"
        y="105.07484"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.60356px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:104.616;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.357593"
        x="-144.62131"
        y="63.456856"
-       transform="matrix(2.0855909,0,0,2.0855909,648.28772,-2.1511561)"
+       transform="matrix(2.0855909,0,0,2.0855909,508.71874,-2.1511561)"
        id="text1050"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png"><tspan
          x="-144.62131"
          y="63.456856"><tspan>00000000101101010000001010110011
 </tspan></tspan><tspan
