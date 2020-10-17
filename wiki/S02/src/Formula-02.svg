@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="Formula-02.svg.2020_10_17_10_41_48.0.svg"
+   sodipodi:docname="Formula-02.svg"
    inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -308,7 +308,7 @@
        height="480.87924"
        x="-634.68652"
        y="-401.79617"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -355,7 +355,7 @@
        id="text848-5"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-01.png"><tspan
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-02.png"><tspan
          sodipodi:role="line"
          x="-448.69498"
          y="-273.4787"
@@ -375,10 +375,13 @@
        y="-140.9959"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-01.png" />
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-02.png" />
     <g
        id="g996"
-       transform="translate(21.607068,-44.533786)">
+       transform="translate(21.607068,-44.533786)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:53.706px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74579"
@@ -416,7 +419,7 @@
        id="text848-53"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png"><tspan
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-02.png"><tspan
          sodipodi:role="line"
          x="-241.85219"
          y="-51.354248"
@@ -430,7 +433,7 @@
        id="text848-53-6"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/High-level-machine-code.png"><tspan
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-02.png"><tspan
          sodipodi:role="line"
          x="-182.25142"
          y="-50.625885"
@@ -439,10 +442,16 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:2.64583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -361.02009,-67.880184 h 101.96202"
-       id="path1088" />
+       id="path1088"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g1149"
-       transform="translate(-109.12114,34.970548)">
+       transform="translate(-109.12114,34.970548)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <ellipse
          style="fill:#00ff00;stroke:#000000;stroke-width:1.54901;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="path1144"
@@ -474,7 +483,7 @@
        d="m -351.42822,-235.28137 26.68937,87.95254"
        id="path1176"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -485,7 +494,7 @@
        id="text848-5-3"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-01.png"><tspan
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-02.png"><tspan
          sodipodi:role="line"
          x="-8.1203499"
          y="-62.750397"
@@ -494,7 +503,10 @@
     <g
        id="g996-3"
        transform="translate(149.44124,36.498995)"
-       style="display:inline;opacity:1">
+       style="display:inline;opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:53.706px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74579"
@@ -532,7 +544,7 @@
        id="text848-5-1"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-01.png"><tspan
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-02.png"><tspan
          sodipodi:role="line"
          x="-481.91156"
          y="111.84879"
@@ -548,7 +560,7 @@
        d="m -357.36934,86.632008 26.68937,-87.9525402"
        id="path1176-0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S02/Formula-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
