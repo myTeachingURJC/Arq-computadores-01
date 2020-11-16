@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="395.25153mm"
+   width="426.52832mm"
    height="237.93739mm"
-   viewBox="0 0 395.25153 237.9374"
+   viewBox="0 0 426.52832 237.9374"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
-   sodipodi:docname="Ej03-RISCv-01.svg">
+   sodipodi:docname="Ej03-RISCv-02.svg">
   <defs
      id="defs2">
     <rect
@@ -290,7 +290,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
      inkscape:cx="884.10239"
-     inkscape:cy="396.33897"
+     inkscape:cy="396.33896"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
@@ -315,7 +315,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -327,11 +327,11 @@
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.79375;stroke-dashoffset:0"
        id="rect1951"
-       width="394.98694"
+       width="426.26373"
        height="237.67281"
        x="-25.796257"
        y="-318.85416"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
   </g>
@@ -347,7 +347,7 @@
        height="19.604355"
        x="1.4006445"
        y="-246.00647"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -356,21 +356,21 @@
        x="287.68375"
        y="-231.36044"
        id="text1925-3-7-3-3"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan1923-6-5-5-6"
          x="287.68375"
          y="-231.36044"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264583">Addi x0, x0, 0</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264583">Addi x31, x15, 0x0F</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="228.39629"
        y="-249.96637"
        id="text1925-3-7-3-6-7-6"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -389,7 +389,7 @@
        height="19.604355"
        x="172.0208"
        y="-246.00647"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -399,7 +399,7 @@
        height="19.604355"
        x="214.92305"
        y="-246.00647"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -408,7 +408,7 @@
        x="189.7209"
        y="-264.5737"
        id="text1925-3-7-3-6-0"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -422,7 +422,7 @@
        x="179.5182"
        y="-249.96637"
        id="text1925-3-7-3-6-7-6-5"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -437,7 +437,7 @@
        height="19.604355"
        x="137.62251"
        y="-246.00647"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -446,7 +446,7 @@
        x="141.49944"
        y="-249.96637"
        id="text1925-3-7-3-6-7-6-5-9"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -460,7 +460,7 @@
        x="33.882488"
        y="-264.86133"
        id="text1925-3-7-3-6-0-6-7-6"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -474,7 +474,7 @@
        x="34.56242"
        y="-249.96637"
        id="text1925-3-7-3-6-7-6-5-9-9-6"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -489,7 +489,7 @@
        height="19.604355"
        x="94.72023"
        y="-246.00647"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -498,7 +498,7 @@
        x="102.21764"
        y="-249.96637"
        id="text1925-3-7-3-6-7-6-5-7"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -512,7 +512,7 @@
        x="110.15031"
        y="-265.52917"
        id="text1925-3-7-3-6-0-6-7"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -526,7 +526,7 @@
        x="224.14017"
        y="-232.29585"
        id="text1925-3-7-3-6-0-9"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -540,7 +540,7 @@
        x="146.79689"
        y="-232.85515"
        id="text1925-3-7-3-6-0-9-9-7"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -553,7 +553,7 @@
        d="m 315.72943,-228.29151 c 0,0 -16.02972,13.72026 -54.22961,14.31389 -38.19991,0.59362 -60.10015,-9.11851 -60.10015,-9.11851"
        id="path1009"
        sodipodi:nodetypes="csc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -562,42 +562,42 @@
        x="179.68233"
        y="-232.85515"
        id="text1925-3-7-3-6-0-9-9-7-3"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="179.68233"
          y="-232.85515"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
-         id="tspan1280-9-7-4-8-6">00000</tspan></text>
+         id="tspan1280-9-7-4-8-6">11111</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="103.02217"
        y="-232.85515"
        id="text1925-3-7-3-6-0-9-9-7-3-7"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="103.02217"
          y="-232.85515"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
-         id="tspan1280-9-7-4-8-6-5">00000</tspan></text>
+         id="tspan1280-9-7-4-8-6-5">01111</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3)"
-       d="m 331.25563,-226.76267 c 0,0 -31.62256,21.53271 -96.39353,21.25181 -66.12394,-0.28677 -114.39338,-18.53624 -114.39338,-18.53624"
+       d="m 342.8751,-226.94616 c 0,0 -42.07269,24.30322 -106.84366,24.02232 -66.12394,-0.28677 -115.56272,-21.12326 -115.56272,-21.12326"
        id="path1009-6"
        sodipodi:nodetypes="csc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-2)"
-       d="m 347.1722,-227.94594 c 0,0 -31.25077,30.93713 -128.47155,31.98462 -97.22079,1.04748 -165.455338,-27.80546 -165.455338,-27.80546"
+       d="m 363.67955,-227.78216 c 0,0 -35.75553,31.99068 -132.97631,33.03817 -97.22079,1.04748 -177.457928,-29.02279 -177.457928,-29.02279"
        id="path1009-6-1"
        sodipodi:nodetypes="czc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -606,14 +606,14 @@
        x="14.98595"
        y="-232.41438"
        id="text1925-3-7-3-6-0-9-9-7-3-7-2"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="14.98595"
          y="-232.41438"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
-         id="tspan1280-9-7-4-8-6-5-7">000000000000</tspan></text>
+         id="tspan1280-9-7-4-8-6-5-7">00000000000F</tspan></text>
     <rect
        style="fill:#f9f9f9;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1921-2-3-3-6-9"
@@ -621,7 +621,7 @@
        height="19.604355"
        x="206.19289"
        y="-142.86229"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -630,14 +630,14 @@
        x="210.60272"
        y="-129.71098"
        id="text1925-3-7-3-6-0-9-9-7-3-8"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="210.60272"
          y="-129.71098"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
-         id="tspan1280-9-7-4-8-6-7">0001</tspan></text>
+         id="tspan1280-9-7-4-8-6-7">1001</tspan></text>
     <path
        d="m 142.47812,-195.79969 v 36.80623 h 5.55625 l -9.26043,10.58333 -9.26041,-10.58333 h 5.55624 v -36.80623 h 3.70417 z"
        fill="#ffffff"
@@ -646,7 +646,7 @@
        pointer-events="all"
        id="path1127"
        style="fill:#0000ff;stroke-width:0.264583"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        sodipodi:nodetypes="ccccccccc" />
@@ -657,7 +657,7 @@
        height="19.604355"
        x="238.86575"
        y="-142.86229"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -666,7 +666,7 @@
        x="243.27559"
        y="-129.71098"
        id="text1925-3-7-3-6-0-9-9-7-3-8-7"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -681,7 +681,7 @@
        height="19.604355"
        x="140.84714"
        y="-142.86229"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -690,14 +690,14 @@
        x="145.25697"
        y="-129.71098"
        id="text1925-3-7-3-6-0-9-9-7-3-8-2"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="145.25697"
          y="-129.71098"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
-         id="tspan1280-9-7-4-8-6-7-2">0000</tspan></text>
+         id="tspan1280-9-7-4-8-6-7-2">1000</tspan></text>
     <rect
        style="fill:#f9f9f9;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1921-2-3-3-6-9-3-8"
@@ -705,7 +705,7 @@
        height="19.604355"
        x="173.52"
        y="-142.86229"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -714,14 +714,14 @@
        x="177.92984"
        y="-129.71098"
        id="text1925-3-7-3-6-0-9-9-7-3-8-7-9"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="177.92984"
          y="-129.71098"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
-         id="tspan1280-9-7-4-8-6-7-5-7">0000</tspan></text>
+         id="tspan1280-9-7-4-8-6-7-5-7">1111</tspan></text>
     <rect
        style="fill:#f9f9f9;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1921-2-3-3-6-9-36"
@@ -729,7 +729,7 @@
        height="19.604355"
        x="75.501389"
        y="-142.86229"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -738,14 +738,14 @@
        x="79.911224"
        y="-129.71098"
        id="text1925-3-7-3-6-0-9-9-7-3-8-1"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="79.911224"
          y="-129.71098"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
-         id="tspan1280-9-7-4-8-6-7-29">0000</tspan></text>
+         id="tspan1280-9-7-4-8-6-7-29">1111</tspan></text>
     <rect
        style="fill:#f9f9f9;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1921-2-3-3-6-9-3-3"
@@ -753,7 +753,7 @@
        height="19.604355"
        x="108.17426"
        y="-142.86229"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -762,14 +762,14 @@
        x="112.58409"
        y="-129.71098"
        id="text1925-3-7-3-6-0-9-9-7-3-8-7-1"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="112.58409"
          y="-129.71098"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
-         id="tspan1280-9-7-4-8-6-7-5-9">0000</tspan></text>
+         id="tspan1280-9-7-4-8-6-7-5-9">0111</tspan></text>
     <rect
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1921-2-3-3-6-9-9-4"
@@ -777,7 +777,7 @@
        height="19.604355"
        x="10.15564"
        y="-142.86229"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -786,7 +786,7 @@
        x="14.565475"
        y="-129.71098"
        id="text1925-3-7-3-6-0-9-9-7-3-8-2-7"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -801,7 +801,7 @@
        height="19.604355"
        x="42.828506"
        y="-142.86229"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -810,7 +810,7 @@
        x="47.238342"
        y="-129.71098"
        id="text1925-3-7-3-6-0-9-9-7-3-8-7-9-5"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -824,7 +824,7 @@
        x="151.82718"
        y="-174.66147"
        id="text1925-3-7-3-6-7-6-5-7-3"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -838,21 +838,21 @@
        x="283.50916"
        y="-130.24384"
        id="text1925-3-7-3-6-23-3"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="283.50916"
          y="-130.24384"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff7f2a;stroke-width:0.264583"
-         id="tspan1280-75-6">0x00000013</tspan></text>
+         id="tspan1280-75-6">0x00F78F93</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff7f2a;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="253.08112"
        y="-109.97112"
        id="text1925-3-7-3-6-23-3-1"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -866,77 +866,77 @@
        x="220.5202"
        y="-109.97112"
        id="text1925-3-7-3-6-23-3-1-6"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="220.5202"
          y="-109.97112"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff7f2a;stroke-width:0.264583"
-         id="tspan1280-75-6-0-3">1</tspan></text>
+         id="tspan1280-75-6-0-3">9</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff7f2a;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="187.64146"
        y="-109.97112"
        id="text1925-3-7-3-6-23-3-1-6-2"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="187.64146"
          y="-109.97112"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff7f2a;stroke-width:0.264583"
-         id="tspan1280-75-6-0-3-0">0</tspan></text>
+         id="tspan1280-75-6-0-3-0">F</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff7f2a;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="156.03134"
        y="-109.97112"
        id="text1925-3-7-3-6-23-3-1-6-2-6"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="156.03134"
          y="-109.97112"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff7f2a;stroke-width:0.264583"
-         id="tspan1280-75-6-0-3-0-1">0</tspan></text>
+         id="tspan1280-75-6-0-3-0-1">8</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff7f2a;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="122.56575"
        y="-109.97112"
        id="text1925-3-7-3-6-23-3-1-6-2-6-5"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="122.56575"
          y="-109.97112"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff7f2a;stroke-width:0.264583"
-         id="tspan1280-75-6-0-3-0-1-5">0</tspan></text>
+         id="tspan1280-75-6-0-3-0-1-5">7</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff7f2a;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="89.89724"
        y="-109.97112"
        id="text1925-3-7-3-6-23-3-1-6-2-6-5-4"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="89.89724"
          y="-109.97112"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff7f2a;stroke-width:0.264583"
-         id="tspan1280-75-6-0-3-0-1-5-7">0</tspan></text>
+         id="tspan1280-75-6-0-3-0-1-5-7">F</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff7f2a;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="57.201584"
        y="-109.97112"
        id="text1925-3-7-3-6-23-3-1-6-2-6-5-4-6"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -950,7 +950,7 @@
        x="23.631802"
        y="-109.97112"
        id="text1925-3-7-3-6-23-3-1-6-2-6-5-4-6-6"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-1-RISCV.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S03/Ej03-2-RISCV.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
