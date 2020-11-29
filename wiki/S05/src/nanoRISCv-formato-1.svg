@@ -708,11 +708,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25353674"
-     inkscape:cx="1137.4601"
-     inkscape:cy="510.3303"
+     inkscape:zoom="0.50707348"
+     inkscape:cx="1173.9387"
+     inkscape:cy="869.39769"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -735,7 +735,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -875,18 +875,18 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1845);fill:#000000;fill-opacity:1;stroke:none;" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-124.10726"
-       y="-654.46497"
+       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="-123.02496"
+       y="-634.90997"
        id="text1925-3-6-8-9"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan1923-6-2-7-1"
-         x="-124.10726"
-         y="-654.46497"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583">Tipo R</tspan></text>
+         x="-123.02496"
+         y="-634.90997"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583;fill:#000000;">Tipo R</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.757759;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart-9-3-8);marker-end:url(#Arrow2Mend-23-9-6-6-1)"
        d="M 272.04775,-434.60309 H 1.2542853"
@@ -1402,7 +1402,7 @@
          id="tspan1280-9-2-0-1-1">rs2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;"
        x="-124.31152"
        y="-561.66644"
        id="text1925-3-6-8-9-7"
@@ -1413,10 +1413,10 @@
          id="tspan1923-6-2-7-1-7"
          x="-124.31152"
          y="-561.66644"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583">Tipo I</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583;fill:#000000;">Tipo I</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;"
        x="-123.68005"
        y="-499.90073"
        id="text1925-3-6-8-9-7-6"
@@ -1427,7 +1427,7 @@
          id="tspan1923-6-2-7-1-7-7"
          x="-123.68005"
          y="-499.90073"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583">Tipo S</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583;fill:#000000;">Tipo S</tspan></text>
     <rect
        style="display:inline;fill:#cccccc;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1921-2-3-3-6-12"
@@ -1602,7 +1602,7 @@
          id="tspan1280-9-2-0-6-7-8">[4:1,11]</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;"
        x="-123.14203"
        y="-447.74167"
        id="text1925-3-6-8-9-7-6-9"
@@ -1613,10 +1613,10 @@
          id="tspan1923-6-2-7-1-7-7-6"
          x="-123.14203"
          y="-447.74167"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583">Tipo SB</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583;fill:#000000;">Tipo SB</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.264583;"
        x="-47.203842"
        y="-670.58136"
        id="text1925-3-6-8-9-3"
@@ -1627,7 +1627,7 @@
          id="tspan1923-6-2-7-1-6"
          x="-47.203842"
          y="-670.58136"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">ADD</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583;fill:#ff6600;">ADD</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1802,7 +1802,7 @@
          id="tspan1280-9-2-0-1-2">rs2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.264583;"
        x="-47.203842"
        y="-650.97699"
        id="text1925-3-6-8-9-3-8"
@@ -1813,7 +1813,7 @@
          id="tspan1923-6-2-7-1-6-9"
          x="-47.203842"
          y="-650.97699"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">SUB</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583;fill:#ff6600;">SUB</tspan></text>
     <rect
        style="display:inline;fill:#cccccc;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1921-2-3-3-6-1-7"
@@ -1960,7 +1960,7 @@
          id="tspan1280-9-2-0-1-6">rs2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.264583;"
        x="-47.203842"
        y="-631.37262"
        id="text1925-3-6-8-9-3-1"
@@ -1971,7 +1971,7 @@
          id="tspan1923-6-2-7-1-6-5"
          x="-47.203842"
          y="-631.37262"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">AND</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583;fill:#ff6600;">AND</tspan></text>
     <rect
        style="display:inline;fill:#cccccc;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1921-2-3-3-6-1-7-5"
@@ -2118,7 +2118,7 @@
          id="tspan1280-9-2-0-1-6-3">rs2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.264583;"
        x="-47.203842"
        y="-611.76825"
        id="text1925-3-6-8-9-3-1-0"
@@ -2129,67 +2129,11 @@
          id="tspan1923-6-2-7-1-6-5-7"
          x="-47.203842"
          y="-611.76825"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">OR</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583;fill:#ff6600;">OR</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-120.28075"
-       y="-627.07617"
-       id="text1925-3-7-3-6-0-3-7-8"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="-120.28075"
-         y="-627.07617"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264583"
-         id="tspan1280-9-6-5-6">0110011</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-119.70592"
-       y="-640.58276"
-       id="text1925-3-7-3-6-7-6-5-9-9-6-7-6-2-8"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="-119.70592"
-         y="-640.58276"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
-         id="tspan1280-5-0-3-1-3-2-5-2-7-8">opcode</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-81.549225"
-       y="-545.79584"
-       id="text1925-3-7-3-6-0-3-7-8-4"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="-81.549225"
-         y="-545.79584"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264583"
-         id="tspan1280-9-6-5-6-3">0000011</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-121.31701"
-       y="-546.39801"
-       id="text1925-3-7-3-6-7-6-5-9-9-6-7-6-2-8-1"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="-121.31701"
-         y="-546.39801"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
-         id="tspan1280-5-0-3-1-3-2-5-2-7-8-4">opcode</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-43.131855"
+       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="-45.064598"
        y="-570.01996"
        id="text1925-3-6-8-9-3-1-0-9"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
@@ -2197,41 +2141,13 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan1923-6-2-7-1-6-5-7-2"
-         x="-43.131855"
+         x="-45.064598"
          y="-570.01996"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">LD</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583;fill:#ff6600;">LD</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-81.192192"
-       y="-483.35843"
-       id="text1925-3-7-3-6-0-3-7-8-4-0"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="-81.192192"
-         y="-483.35843"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264583"
-         id="tspan1280-9-6-5-6-3-6">0100011</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-121.31701"
-       y="-484.20059"
-       id="text1925-3-7-3-6-7-6-5-9-9-6-7-6-2-8-1-8"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="-121.31701"
-         y="-484.20059"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
-         id="tspan1280-5-0-3-1-3-2-5-2-7-8-4-9">opcode</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-43.131855"
+       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="-44.636063"
        y="-521.14014"
        id="text1925-3-6-8-9-3-1-0-9-2"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
@@ -2239,13 +2155,13 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan1923-6-2-7-1-6-5-7-2-6"
-         x="-43.131855"
+         x="-44.636063"
          y="-521.14014"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">SD</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583;fill:#ff6600;">SD</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-43.131855"
+       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="-45.51823"
        y="-459.84952"
        id="text1925-3-6-8-9-3-1-0-9-2-6"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
@@ -2253,37 +2169,9 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan1923-6-2-7-1-6-5-7-2-6-4"
-         x="-43.131855"
+         x="-45.51823"
          y="-459.84952"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">BEQ</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-83.724709"
-       y="-430.66495"
-       id="text1925-3-7-3-6-0-3-7-8-4-0-9"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="-83.724709"
-         y="-430.66495"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264583"
-         id="tspan1280-9-6-5-6-3-6-5">1100011</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-121.31701"
-       y="-431.52957"
-       id="text1925-3-7-3-6-7-6-5-9-9-6-7-6-2-8-1-8-0"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="-121.31701"
-         y="-431.52957"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
-         id="tspan1280-5-0-3-1-3-2-5-2-7-8-4-9-4">opcode</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583;fill:#ff6600;">BEQ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -2424,5 +2312,139 @@
          y="-745.92126"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
          id="tspan1280-5-0-6-2-5-9-3-5-1">11:7</tspan></text>
+    <rect
+       style="display:inline;fill:#cccccc;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1921-2-3-3"
+       width="99.517891"
+       height="19.604355"
+       x="-0.64089084"
+       y="-567.21277"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#cccccc;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1921-2-3-3-6-61-6"
+       width="42.902229"
+       height="19.604355"
+       x="176.17763"
+       y="-567.21277"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#f2f2f2;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1921-2-3-3-6-7-0-7"
+       width="56.615597"
+       height="19.604355"
+       x="219.07982"
+       y="-567.21277"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="193.93785"
+       y="-554.60187"
+       id="text1925-3-7-3-6-0-6-5"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="193.93785"
+         y="-554.60187"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.264583"
+         id="tspan1280-9-3-3">rd</tspan></text>
+    <rect
+       style="display:inline;fill:#cccccc;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1921-2-3-3-6-5-6-5"
+       width="34.398304"
+       height="19.604355"
+       x="141.7793"
+       y="-567.21277"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="27.329226"
+       y="-554.17603"
+       id="text1925-3-7-3-6-0-6-7-6-5-6"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="27.329226"
+         y="-554.17603"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
+         id="tspan1280-9-2-0-0-4-2">off[11:0]</tspan></text>
+    <rect
+       style="display:inline;fill:#cccccc;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1921-2-3-3-6-6-5-9"
+       width="42.902298"
+       height="19.604355"
+       x="98.876999"
+       y="-567.21277"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="113.35341"
+       y="-554.31232"
+       id="text1925-3-7-3-6-0-6-7-3-1"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="113.35341"
+         y="-554.31232"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.264583"
+         id="tspan1280-9-2-0-7-2">rs1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="149.67027"
+       y="-554.30841"
+       id="text1925-3-7-3-6-0-7-4-7"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="149.67027"
+         y="-554.30841"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264583"
+         id="tspan1280-9-5-5-0">000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="227.17528"
+       y="-554.35571"
+       id="text1925-3-7-3-6-0-3-2-9"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="227.17528"
+         y="-554.35571"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264583"
+         id="tspan1280-9-6-54-3">0011011</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="-46.413395"
+       y="-550.86401"
+       id="text1925-3-6-8-9-3-1-0-9-6"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-formato-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1923-6-2-7-1-6-5-7-2-0"
+         x="-46.413395"
+         y="-550.86401"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583;fill:#ff6600;">ADDi</tspan></text>
   </g>
 </svg>
