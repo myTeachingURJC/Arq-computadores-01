@@ -1118,7 +1118,7 @@
      inkscape:cx="1469.5292"
      inkscape:cy="109.75179"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -1141,7 +1141,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1280,7 +1280,7 @@
          x="109.80652"
          y="-687.55273"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264583"
-         id="tspan1280-9-6-54-3">0011011</tspan></text>
+         id="tspan1280-9-6-54-3">0010011</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.0843px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1402,7 +1402,7 @@
          id="tspan1923-6-2-7-1-6-5-7-2-0-6"
          x="263.62061"
          y="-685.63428"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff6600;stroke-width:0.264583">0x0C000298</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff6600;stroke-width:0.264583">0x0C000293</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.9643px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
