@@ -213,10 +213,10 @@
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1860"
-     inkscape:window-height="1016"
-     inkscape:window-x="60"
-     inkscape:window-y="27"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      fit-margin-top="0"
@@ -233,7 +233,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -250,13 +250,13 @@
        height="99.924248"
        x="-71.158508"
        y="-43.327522"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-AND-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <g
        id="g879"
        transform="matrix(0.1742461,0,0,0.17387545,49.860076,-22.88473)"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Esquemas-hw-03.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="stroke-width:4.56019;stroke-miterlimit:4;stroke-dasharray:none">
@@ -314,7 +314,7 @@
        inkscape:connector-curvature="0"
        id="path6"
        d="M 9.5080361,10.550368 H -7.2809975 V -21.798335 H 9.5080361 c 0,0 15.2401359,1.499594 15.2401359,15.9861487 0,14.4856941 -15.2401359,16.3625543 -15.2401359,16.3625543 z"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-AND-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -323,7 +323,7 @@
        id="path8-3"
        d="M -20.218178,-14.553331 H -7.3208761 M -20.218178,2.6854981 H -7.3208761 M 24.850665,-6.0142018 h 37.075259"
        sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-AND-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -333,7 +333,7 @@
        y="-2.5726426"
        id="text4142-5"
        transform="scale(1.0010653,0.99893585)"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-AND-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -347,7 +347,7 @@
        x="-11.05445"
        y="25.150599"
        id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-7"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-AND-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -361,7 +361,7 @@
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend-23-9-6-6-1-0-8-3-5-9)"
        d="M -13.896993,30.256991 H 38.963968"
        id="path1927-9-1-4-2-1-3-0-2"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-AND-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        sodipodi:nodetypes="cc" />
@@ -369,7 +369,7 @@
        id="g1013"
        transform="matrix(0.13002798,0,0,0.13112145,-37.720783,-31.755257)"
        style="stroke-width:2.16137"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-AND-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <path
@@ -393,7 +393,7 @@
        id="g1025"
        transform="matrix(0.13869725,0,0,0.13986363,33.522685,-35.779944)"
        style="stroke-width:2.16137"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-AND-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <path
@@ -424,7 +424,7 @@
        id="g1025-7"
        transform="matrix(0.13869725,0,0,0.13986363,-41.393182,-4.4107102)"
        style="stroke-width:2.16137"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-AND-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <path
@@ -455,21 +455,21 @@
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.59, 1.59;stroke-dashoffset:0;stroke-opacity:1"
        d="m -15.265033,-33.445038 v 81.11021"
        id="path1067"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-AND-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.59, 1.59;stroke-dashoffset:0;stroke-opacity:1"
        d="M 40.739318,-10.919295 V 33.700932"
        id="path1067-6"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-AND-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.59, 1.59;stroke-dashoffset:0;stroke-opacity:1"
        d="M 109.65503,-33.445041 V 49.276441"
        id="path1067-6-5"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-AND-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -478,7 +478,7 @@
        x="53.60659"
        y="24.845373"
        id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-7-9"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-AND-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -492,7 +492,7 @@
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart-3);marker-end:url(#Arrow2Mend-23-9-6-6-1-0-8-3-5-9-6)"
        d="M 42.553102,30.256991 H 107.7218"
        id="path1927-9-1-4-2-1-3-0-2-2"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-AND-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        sodipodi:nodetypes="cc" />
@@ -500,7 +500,7 @@
        id="g1013-7"
        transform="matrix(0.13002798,0,0,0.13112145,124.93098,-19.873043)"
        style="stroke-width:2.16137"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-AND-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <path
@@ -524,7 +524,7 @@
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart-36);marker-end:url(#Arrow2Mend-23-9-6-6-1-0-8-3-5-9-62)"
        d="M -12.416523,46.839909 H 107.72674"
        id="path1927-9-1-4-2-1-3-0-2-1"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-AND-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        sodipodi:nodetypes="cc" />
@@ -534,7 +534,7 @@
        x="17.27718"
        y="45.081303"
        id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-7-8"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-AND-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Combinacional-cadena-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
