@@ -1196,16 +1196,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.26666347"
-     inkscape:cx="1313.6279"
-     inkscape:cy="435.48872"
+     inkscape:cx="1610.9659"
+     inkscape:cy="342.83021"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1860"
-     inkscape:window-height="1016"
-     inkscape:window-x="60"
-     inkscape:window-y="27"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -1222,7 +1222,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1436,7 +1436,7 @@
          x="240.17111"
          y="-749.55212"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
-         id="tspan2886-6-9">Retraso</tspan></text>
+         id="tspan2886-6-9">Retardo</tspan></text>
     <image
        style="display:inline;opacity:1"
        id="image153-8"
