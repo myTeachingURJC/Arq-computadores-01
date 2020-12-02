@@ -1195,9 +1195,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.26666347"
-     inkscape:cx="1610.9659"
-     inkscape:cy="342.83021"
+     inkscape:zoom="0.3771191"
+     inkscape:cx="1469.7321"
+     inkscape:cy="538.97551"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -1426,17 +1426,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="240.17111"
-       y="-749.55212"
+       x="229.89372"
+       y="-752.22729"
        id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-8"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/memoria-datos-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="240.17111"
-         y="-749.55212"
+         x="229.89372"
+         y="-752.22729"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
-         id="tspan2886-6-9">Retardo</tspan></text>
+         id="tspan2886-6-9">Retardo lectura</tspan></text>
     <image
        style="display:inline;opacity:1"
        id="image153-8"
@@ -1682,5 +1682,19 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="229.89371"
+       y="-737.79486"
+       id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-8-3"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/memoria-datos-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="229.89371"
+         y="-737.79486"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan2886-6-9-6">Retardo escritura</tspan></text>
   </g>
 </svg>
