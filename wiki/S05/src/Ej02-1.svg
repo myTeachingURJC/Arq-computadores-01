@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="349.49728mm"
+   width="336.94104mm"
    height="164.25861mm"
-   viewBox="0 0 349.49727 164.25861"
+   viewBox="0 0 336.94103 164.25861"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
@@ -170,90 +170,6 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path2779-75-7-1-2-7-9-9-8-4-62-2" />
     </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow2Mend-23-9-6-6-1-0-8-3-5-26-7-0"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Mend"
-       inkscape:isstock="true">
-      <path
-         transform="scale(-0.6)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#ff6600;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         id="path2779-75-7-1-2-7-9-9-8-4-1-9-2" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow2Mend-23-9-6-6-1-0-8-3-5-26-7"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Mend"
-       inkscape:isstock="true">
-      <path
-         transform="scale(-0.6)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#ff6600;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         id="path2779-75-7-1-2-7-9-9-8-4-1-9" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow2Mend-23-9-6-6-1-0-8-3-5-26-7-0-3"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Mend"
-       inkscape:isstock="true">
-      <path
-         transform="scale(-0.6)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#ff6600;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         id="path2779-75-7-1-2-7-9-9-8-4-1-9-2-6" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow2Mend-23-9-6-6-1-0-8-3-5-26-7-7"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Mend"
-       inkscape:isstock="true">
-      <path
-         transform="scale(-0.6)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#ff6600;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         id="path2779-75-7-1-2-7-9-9-8-4-1-9-5" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow2Mend-23-9-6-6-1-0-8-3-5-26-7-3"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Mend"
-       inkscape:isstock="true">
-      <path
-         transform="scale(-0.6)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         id="path2779-75-7-1-2-7-9-9-8-4-1-9-6" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow2Mend-23-9-6-6-1-0-8-3-5-26-7-3-5"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Mend"
-       inkscape:isstock="true">
-      <path
-         transform="scale(-0.6)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         id="path2779-75-7-1-2-7-9-9-8-4-1-9-6-6" />
-    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -262,30 +178,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.62589755"
-     inkscape:cx="500.96483"
-     inkscape:cy="312.71427"
+     inkscape:zoom="0.8851528"
+     inkscape:cx="663.70018"
+     inkscape:cy="311.20919"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1860"
-     inkscape:window-height="1016"
-     inkscape:window-x="60"
-     inkscape:window-y="27"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       position="30.130894,109.25869"
-       orientation="1,0"
-       id="guide974" />
-  </sodipodi:namedview>
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -302,52 +213,60 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="back"
-     transform="translate(152.45006,84.781395)"
+     transform="translate(179.11256,84.781395)"
      style="display:inline">
     <rect
        style="fill:#ffffff;stroke:none;stroke-width:1.058;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1292"
-       width="349.49728"
+       width="336.94104"
        height="164.25861"
-       x="-152.45006"
+       x="-179.11256"
        y="-84.781395"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-8-3-5-5)"
+       d="M 26.099838,-67.421767 4.9939777,-47.290404"
+       id="path946-9"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.529167, 1.5875;stroke-dashoffset:0"
+       id="path1044"
+       cx="-4.5299077"
+       cy="-26.677557"
+       rx="24.827312"
+       ry="21.722033"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.66046px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="9.3187447"
+       y="-69.856728"
+       id="text1054"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1052"
+         x="9.3187447"
+         y="-69.856728"
+         style="stroke-width:0.264583">Cambio</tspan></text>
   </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(152.45006,84.781395)">
-    <path
-       style="display:inline;fill:none;stroke:#ff0000;stroke-width:1.5875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-8-3-5-26-7-3)"
-       d="m -122.31916,-19.475115 h 82.301794 V 13.548167 H 99.581985"
-       id="path1199-8-2-7"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="display:inline;fill:none;stroke:#ff6600;stroke-width:1.5875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-8-3-5-26-7-7)"
-       d="m -121.90629,-29.781479 h 94.209841 V -5.4772382 H 99.994866"
-       id="path1199-8-2"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="display:inline;fill:#ff6600;stroke:#ff6600;stroke-width:1.5875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-8-3-5-26-7-0-3)"
-       d="M -122.31916,-36.975863 H 99.581979"
-       id="path1199-8-2-3"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+     transform="translate(179.11256,84.781395)">
     <g
        id="g845"
        transform="matrix(0.1742461,0,0,0.17387545,28.993061,-9.8988853)"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="stroke-width:4.56019;stroke-miterlimit:4;stroke-dasharray:none">
@@ -377,7 +296,7 @@
     <g
        id="g863"
        transform="matrix(0.1742461,0,0,0.17387545,-36.450818,8.2693469)"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="stroke-width:4.56019;stroke-miterlimit:4;stroke-dasharray:none">
@@ -422,7 +341,7 @@
        id="path4"
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <ellipse
@@ -432,7 +351,7 @@
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        rx="3.7275996"
        ry="3.8067062"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -441,7 +360,7 @@
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -450,7 +369,7 @@
        x="-72.219437"
        y="-0.034217332"
        id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -461,7 +380,7 @@
     <g
        id="g845-2"
        transform="matrix(0.1742461,0,0,0.17387545,-90.863369,-41.340295)"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="stroke-width:4.56019;stroke-miterlimit:4;stroke-dasharray:none">
@@ -493,7 +412,7 @@
        d="m -35.599958,-25.500075 -0.143949,41.992253"
        id="path1501"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -502,7 +421,7 @@
        cx="-35.413643"
        cy="-24.804066"
        r="2.1028779"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -510,7 +429,7 @@
        id="path4-6"
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <ellipse
@@ -520,7 +439,7 @@
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        rx="3.7275996"
        ry="3.8067062"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -529,7 +448,7 @@
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -539,7 +458,7 @@
        y="34.475475"
        id="text4142-3"
        transform="scale(0.99638157,1.0036316)"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -552,7 +471,7 @@
        d="m -90.156459,-16.160955 -0.14395,39.48802 h 11.44784"
        id="path1501-6"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -561,7 +480,7 @@
        cx="-90.02298"
        cy="-16.145008"
        r="2.1028779"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -570,7 +489,7 @@
        cx="-35.90733"
        cy="-2.1495814"
        r="2.1028779"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -580,7 +499,7 @@
        height="118.05521"
        x="-99.948975"
        y="-58.125038"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -589,7 +508,7 @@
        x="47.928741"
        y="31.525127"
        id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-2"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -603,7 +522,7 @@
        x="-15.688903"
        y="50.472187"
        id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-2-0"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -617,7 +536,7 @@
        x="-65.713203"
        y="49.947987"
        id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-2-0-3"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -629,7 +548,7 @@
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 29.699968,25.463913 V 15.28045"
        id="path944"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -639,7 +558,7 @@
        y="-22.514673"
        id="text4142-3-3"
        transform="scale(0.99638155,1.0036316)"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -653,7 +572,7 @@
        x="-6.563592"
        y="-8.6816444"
        id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-2-0-3-7"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej02-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -661,69 +580,5 @@
          y="-8.6816444"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
          id="tspan2886-6-7-9-6-5">1ns</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="107.83598"
-       y="-33.450687"
-       id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-7-9"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="107.83598"
-         y="-33.450687"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.264583"
-         id="tspan2250">C1 = 1 + 1 = 2ns</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="107.83598"
-       y="-2.8558214"
-       id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-7-9-3"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="107.83598"
-         y="-2.8558214"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.264583"
-         id="tspan2250-5">C2 = 1 + 4 = 5ns</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="107.83598"
-       y="16.357817"
-       id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-7-9-3-6"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="107.83598"
-         y="16.357817"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff0000;stroke-width:0.264583"
-         id="tspan2250-5-2">C3 = 1 + 2 + 4 = 7ns</tspan></text>
-    <path
-       style="display:inline;fill:none;stroke:#ff0000;stroke-width:1.5875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-8-3-5-26-7-3-5)"
-       d="m -122.31916,-8.0432107 h 22.16604 V 38.286105 H 99.581986"
-       id="path1199-8-2-7-2"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="107.83598"
-       y="41.37257"
-       id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-7-9-3-6-9"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S05/Ej02-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="107.83598"
-         y="41.37257"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff0000;stroke-width:0.264583"
-         id="tspan2250-5-2-1">C4 = 1 + 2 + 4 = 7ns</tspan></text>
   </g>
 </svg>
