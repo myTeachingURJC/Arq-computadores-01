@@ -8,8 +8,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="265.0144mm"
-   height="145.94893mm"
-   viewBox="0 0 265.0144 145.94893"
+   height="155.85512mm"
+   viewBox="0 0 265.0144 155.85512"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
@@ -136,19 +136,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.8851528"
-     inkscape:cx="538.08213"
-     inkscape:cy="329.42923"
+     inkscape:zoom="0.62589755"
+     inkscape:cx="578.89678"
+     inkscape:cy="427.24853"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
+     inkscape:window-x="60"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -177,7 +177,7 @@
        style="fill:#ffffff;stroke:none;stroke-width:1.058;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1292"
        width="265.0144"
-       height="145.94893"
+       height="155.85512"
        x="-128.01521"
        y="-76.377907"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej01-1.png"
@@ -205,7 +205,7 @@
          style="fill:none;stroke:#000000;stroke-width:4.56019;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
          inkscape:connector-curvature="0"
          id="path8-3"
-         d="M 4.05697,45.66778 H 78.074705 M 4.05697,144.81248 H 78.074705 M 262.70748,94.77839 h 123.29748"
+         d="M -371.97489,45.66778 H 78.074705 M 4.05697,144.81248 H 78.074705 M 262.70748,94.77839 h 123.29748"
          sodipodi:nodetypes="cccccc" />
       <text
          xml:space="preserve"
@@ -221,7 +221,7 @@
     </g>
     <g
        id="g863"
-       transform="matrix(0.1742461,0,0,0.17387545,-36.450818,-1.9141153)"
+       transform="matrix(0.1742461,0,0,0.17387545,-36.450818,8.2693469)"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej01-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -316,14 +316,14 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40996px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-72.219437"
-       y="1.5990859"
+       y="-0.034217332"
        id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej01-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="-72.219437"
-         y="1.5990859"
+         y="-0.034217332"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
          id="tspan2886-6">1ns</tspan></text>
     <g
@@ -357,8 +357,8 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.5215px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:4.56019;stroke-miterlimit:4;stroke-dasharray:none">AND1</tspan></text>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M -35.599958,-25.500075 -35.743907,6.3087147"
+       style="fill:none;stroke:#000000;stroke-width:0.794;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -35.599958,-25.500075 -0.143949,41.992253"
        id="path1501"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej01-1.png"
@@ -375,7 +375,7 @@
        inkscape:export-ydpi="96" />
     <g
        id="g879-3"
-       transform="matrix(0.1742461,0,0,0.17387545,-90.641359,6.3760247)"
+       transform="matrix(0.1742461,0,0,0.17387545,-90.641359,16.559487)"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej01-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -440,30 +440,22 @@
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej01-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.699972,-24.780145 -0.14395,22.8217697"
-       id="path1501-9"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej01-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
     <circle
        style="fill:#000000;stroke:none;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none"
        id="path1497-7-1"
-       cx="29.647814"
-       cy="-24.852299"
+       cx="-35.90733"
+       cy="-2.1495814"
        r="2.1028779"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej01-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.529166;stroke-miterlimit:4;stroke-dasharray:2.11667, 2.11667;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.529165;stroke-miterlimit:4;stroke-dasharray:2.11667, 2.11667;stroke-dashoffset:0"
        id="rect1053"
        width="184.40843"
-       height="104.34954"
+       height="118.05521"
        x="-99.948975"
-       y="-58.125034"
+       y="-58.125038"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej01-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -485,28 +477,28 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-15.688903"
-       y="40.288723"
+       y="50.472187"
        id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-2-0"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej01-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="-15.688903"
-         y="40.288723"
+         y="50.472187"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
          id="tspan2886-6-7-9">2ns</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-65.713203"
-       y="39.764523"
+       y="49.947987"
        id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-2-0-3"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej01-1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="-65.713203"
-         y="39.764523"
+         y="49.947987"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
          id="tspan2886-6-7-9-6">1ns</tspan></text>
     <text
@@ -523,5 +515,12 @@
          y="-9.2405443"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
          id="tspan2886-6-7-9-6-6">10ns</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 29.699968,25.463913 V 15.28045"
+       id="path944"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/Ej01-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>
