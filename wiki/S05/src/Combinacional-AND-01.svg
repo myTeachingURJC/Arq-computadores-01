@@ -150,17 +150,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4425764"
-     inkscape:cx="422.50653"
-     inkscape:cy="48.095686"
+     inkscape:zoom="0.8851528"
+     inkscape:cx="439.27041"
+     inkscape:cy="203.88154"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1860"
-     inkscape:window-height="1016"
-     inkscape:window-x="60"
-     inkscape:window-y="27"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      fit-margin-top="0"
@@ -177,7 +177,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -248,7 +248,7 @@
          x="-11.05445"
          y="25.150599"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
-         id="tspan2886-6-5">Retraso (ns)</tspan></text>
+         id="tspan2886-6-5">Retardo (ns)</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend-23-9-6-6-1-0-8-3-5-9)"
        d="M -13.896993,30.256991 H 38.963968"
