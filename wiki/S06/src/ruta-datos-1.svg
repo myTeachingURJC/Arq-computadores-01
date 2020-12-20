@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="864.12871"
-     inkscape:cy="855.27794"
+     inkscape:cx="942.91143"
+     inkscape:cy="770.71929"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,7 +58,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(134.30754,108.17505)">
+     transform="translate(134.30754,108.17505)"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.389557;stroke-miterlimit:4;stroke-dasharray:1.16868, 1.16868;stroke-dashoffset:0"
        id="rect1951"
@@ -1242,5 +1243,26 @@
        inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/Formato.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 51.491774,81.389907 8.48827,-9.48296"
+       id="path1572"
+       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/Formato.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="45.62558"
+       y="70.03228"
+       id="text1576"
+       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/Formato.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="45.62558"
+         y="70.03228"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan1574">32</tspan></text>
   </g>
 </svg>
