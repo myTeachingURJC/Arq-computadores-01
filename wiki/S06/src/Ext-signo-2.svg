@@ -16,6 +16,12 @@
    sodipodi:docname="Ext-signo-2.svg">
   <defs
      id="defs987">
+    <rect
+       x="-164.12529"
+       y="-91.573877"
+       width="686.95644"
+       height="317.21362"
+       id="rect2366" />
     <marker
        style="overflow:visible"
        id="Arrow2Mstart"
@@ -56,7 +62,7 @@
      inkscape:cx="958.75664"
      inkscape:cy="332.48849"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1858"
@@ -235,7 +241,7 @@
          x="-1.3552753"
          y="48.896591"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         id="tspan1885">Bit 12</tspan><tspan
+         id="tspan1885">Bit 11</tspan><tspan
          sodipodi:role="line"
          x="-1.3552752"
          y="59.409054"
@@ -461,5 +467,9 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       id="text2364"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect2366);" />
   </g>
 </svg>
