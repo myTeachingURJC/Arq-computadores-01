@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="557.4787mm"
+   height="265.77518mm"
+   viewBox="0 0 557.4787 265.77518"
+   version="1.1"
+   id="svg981"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   sodipodi:docname="Fases-01.svg">
+  <defs
+     id="defs975">
+    <marker
+       style="overflow:visible"
+       id="marker16308-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path16306-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker16308"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path16306" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2048"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2046" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2058"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2056" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2318"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2316" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2328"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2326" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2628"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2626" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2754"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2752" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="907.76982"
+     inkscape:cy="637.1976"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata978">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(55.202187,5.0242319)">
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.915001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect14064"
+       width="557.4787"
+       height="265.77518"
+       x="-55.202187"
+       y="-5.0242319"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(55.202187,5.0242319)">
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.793755;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2358"
+       width="49.220406"
+       height="24.662848"
+       x="358.41934"
+       y="148.02539"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="376.7518"
+       y="162.81625"
+       id="text2362"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="376.7518"
+         y="162.81625"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#0000ff;stroke-width:0.264583"
+         id="tspan2360">WB</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.793753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2342"
+       width="50.799179"
+       height="24.662848"
+       x="298.06943"
+       y="148.02539"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="314.30087"
+       y="162.81625"
+       id="text2346"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="314.30087"
+         y="162.81625"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#0000ff;stroke-width:0.264583"
+         id="tspan2344">MEM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="323.61105"
+       y="184.80064"
+       id="text2352"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="323.61105"
+         y="184.80064"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2348">Lectura</tspan><tspan
+         sodipodi:role="line"
+         x="323.61105"
+         y="195.31311"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2350">operando</tspan><tspan
+         sodipodi:role="line"
+         x="323.61105"
+         y="205.82558"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2356">memoria</tspan></text>
+    <path
+       d="m 345.84754,157.30396 h 9.50549 v -4.24817 l 8.3924,7.0803 -8.3924,7.08029 v -4.24818 h -9.50549 v -2.83211 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path2354"
+       style="display:inline;fill:#0000ff;stroke-width:0.761897"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.793753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2328"
+       width="50.799179"
+       height="24.662848"
+       x="236.2859"
+       y="148.02539"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="255.76863"
+       y="162.81625"
+       id="text2332"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="255.76863"
+         y="162.81625"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#0000ff;stroke-width:0.264583"
+         id="tspan2330">EX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="261.82751"
+       y="184.80064"
+       id="text2336"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="261.82751"
+         y="184.80064"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2334">Cálculos en</tspan><tspan
+         sodipodi:role="line"
+         x="261.82751"
+         y="195.31311"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2340">la ALU</tspan></text>
+    <path
+       d="m 284.06401,157.30396 h 9.50549 v -4.24817 l 8.3924,7.0803 -8.3924,7.08029 v -4.24818 h -9.50549 v -2.83211 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path2338"
+       style="display:inline;fill:#0000ff;stroke-width:0.761897"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.793753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2298"
+       width="50.799179"
+       height="24.662848"
+       x="174.85329"
+       y="148.02539"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="194.33601"
+       y="162.81625"
+       id="text2302"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="194.33601"
+         y="162.81625"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#0000ff;stroke-width:0.264583"
+         id="tspan2300">ID</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="186.98329"
+       y="183.48161"
+       id="text2306"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="186.98329"
+         y="183.48161"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2304">Opcode</tspan></text>
+    <path
+       d="m 222.6314,157.30396 h 9.50549 v -4.24817 l 8.3924,7.0803 -8.3924,7.08029 v -4.24818 h -9.50549 v -2.83211 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path2308"
+       style="display:inline;fill:#0000ff;stroke-width:0.761897"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g2296"
+       transform="translate(-175.01894,-55.244921)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.793755;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect8568-4-8-3"
+         width="47.826126"
+         height="34.022144"
+         x="203.25063"
+         y="195.89632"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Monociclo-05.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="227.22163"
+         y="205.7762"
+         id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-64-6-9-3"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Monociclo-05.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           x="227.22163"
+           y="205.7762"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan18472-6">Sig. Estado</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="213.77812"
+         y="217.90236"
+         id="text3535"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Monociclo-05.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           x="213.77812"
+           y="217.90236"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';fill:#000000;stroke-width:0.264583"
+           id="tspan3533">PC</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="213.77812"
+         y="225.55333"
+         id="text2287"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Monociclo-05.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           x="213.77812"
+           y="225.55333"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';fill:#000000;stroke-width:0.264583"
+           id="tspan2285">REGs</tspan></text>
+    </g>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.793753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2217"
+       width="29.105585"
+       height="24.662848"
+       x="134.04123"
+       y="148.02539"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 411.10547,43.782864 V 235.45566"
+       id="path2300"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 81.770881,43.782864 V 235.45566"
+       id="path2298"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-17.161592"
+       y="103.08546"
+       id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-64-6"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="-17.161592"
+         y="103.08546"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan2886-6-3-8">CLK</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3.8800454,101.3464 H 81.770881 V 61.958225 H 241.46861 V 101.3464 h 169.63686"
+       id="path14536"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 411.10547,101.3464 V 61.958225 h 45.06325"
+       id="path16272"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:0.793747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker16308-6)"
+       d="M 411.10547,101.3464 V 65.70962"
+       id="path16304-5"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:0.793747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker16308)"
+       d="M 81.770881,101.3464 V 64.536923"
+       id="path16304"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="102.83363"
+       y="132.95634"
+       id="text1940"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="102.83363"
+         y="132.95634"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.264583"
+         id="tspan1936">Estado</tspan><tspan
+         sodipodi:role="line"
+         x="102.83363"
+         y="143.46881"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.264583"
+         id="tspan1938">actual</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="146.26363"
+       y="193.11615"
+       id="text1950"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="146.26363"
+         y="193.11615"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan1948">PC+4</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2048);marker-end:url(#marker2058)"
+       d="M 82.515763,122.59988 H 122.39834"
+       id="path2044"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 123.95709,97.458821 V 235.45566"
+       id="path18425"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.65163px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="100.12067"
+       y="118.35153"
+       id="text2188"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="100.12067"
+         y="118.35153"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan2186">r1</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2318);marker-end:url(#marker2328)"
+       d="M 126.04375,122.59988 H 411.10547"
+       id="path2314"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.65163px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="255.839"
+       y="118.35153"
+       id="text2488"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="255.839"
+         y="118.35153"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan2486">r2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="13.568322"
+       y="50.777859"
+       id="text2596"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="13.568321"
+         y="50.777859"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2594">Ciclo i-i</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="223.68272"
+       y="45.588692"
+       id="text2600"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="223.68272"
+         y="45.588692"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2598">Ciclo i</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="380.77179"
+       y="183.71545"
+       id="text2604"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="380.77179"
+         y="183.71545"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2602">Escritura</tspan><tspan
+         sodipodi:role="line"
+         x="380.77179"
+         y="194.22792"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2374">del sig. estado</tspan><tspan
+         sodipodi:role="line"
+         x="380.77179"
+         y="204.74039"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2376">(Regs, PC)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="122.4484"
+       y="15.437229"
+       id="text2616"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="122.4484"
+         y="15.437229"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
+         id="tspan2614">¡Instrucción</tspan><tspan
+         sodipodi:role="line"
+         x="122.4484"
+         y="25.949692"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
+         id="tspan2518">ejecutada!</tspan></text>
+    <path
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.793747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2628)"
+       d="M 111.114,31.477095 86.426141,57.100393"
+       id="path2624"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.793747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2754)"
+       d="M 382.15283,31.055632 406.84071,56.67893"
+       id="path2750"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#f2f2f2;stroke:#000000;stroke-width:0.793753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3519"
+       width="29.105585"
+       height="24.662848"
+       x="90.380737"
+       y="148.02539"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="94.953911"
+       y="158.67137"
+       id="text2365"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="94.953911"
+         y="158.67137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
+         id="tspan2359">PC</tspan><tspan
+         sodipodi:role="line"
+         x="94.953911"
+         y="169.18384"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
+         id="tspan2363">REGs</tspan></text>
+    <path
+       d="m 117.65539,157.30396 h 9.50549 v -4.24817 l 8.3924,7.0803 -8.3924,7.08029 v -4.24818 h -9.50549 v -2.83211 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1659"
+       style="display:inline;fill:#0000ff;stroke-width:0.761897"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="143.90804"
+       y="162.81625"
+       id="text2223"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="143.90804"
+         y="162.81625"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#0000ff;stroke-width:0.264583"
+         id="tspan2221">IF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="146.17123"
+       y="183.48161"
+       id="text2229"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="146.17123"
+         y="183.48161"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2227">Inst</tspan></text>
+    <path
+       d="m 159.99094,157.30396 h 9.50549 v -4.24817 l 8.3924,7.0803 -8.3924,7.08029 v -4.24818 h -9.50549 v -2.83211 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path2231"
+       style="display:inline;fill:#0000ff;stroke-width:0.761897"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 74.237913,157.30396 h 9.50549 v -4.24817 l 8.3924,7.0803 -8.3924,7.08029 v -4.24818 h -9.50549 v -2.83211 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path2257"
+       style="display:inline;fill:#0000ff;stroke-width:0.761897"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="199.11029"
+       y="196.33344"
+       id="text2312"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="199.11029"
+         y="196.33344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2310">Operandos de</tspan><tspan
+         sodipodi:role="line"
+         x="199.11029"
+         y="206.8459"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2314">los regs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="432.80963"
+       y="132.95634"
+       id="text2496"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="432.80963"
+         y="132.95634"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.264583"
+         id="tspan2492">Estado</tspan><tspan
+         sodipodi:role="line"
+         x="432.80963"
+         y="143.46881"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.264583"
+         id="tspan2494">actual</tspan></text>
+    <rect
+       style="display:inline;fill:#f2f2f2;stroke:#000000;stroke-width:0.793753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498"
+       width="29.105585"
+       height="24.662848"
+       x="420.35675"
+       y="148.02539"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="424.9299"
+       y="158.67137"
+       id="text2504"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="424.9299"
+         y="158.67137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
+         id="tspan2500">PC</tspan><tspan
+         sodipodi:role="line"
+         x="424.9299"
+         y="169.18384"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
+         id="tspan2502">REGs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="438.12271"
+       y="45.588692"
+       id="text2510"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="438.12271"
+         y="45.588692"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2508">Ciclo i+1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="374.27292"
+       y="13.764805"
+       id="text2524"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="374.27292"
+         y="13.764805"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
+         id="tspan2520">¡Instrucción</tspan><tspan
+         sodipodi:role="line"
+         x="374.27292"
+         y="24.277267"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
+         id="tspan2522">ejecutada!</tspan></text>
+    <path
+       d="m 405.38488,157.30396 h 9.50549 v -4.24817 l 8.3924,7.0803 -8.3924,7.08029 v -4.24818 h -9.50549 v -2.83211 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path2364"
+       style="display:inline;fill:#0000ff;stroke-width:0.761897"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 446.39984,157.30396 h 9.50549 v -4.24817 l 8.3924,7.0803 -8.3924,7.08029 v -4.24818 h -9.50549 v -2.83211 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path2532"
+       style="display:inline;fill:#0000ff;stroke-width:0.761897"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Fases-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

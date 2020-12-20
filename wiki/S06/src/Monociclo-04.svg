@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="610.57727mm"
+   height="227.68965mm"
+   viewBox="0 0 610.57727 227.68965"
+   version="1.1"
+   id="svg1442"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   sodipodi:docname="Monociclo-04.svg">
+  <defs
+     id="defs1436">
+    <rect
+       x="204.08769"
+       y="-1030.4247"
+       width="98.157959"
+       height="41.856464"
+       id="rect1709" />
+    <rect
+       x="204.08769"
+       y="-1030.4247"
+       width="104.35101"
+       height="30.961933"
+       id="rect2030" />
+    <rect
+       x="204.08769"
+       y="-1030.4247"
+       width="453.69696"
+       height="209.62891"
+       id="rect2114" />
+    <rect
+       x="204.08769"
+       y="-1030.4247"
+       width="71.96167"
+       height="41.856464"
+       id="rect2270" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1672.0822"
+     inkscape:cy="382.50737"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata1439">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(268.10962,225.94241)">
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.793398;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect14064"
+       width="610.57727"
+       height="227.68965"
+       x="-268.10962"
+       y="-225.94241"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Monociclo-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline"
+     transform="translate(268.10962,225.94241)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-191.22987"
+       y="-196.42189"
+       id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Monociclo-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="-191.22987"
+         y="-196.42189"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan2886">Programa Fuente</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1707"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1709);display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.66188;"
+       transform="matrix(1.5108482,0,0,1.5108482,-258.52594,1383.7094)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Monociclo-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="204.08789"
+         y="-1021.0601"><tspan
+           style="fill:#0000ff;stroke-width:0.66188">addi x5, x0, 0xC0
+</tspan></tspan><tspan
+         x="204.08789"
+         y="-1007.831"><tspan
+           style="fill:#0000ff;stroke-width:0.66188">addi x6, x5, 1
+</tspan></tspan><tspan
+         x="204.08789"
+         y="-994.60184"><tspan
+           style="fill:#0000ff;stroke-width:0.66188">beq x0,x0, 0</tspan></tspan></text>
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1635-2"
+       width="588.63007"
+       height="202.78857"
+       x="-258.31976"
+       y="-214.60835"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Monociclo-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       id="text2112"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2114);display:inline;fill:#0000ff;fill-opacity:1;stroke:none;"
+       transform="translate(-448.96781,855.01722)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Monociclo-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="204.08789"
+         y="-1021.0601"><tspan
+           style="fill:#008000">#-- TEST 1: Programa de prueba para el nanoRiscV
+</tspan></tspan><tspan
+         x="204.08789"
+         y="-1007.831"><tspan
+           style="fill:#008000">#-- Assigna los siguientes valores a los registros
+</tspan></tspan><tspan
+         x="204.08789"
+         y="-994.60184"><tspan
+           style="fill:#008000">#-- t0 = 0xC0
+</tspan></tspan><tspan
+         x="204.08789"
+         y="-981.37271"><tspan
+           style="fill:#008000">#-- t1 = t0 + 1 = 0xC1</tspan><tspan
+           style="shape-inside:url(#rect2114);display:inline">
+</tspan></tspan><tspan
+         x="204.08789"
+         y="-968.14358"><tspan
+           style="shape-inside:url(#rect2114);display:inline">
+</tspan></tspan><tspan
+         x="204.08789"
+         y="-954.91446"><tspan
+           style="fill:#ff00ff">	</tspan><tspan
+           style="fill:#ff00ff">.text</tspan><tspan
+           style="shape-inside:url(#rect2114);display:inline">
+</tspan></tspan><tspan
+         x="204.08789"
+         y="-941.68533"><tspan
+           style="shape-inside:url(#rect2114);display:inline">	</tspan><tspan
+           style="shape-inside:url(#rect2114);display:inline">
+</tspan></tspan><tspan
+         x="204.08789"
+         y="-928.45621"><tspan
+           style="shape-inside:url(#rect2114);display:inline">	</tspan><tspan
+           style="shape-inside:url(#rect2114);display:inline">li t0, 0xC0      </tspan><tspan
+           style="fill:#008000">#-- t0 = 0xC0</tspan><tspan
+           style="shape-inside:url(#rect2114);display:inline">
+</tspan></tspan><tspan
+         x="204.08789"
+         y="-915.22708"><tspan
+           style="shape-inside:url(#rect2114);display:inline">	</tspan><tspan
+           style="shape-inside:url(#rect2114);display:inline">addi t1, t0, 1  </tspan><tspan
+           style="fill:#008000">#-- t1 = t0 + 1</tspan><tspan
+           style="shape-inside:url(#rect2114);display:inline">
+</tspan></tspan><tspan
+         x="204.08789"
+         y="-901.99795"><tspan
+           style="shape-inside:url(#rect2114);display:inline">	</tspan><tspan
+           style="shape-inside:url(#rect2114);display:inline">
+</tspan></tspan><tspan
+         x="204.08789"
+         y="-888.76883"><tspan
+           style="shape-inside:url(#rect2114);display:inline">	</tspan><tspan
+           style="fill:#008000">#-- Detener al procesador</tspan><tspan
+           style="shape-inside:url(#rect2114);display:inline"> 
+</tspan></tspan><tspan
+         x="204.08789"
+         y="-875.5397"><tspan
+           style="fill:#000000">stop:</tspan><tspan
+           style="shape-inside:url(#rect2114);display:inline">   beq x0,x0, </tspan><tspan
+           style="fill:#000000">stop</tspan><tspan
+           style="shape-inside:url(#rect2114);display:inline"> </tspan><tspan
+           style="fill:#008000">#-- (Bucle infinito)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="69.332672"
+       y="-196.42189"
+       id="text2254"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Monociclo-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="69.332672"
+         y="-196.42189"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan2252">Instrucciones básicas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="231.15964"
+       y="-196.42189"
+       id="text2258"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Monociclo-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="231.15964"
+         y="-196.42189"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan2256">Código máquina</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2268"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2270);display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.66188;"
+       transform="matrix(1.5108482,0,0,1.5108482,-88.628415,1383.6063)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Monociclo-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="204.08789"
+         y="-1021.0601"><tspan
+           style="shape-inside:url(#rect2270);display:inline">0x0C000293
+</tspan></tspan><tspan
+         x="204.08789"
+         y="-1007.831"><tspan
+           style="shape-inside:url(#rect2270);display:inline">0x00128313
+</tspan></tspan><tspan
+         x="204.08789"
+         y="-994.60184"><tspan
+           style="shape-inside:url(#rect2270);display:inline">0x00000063</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -258.31976,-183.3968 H 330.3103"
+       id="path2280"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Monociclo-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 36.361753,-214.60836 V -11.819779"
+       id="path2286"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Monociclo-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 202.36934,-214.60836 V -11.819779"
+       id="path2288"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Monociclo-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
