@@ -8,8 +8,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="515.82666mm"
-   height="233.66023mm"
-   viewBox="0 0 515.82667 233.66023"
+   height="242.56012mm"
+   viewBox="0 0 515.82667 242.56012"
    version="1.1"
    id="svg1487"
    inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
@@ -233,17 +233,17 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.44439634"
      inkscape:cx="986.86953"
-     inkscape:cy="562.01655"
+     inkscape:cy="562.01656"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1860"
-     inkscape:window-height="1016"
-     inkscape:window-x="60"
-     inkscape:window-y="27"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -266,15 +266,15 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(197.58842,25.387974)"
+     transform="translate(197.58842,25.387976)"
      style="display:inline">
     <rect
        style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.914935;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect14064"
        width="515.82666"
-       height="233.66023"
+       height="242.56012"
        x="-197.58842"
-       y="-25.387974"
+       y="-25.387976"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Regs-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -283,7 +283,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(197.58842,25.387974)">
+     transform="translate(197.58842,25.387976)">
     <rect
        style="display:inline;fill:#f2f2f2;stroke:#000000;stroke-width:0.794004;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4232"
@@ -854,5 +854,25 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38664px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="56.464451"
+       y="187.82434"
+       id="text3975"
+       transform="scale(1.0047182,0.99530396)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/Regs-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="56.464451"
+         y="187.82434"
+         style="font-size:9.45703px;line-height:1.25;stroke-width:0.28222px"
+         id="tspan3973">Retardo lectura</tspan><tspan
+         sodipodi:role="line"
+         x="56.464451"
+         y="199.64563"
+         style="font-size:9.45703px;line-height:1.25;stroke-width:0.28222px"
+         id="tspan3979">Retardo escritura</tspan></text>
   </g>
 </svg>
