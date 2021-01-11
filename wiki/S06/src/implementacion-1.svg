@@ -1110,17 +1110,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45591097"
-     inkscape:cx="758.5719"
-     inkscape:cy="310.22436"
+     inkscape:zoom="0.64475548"
+     inkscape:cx="703.42447"
+     inkscape:cy="284.2477"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1858"
-     inkscape:window-height="1016"
-     inkscape:window-x="62"
-     inkscape:window-y="27"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -1137,7 +1137,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1154,7 +1154,7 @@
        height="190.69046"
        x="-113.66354"
        y="-730.80133"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
   </g>
@@ -1176,7 +1176,7 @@
        id="rect106-6"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1187,7 +1187,7 @@
        id="rect110-3"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1198,7 +1198,7 @@
        id="rect114-3"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1209,7 +1209,7 @@
        id="rect118-9"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1220,7 +1220,7 @@
        id="rect122-5"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1231,7 +1231,7 @@
        id="rect126-0"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1242,7 +1242,7 @@
        id="rect130-9"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1253,7 +1253,7 @@
        id="rect134-6"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1264,7 +1264,7 @@
        id="rect138-2"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1275,7 +1275,7 @@
        id="rect142-4"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1286,7 +1286,7 @@
        id="rect146-7"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1297,7 +1297,7 @@
        id="rect150-4"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1308,7 +1308,7 @@
        id="rect154-1"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1319,7 +1319,7 @@
        id="rect158-8"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1330,7 +1330,7 @@
        id="rect162-3"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1341,7 +1341,7 @@
        id="rect166-8"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1352,7 +1352,7 @@
        id="rect170-2"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1363,7 +1363,7 @@
        id="rect174-0"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1374,7 +1374,7 @@
        id="rect178-1"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1385,7 +1385,7 @@
        id="rect182-0"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1396,7 +1396,7 @@
        id="rect186-5"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1407,7 +1407,7 @@
        id="rect190-6"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1418,7 +1418,7 @@
        id="rect194-6"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1429,7 +1429,7 @@
        id="rect198-5"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1440,14 +1440,14 @@
        id="rect202-6"
        style="display:inline;fill:#8c8c8c;stroke:none;stroke-width:0"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <g
        id="g8506"
        transform="matrix(0.85816006,0,0,0.85816006,-132.01079,-214.79166)"
        style="display:inline"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <rect
@@ -1659,12 +1659,12 @@
        id="rect406-9"
        style="display:inline;fill:#303030;stroke:none;stroke-width:0"
        transform="rotate(90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <g
        id="g2536"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <rect
@@ -1956,7 +1956,7 @@
        id="polygon410-9"
        style="display:inline;fill:#1f1f1f;stroke-width:0"
        transform="matrix(0,2.7645082,-2.7645082,0,121.53561,-702.80407)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <polygon
@@ -1964,12 +1964,12 @@
        id="polygon412-6"
        style="display:inline;fill:#000000;stroke-width:0"
        transform="matrix(0,2.7645082,-2.7645082,0,121.53561,-702.80407)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <g
        id="g2508"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <rect
@@ -2263,7 +2263,7 @@
        id="circle416-5"
        style="display:inline;fill:#1f1f1f;stroke:none;stroke-width:0"
        transform="rotate(90)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -2272,7 +2272,7 @@
        x="22.199057"
        y="-598.66248"
        id="text5461-4"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -2286,7 +2286,7 @@
        x="9.4164143"
        y="-639.28357"
        id="text5461-3-9"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -2301,7 +2301,7 @@
        height="36.439106"
        x="60.324539"
        y="-669.29395"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -2311,7 +2311,7 @@
        height="6.7874384"
        x="60.389988"
        y="-630.9693"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2319,7 +2319,7 @@
        d="m 61.684944,-627.63944 v -2.49961 l 2.89941,0.009 c 2.605738,0.008 2.914189,0.0131 3.04524,0.0536 0.23627,0.0729 0.430879,0.18451 0.614079,0.35238 0.343369,0.31464 0.503079,0.66855 0.503079,1.11479 0,0.44088 -0.131109,0.74736 -0.46174,1.07936 -0.23109,0.23204 -0.4063,0.32966 -0.720569,0.40146 l -0.20629,0.0471 0.67529,0.93706 c 0.37142,0.51537 0.684581,0.95232 0.695899,0.971 0.01619,0.0268 -0.11884,0.034 -0.641109,0.034 h -0.661731 l -0.70436,-0.97778 -0.704369,-0.9778 h -1.636781 -1.636779 v 0.9778 0.97778 h -0.52964 -0.529629 z"
        id="path1057-0"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2327,7 +2327,7 @@
        d="m 67.455173,-628.21962 c 0.132789,-0.1013 0.216349,-0.28508 0.19659,-0.43239 -0.01701,-0.12721 -0.0828,-0.22515 -0.20846,-0.31069 l -0.0898,-0.0611 h -2.30465 -2.304661 v 0.44861 0.4486 l 2.304,-0.007 2.30401,-0.007 z"
        id="path1055-5"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2335,7 +2335,7 @@
        d="m 69.513903,-627.63183 0.007,-2.492 h 0.52964 0.52963 l 0.007,2.492 0.007,2.49201 h -0.543491 -0.5435 z"
        id="path1053-0"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2343,7 +2343,7 @@
        d="m 71.381354,-625.68254 v -0.54273 l 2.831518,-0.007 2.83151,-0.007 0.1027,-0.0639 c 0.27663,-0.17198 0.27839,-0.5995 0.003,-0.75731 l -0.105809,-0.0607 -2.159291,-8e-4 c -1.767531,-7.9e-4 -2.192589,-0.008 -2.34282,-0.0398 -0.691179,-0.14647 -1.207248,-0.83697 -1.15375,-1.54371 0.048,-0.63403 0.491001,-1.17503 1.12,-1.36779 0.15385,-0.0471 0.324739,-0.0499 3.055591,-0.0499 h 2.892618 l 0.008,0.53641 0.008,0.53643 -2.832092,5.3e-4 -2.83209,5.3e-4 -0.10864,0.0608 c -0.283168,0.15841 -0.293558,0.53958 -0.01979,0.72723 l 0.0972,0.0667 2.202061,0.0162 2.202058,0.0162 0.214331,0.0731 c 0.525,0.17914 0.924441,0.62067 1.034759,1.14379 0.02209,0.10457 0.0401,0.23902 0.0401,0.29877 0,0.17914 -0.0747,0.47777 -0.166109,0.66384 -0.114871,0.23391 -0.438581,0.56223 -0.667961,0.67749 -0.34512,0.17342 -0.196739,0.16609 -3.367051,0.16609 h -2.886919 z"
        id="path1051-2"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2351,7 +2351,7 @@
        d="m 81.009854,-625.17096 c -0.4937,-0.0911 -0.916112,-0.32208 -1.304592,-0.71334 -0.481999,-0.48545 -0.69763,-1.01873 -0.698368,-1.72715 -5.29e-4,-0.70311 0.203219,-1.21617 0.68348,-1.71937 0.470688,-0.49318 0.912619,-0.71645 1.54368,-0.77993 0.191238,-0.0192 1.069088,-0.0265 2.546209,-0.0212 l 2.254351,0.009 0.008,0.53642 0.008,0.53644 h -2.398621 c -2.600769,0 -2.543889,-0.003 -2.844988,0.14958 -0.0744,0.0377 -0.221141,0.14955 -0.326069,0.24852 -0.148151,0.13977 -0.215972,0.23084 -0.303602,0.40769 -0.107151,0.21622 -0.113458,0.24266 -0.125029,0.52334 -0.01019,0.24702 -0.003,0.3267 0.0452,0.48466 0.151561,0.49897 0.626941,0.91223 1.13085,0.98311 0.112451,0.0158 1.136201,0.0269 2.505591,0.0273 l 2.315459,5.3e-4 v 0.54322 0.54322 l -2.451251,-0.003 c -1.3662,-0.002 -2.51138,-0.0142 -2.587069,-0.0281 z"
        id="path1049-9"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2359,7 +2359,7 @@
        d="m 91.254652,-625.29599 c -0.0517,-0.0859 -0.646948,-1.10342 -1.32294,-2.26114 -0.675989,-1.15774 -1.288328,-2.2058 -1.360728,-2.32905 l -0.131652,-0.22407 h 0.619641 0.61966 l 1.12092,1.94878 c 0.61653,1.07185 1.129549,1.95804 1.140071,1.96934 0.01061,0.0113 0.527878,-0.86259 1.1497,-1.942 l 1.130588,-1.96254 0.616432,-0.008 0.616418,-0.008 -0.0396,0.0616 c -0.0218,0.0339 -0.672671,1.15248 -1.446482,2.48574 l -1.406919,2.42411 h -0.605677 -0.605661 z"
        id="path1047-4"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2367,7 +2367,7 @@
        d="m 86.700062,-627.62503 v -0.47532 h 1.0321 1.03211 v 0.47532 0.47531 h -1.03211 -1.0321 z"
        id="path1045-3"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2375,7 +2375,7 @@
        d="m 61.359112,-649.38019 v -14.47565 h 4.134482 c 2.603368,0 4.293428,0.0172 4.5637,0.0467 2.82202,0.30703 4.794848,2.06924 5.291889,4.72695 0.105749,0.56545 0.10654,1.55104 0.0021,2.14372 -0.384141,2.17186 -1.789401,3.8474 -3.81395,4.54747 -0.248812,0.086 -0.666502,0.20142 -0.928212,0.25643 -0.465928,0.0979 -0.5451,0.10031 -3.801919,0.11431 l -3.32608,0.0142 v 1.2084 1.20839 l 2.443739,2.88911 c 1.344052,1.58902 4.138242,4.89306 6.2093,7.34232 l 3.765582,4.4532 h -7.270102 -7.270118 z"
        id="path1043-5"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2383,7 +2383,7 @@
        d="m 83.663754,-634.9598 c 0.01799,-0.0304 0.22547,-0.30388 0.46092,-0.60775 0.23545,-0.30388 2.889488,-3.99352 5.897869,-8.19919 3.00839,-4.20567 5.487321,-7.66556 5.508739,-7.68866 0.02249,-0.0242 0.039,3.46637 0.039,8.25443 v 8.29643 h -5.969659 c -4.763791,0 -5.963039,-0.0112 -5.936829,-0.0553 z"
        id="path1041-1"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2391,7 +2391,7 @@
        d="m 75.677333,-642.91206 c -2.247199,-2.65479 -4.091049,-4.83891 -4.097449,-4.85359 -0.006,-0.0148 0.16269,-0.0534 0.375719,-0.0859 1.006181,-0.15375 2.034191,-0.48335 3.039329,-0.97444 3.566682,-1.74262 5.60323,-5.48813 5.364311,-9.86572 -0.157379,-2.88356 -1.31191,-5.51954 -3.213891,-7.33784 -1.35318,-1.29366 -2.991678,-2.11487 -4.96783,-2.48988 l -0.541819,-0.10282 11.967271,-0.003 11.967268,-0.003 v 4.36484 4.36486 l -7.497958,10.49753 c -5.731071,8.02382 -7.586742,10.59129 -7.874691,10.89536 -0.2072,0.21879 -0.38971,0.40319 -0.40558,0.40975 -0.0159,0.007 -1.86746,-2.16014 -4.11468,-4.81493 z"
        id="path1037-7"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -2401,7 +2401,7 @@
        height="145.85017"
        x="-21.595758"
        y="-707.23163"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2409,7 +2409,7 @@
        style="display:inline;fill:#ffcc00;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -42.10627,-689.4023 h 21.26346 l 6.35194,7.09013 -6.35194,7.09014 h -21.26346 z"
        sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -2418,7 +2418,7 @@
        x="-37.883682"
        y="-679.0788"
        id="text1925-3-7-3-6-7-6-3-2-8-4-7-6-4"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -2429,7 +2429,7 @@
     <g
        id="g1810"
        transform="translate(291.70164,165.9642)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <path
@@ -2458,7 +2458,7 @@
     <g
        id="g4731"
        transform="translate(91.135494,-631.88391)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="display:inline">
@@ -2488,7 +2488,7 @@
     <g
        id="g4741"
        transform="translate(-30.862131,-672.76811)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="display:inline">
@@ -2518,7 +2518,7 @@
     <g
        id="g4762"
        transform="translate(-405.78062,-484.76491)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="display:inline">
@@ -2548,7 +2548,7 @@
     <g
        id="g4770"
        transform="translate(-387.77817,-657.46512)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="display:inline">
@@ -2578,7 +2578,7 @@
     <g
        id="g4785"
        transform="translate(-234.50312,-722.03397)"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="display:inline">
@@ -2605,5 +2605,33 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
            id="tspan4781">MemWr</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-103.33395"
+       y="-639.27258"
+       id="text1598"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1596"
+         x="-103.33395"
+         y="-639.27258"
+         style="stroke-width:0.264583">Entradas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="159.7704"
+       y="-639.27258"
+       id="text1602"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S06/procesador-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1600"
+         x="159.7704"
+         y="-639.27258"
+         style="stroke-width:0.264583">Salidas</tspan></text>
   </g>
 </svg>
