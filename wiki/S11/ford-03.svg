@@ -1,0 +1,2371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="526.85742mm"
+   height="126.79849mm"
+   viewBox="0 0 526.85742 126.7985"
+   version="1.1"
+   id="svg1313"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   sodipodi:docname="ford-03.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1315"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.34075126"
+     inkscape:cx="864.26679"
+     inkscape:cy="292.00185"
+     inkscape:window-width="1858"
+     inkscape:window-height="1016"
+     inkscape:window-x="62"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs1310">
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path71951" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(2.3292091,2.8139117)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect68242"
+       width="526.85742"
+       height="126.79849"
+       x="-2.3292091"
+       y="-2.8139117"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(67.460268,27.978182)">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect67418"
+       width="520.40845"
+       height="120.10601"
+       x="-64.734184"
+       y="-24.767395"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path8488"
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.111756;stroke-linecap:round;stroke-linejoin:bevel"
+       inkscape:transform-center-x="2.4570246"
+       inkscape:transform-center-y="-2.5971899"
+       d="m 40.925727,35.972968 -2.670069,0.891052 c -1.591166,-0.03176 -2.689107,0.496088 -3.668121,1.422667 -0.979009,0.926579 -1.548462,2.332516 -1.59451,3.680053 H 14.238058 C 14.204141,40.619203 13.634701,39.213266 12.655691,38.286687 11.676677,37.360108 10.36881,36.861819 9.0214456,36.902064 v -0.9272 H 20.168511 v 0.561347 c 0,0 -0.153626,1.155161 0.419776,1.487283 0.573405,0.332118 1.688166,0.330737 1.688166,0.330737 l 4.929808,-0.04008 c 0,0 0.767129,0.05283 1.103116,-0.321642 0.705143,-0.785904 0.615331,-2.01764 0.615331,-2.01764 z"
+       sodipodi:nodetypes="ccsccsccccsccscc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g11303"
+       transform="matrix(0.65891965,0,0,0.65891965,25.518687,-31.750931)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 68.504177,105.32924 c 0.152098,0.22296 0,6.96473 0,6.96473 l -1.508618,-6.77279 z"
+         id="path7306"
+         inkscape:transform-center-x="0.72051042"
+         inkscape:transform-center-y="-3.4823707"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 61.744938,110.61465 c 0.253047,-0.0939 6.759239,1.67932 6.759239,1.67932 l -6.936722,-0.16894 z"
+         id="path7308"
+         inkscape:transform-center-x="3.4683632"
+         inkscape:transform-center-y="-0.84146662"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 30.765938,105.32924 c -0.152093,0.22296 0,6.96473 0,6.96473 l 1.508619,-6.77279 z"
+         id="path7310"
+         inkscape:transform-center-x="-0.72051022"
+         inkscape:transform-center-y="-3.4823707"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.525178,110.61465 c -0.253041,-0.0939 -6.75924,1.67932 -6.75924,1.67932 l 6.936729,-0.16894 z"
+         id="path7312"
+         inkscape:transform-center-x="-3.4683633"
+         inkscape:transform-center-y="-0.84146662"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path7314"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.144281;stroke-linecap:round;stroke-linejoin:bevel"
+         inkscape:transform-center-x="3.1720928"
+         inkscape:transform-center-y="-3.3530267"
+         d="m 68.496052,105.53726 c -2.054242,-0.041 -3.471717,0.64046 -4.735654,1.83671 -1.263932,1.19624 -1.999112,3.01135 -2.058562,4.75106 H 37.488604 c -0.04379,-1.73972 -0.778946,-3.55482 -2.042883,-4.75106 -1.263937,-1.19625 -2.952433,-1.83955 -4.691921,-1.78759 v -4.05173 h 14.391198 v 3.5794 c 0,0 -0.198335,1.49135 0.541943,1.92013 0.740284,0.42878 2.179479,0.42699 2.179479,0.42699 l 6.364532,-0.0517 c 0,0 0.990381,0.0682 1.42415,-0.41524 0.910362,-1.01463 0.774426,-2.8823 0.774426,-2.8823 0,0 -0.146689,-3.32372 0.823739,-4.340022 0.970428,-1.016299 4.170901,-0.878755 4.170901,-0.878755 l 11.609748,0.0033 -1.090724,5.490357 z"
+         sodipodi:nodetypes="csccsccccsccscscccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 30.765938,104.76374 H 45.138706"
+         id="path7320"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.279918,102.524 v 2.20391"
+         id="path7322"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 35.995221,102.524 v 2.20391"
+         id="path7324"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.806663,102.524 v 2.20391"
+         id="path7326"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 40.058876,102.524 v 2.20391"
+         id="path7328"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 41.820428,102.524 v 2.20391"
+         id="path7330"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:0.432842;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle7352"
+         cx="68.496056"
+         cy="112.12504"
+         r="0.960504"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:0.432842;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle7754"
+         cx="30.753799"
+         cy="112.12504"
+         r="0.960504"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g41563"
+       transform="matrix(0.26166539,0,0,0.26141028,14.371999,-12.153312)"
+       style="stroke-width:1.32516"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.05184;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 288.86236,188.44529 9.95303,-6.86784"
+         id="path3873"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:1.05184;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path3897"
+         cx="301.74509"
+         cy="179.89433"
+         rx="3.4330463"
+         ry="3.9588645"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 331.72826,194.29456 c 0.27892,0.40885 0,12.77199 0,12.77199 l -2.76652,-12.42002 z"
+         id="path6028"
+         inkscape:transform-center-x="1.3212789"
+         inkscape:transform-center-y="-6.3859965"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 319.3331,203.98698 c 0.46404,-0.1721 12.39516,3.07957 12.39516,3.07957 l -12.72063,-0.30981 z"
+         id="path6030"
+         inkscape:transform-center-x="6.3603183"
+         inkscape:transform-center-y="-1.5430856"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 262.52351,194.29456 c -0.27891,0.40885 0,12.77199 0,12.77199 l 2.76652,-12.42002 z"
+         id="path4332"
+         inkscape:transform-center-x="-1.3212792"
+         inkscape:transform-center-y="-6.3859965"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 274.91867,203.98698 c -0.46403,-0.1721 -12.39516,3.07957 -12.39516,3.07957 l 12.72064,-0.30981 z"
+         id="path4480"
+         inkscape:transform-center-x="-6.3603186"
+         inkscape:transform-center-y="-1.5430856"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path1472"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel"
+         inkscape:transform-center-x="5.8170147"
+         inkscape:transform-center-y="-6.148857"
+         d="m 331.71336,194.67603 c -3.76709,-0.0752 -6.36647,1.17449 -8.68429,3.36817 -2.31781,2.19368 -3.66599,5.52224 -3.77501,8.71254 l -44.40246,1e-5 c -0.0803,-3.19031 -1.42844,-6.51887 -3.74626,-8.71255 -2.31782,-2.19368 -5.4142,-3.37338 -8.60409,-3.2781 v -7.4301 h 26.39072 v 6.56394 c 0,0 -0.36371,2.73485 0.99382,3.52115 1.35754,0.78629 3.99675,0.78303 3.99675,0.78303 l 11.67134,-0.0949 c 0,0 1.81617,0.12507 2.61162,-0.76149 1.66943,-1.86063 1.42015,-5.28559 1.42015,-5.28559 0,0 -0.269,-6.09507 1.51058,-7.95877 1.77958,-1.8637 7.64864,-1.61147 7.64864,-1.61147 l 21.29007,0.006 -2.00018,10.06827 z"
+         sodipodi:nodetypes="csccsccccsccscscccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#333333;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect3573"
+         width="1.4262692"
+         height="8.1864052"
+         x="287.71555"
+         y="179.18617"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.350613;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect3677"
+         width="1.4262692"
+         height="10.143977"
+         x="287.71555"
+         y="169.04221"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 262.52351,193.25754 h 26.35692"
+         id="path3730"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 268.96748,189.15028 v 4.04155"
+         id="path3732"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 272.11302,189.15028 v 4.04155"
+         id="path3814"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 275.43486,189.15028 v 4.04155"
+         id="path3816"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 279.56499,189.15028 v 4.04155"
+         id="path3818"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 282.79534,189.15028 v 4.04155"
+         id="path3820"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#d35f5f;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect4023"
+         width="3.9275515"
+         height="6.9493322"
+         x="319.23395"
+         y="175.60104"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#d35f5f;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect4149"
+         width="3.9275515"
+         height="6.9493322"
+         x="336.02286"
+         y="175.60104"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#333333;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 338.31579,186.24892 12.84203,-2.54213 -1.92203,-8.50802 -11.0305,8.15776 z"
+         id="path4184"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#1a1a1a;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 262.50125,194.7661 c 0,0 6.29224,0.35433 9.09254,3.63559 2.8003,3.28127 3.25782,8.35505 3.25782,8.35505 h 1.79246 c 0,0 -0.17698,-5.58685 -4.32783,-9.67925 -4.15085,-4.09241 -9.75587,-3.73444 -9.75587,-3.73444 l -5.22766,-0.0563 0.0454,1.50178 z"
+         id="path4776"
+         sodipodi:nodetypes="czcczcccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#1a1a1a;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 332.24815,194.7661 c 0,0 -6.29224,0.35433 -9.09254,3.63559 -2.8003,3.28127 -3.25782,8.35505 -3.25782,8.35505 h -1.79246 c 0,0 0.17698,-5.58685 4.32783,-9.67925 4.15084,-4.09241 9.75586,-3.73444 9.75586,-3.73444 l 12.29542,0.1534 -0.0454,1.50178 z"
+         id="path5679"
+         sodipodi:nodetypes="czcczcccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 272.44559,206.75674 a 9.9220762,9.9220762 0 0 1 -9.92208,9.92208 9.9220762,9.9220762 0 0 1 -9.92207,-9.92208 9.9220762,9.9220762 0 0 1 9.92207,-9.92207 9.9220762,9.9220762 0 0 1 9.92208,9.92207 z"
+         id="path6816"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 269.982,206.75674 a 7.4584894,7.4584894 0 0 1 -7.45849,7.45849 7.4584894,7.4584894 0 0 1 -7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,7.45849 z"
+         id="circle6085"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:1.05184;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path6166"
+         cx="262.5235"
+         cy="206.75674"
+         r="1.7613815"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 341.63544,206.75674 a 9.9220762,9.9220762 0 0 1 -9.92208,9.92208 9.9220762,9.9220762 0 0 1 -9.92208,-9.92208 9.9220762,9.9220762 0 0 1 9.92208,-9.92207 9.9220762,9.9220762 0 0 1 9.92208,9.92207 z"
+         id="path7166"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 339.17185,206.75674 a 7.4584894,7.4584894 0 0 1 -7.45849,7.45849 7.4584894,7.4584894 0 0 1 -7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,7.45849 z"
+         id="path7168"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:1.05184;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle7170"
+         cx="331.71335"
+         cy="206.75674"
+         r="1.7613815"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g41965"
+       transform="matrix(0.24549207,0,0,0.24527952,15.966137,-18.298753)"
+       style="stroke-width:1.48588"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.17942;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 444.59917,227.80222 9.95303,-6.86784"
+         id="path7250"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:1.17942;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse7252"
+         cx="457.4819"
+         cy="219.25127"
+         rx="3.4330463"
+         ry="3.9588645"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 487.46507,233.65149 c 0.27892,0.40885 0,12.77199 0,12.77199 l -2.76652,-12.42002 z"
+         id="path7254"
+         inkscape:transform-center-x="1.3212789"
+         inkscape:transform-center-y="-6.3859965"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 475.06991,243.34391 c 0.46404,-0.1721 12.39516,3.07957 12.39516,3.07957 l -12.72063,-0.30981 z"
+         id="path7256"
+         inkscape:transform-center-x="6.3603183"
+         inkscape:transform-center-y="-1.5430856"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 418.26032,233.65149 c -0.27891,0.40885 0,12.77199 0,12.77199 l 2.76652,-12.42002 z"
+         id="path7258"
+         inkscape:transform-center-x="-1.3212792"
+         inkscape:transform-center-y="-6.3859965"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 430.65548,243.34391 c -0.46403,-0.1721 -12.39516,3.07957 -12.39516,3.07957 l 12.72064,-0.30981 z"
+         id="path7260"
+         inkscape:transform-center-x="-6.3603186"
+         inkscape:transform-center-y="-1.5430856"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path7262"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel"
+         inkscape:transform-center-x="5.8170147"
+         inkscape:transform-center-y="-6.148857"
+         d="m 487.45017,234.03296 c -3.76709,-0.0752 -6.36647,1.17449 -8.68429,3.36817 -2.31781,2.19368 -3.66599,5.52224 -3.77501,8.71254 l -44.40246,10e-6 c -0.0803,-3.19031 -1.42844,-6.51887 -3.74626,-8.71255 -2.31782,-2.19368 -5.4142,-3.37338 -8.60409,-3.2781 v -7.4301 h 26.39072 v 6.56394 c 0,0 -0.36371,2.73485 0.99382,3.52115 1.35754,0.78629 3.99675,0.78303 3.99675,0.78303 l 11.67134,-0.0949 c 0,0 1.81617,0.12507 2.61162,-0.76149 1.66943,-1.86063 1.42015,-5.28559 1.42015,-5.28559 0,0 -0.269,-6.09507 1.51058,-7.95877 1.77958,-1.8637 7.64864,-1.61147 7.64864,-1.61147 l 21.29007,0.006 -2.00018,10.06827 z"
+         sodipodi:nodetypes="csccsccccsccscscccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#333333;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect7264"
+         width="1.4262692"
+         height="8.1864052"
+         x="443.45236"
+         y="218.54311"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.393137;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect7266"
+         width="1.4262692"
+         height="10.143977"
+         x="443.45236"
+         y="208.39914"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 418.26032,232.61447 h 26.35692"
+         id="path7268"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 424.70429,228.50721 v 4.04155"
+         id="path7270"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 427.84983,228.50721 v 4.04155"
+         id="path7272"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 431.17167,228.50721 v 4.04155"
+         id="path7274"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 435.3018,228.50721 v 4.04155"
+         id="path7276"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 438.53215,228.50721 v 4.04155"
+         id="path7278"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#d35f5f;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect7280"
+         width="3.9275515"
+         height="6.9493322"
+         x="474.97076"
+         y="214.95798"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#d35f5f;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect7282"
+         width="3.9275515"
+         height="6.9493322"
+         x="491.75967"
+         y="214.95798"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#333333;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 494.0526,225.60585 12.84203,-2.54213 -1.92203,-8.50802 -11.0305,8.15776 z"
+         id="path7284"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#1a1a1a;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 418.23806,234.12303 c 0,0 6.29224,0.35433 9.09254,3.63559 2.8003,3.28127 3.25782,8.35505 3.25782,8.35505 h 1.79245 c 0,0 -0.17697,-5.58685 -4.32782,-9.67925 -4.15085,-4.09241 -9.75587,-3.73444 -9.75587,-3.73444 l -5.22766,-0.0563 0.0454,1.50178 z"
+         id="path7286"
+         sodipodi:nodetypes="czcczcccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#1a1a1a;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 487.98496,234.12303 c 0,0 -6.29224,0.35433 -9.09254,3.63559 -2.8003,3.28127 -3.25782,8.35505 -3.25782,8.35505 h -1.79246 c 0,0 0.17698,-5.58685 4.32783,-9.67925 4.15084,-4.09241 9.75586,-3.73444 9.75586,-3.73444 l 12.29542,0.1534 -0.0454,1.50178 z"
+         id="path7288"
+         sodipodi:nodetypes="czcczcccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 428.1824,246.11367 a 9.9220762,9.9220762 0 0 1 -9.92208,9.92208 9.9220762,9.9220762 0 0 1 -9.92207,-9.92208 9.9220762,9.9220762 0 0 1 9.92207,-9.92207 9.9220762,9.9220762 0 0 1 9.92208,9.92207 z"
+         id="path7290"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 425.71881,246.11367 a 7.4584894,7.4584894 0 0 1 -7.45849,7.45849 7.4584894,7.4584894 0 0 1 -7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,7.45849 z"
+         id="path7292"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:1.17942;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle7294"
+         cx="418.26031"
+         cy="246.11368"
+         r="1.7613815"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 497.37225,246.11367 a 9.9220762,9.9220762 0 0 1 -9.92208,9.92208 9.9220762,9.9220762 0 0 1 -9.92208,-9.92208 9.9220762,9.9220762 0 0 1 9.92208,-9.92207 9.9220762,9.9220762 0 0 1 9.92208,9.92207 z"
+         id="path7296"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 494.90866,246.11367 a 7.4584894,7.4584894 0 0 1 -7.45849,7.45849 7.4584894,7.4584894 0 0 1 -7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,7.45849 z"
+         id="path7298"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:1.17942;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle7300"
+         cx="487.45016"
+         cy="246.11368"
+         r="1.7613815"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         d="m 449.49893,238.88567 c 0,0 10.25206,11.54246 12.29891,16.25734 h 8.81035 c 3.69324,-11.27548 18.039,-38.18712 30.33969,-47.62044 2.54521,-3.27496 -3.85343,-4.62767 -9.0195,-2.458 -7.78694,3.26605 -22.47087,28.22875 -25.21188,34.23047 -3.88901,1.02343 -7.99162,-6.55882 -7.99518,-6.55882 z"
+         fill="#66cc44"
+         id="path7241"
+         style="stroke-width:0.393139"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.85968"
+       y="-7.5456233"
+       id="text3765"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3763"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="71.85968"
+         y="-7.5456233">Tiempo (Horas)</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11146"
+       width="34.985939"
+       height="17.697298"
+       x="6.9827952"
+       y="29.928617"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11309"
+       width="34.985939"
+       height="17.697298"
+       x="41.968735"
+       y="29.928617"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11394"
+       width="34.985939"
+       height="17.697298"
+       x="76.954674"
+       y="29.928617"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11396"
+       width="34.985939"
+       height="17.697298"
+       x="111.94061"
+       y="29.928617"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11507"
+       width="34.985939"
+       height="6.1667171"
+       x="6.9827948"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="4.3175902"
+       y="8.9582462"
+       id="text11591"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11589"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="4.3175902"
+         y="8.9582462">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="39.159267"
+       y="8.9582462"
+       id="text12453"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan12451"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="39.159267"
+         y="8.9582462">2</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect15431"
+       width="34.985939"
+       height="6.1667171"
+       x="111.9406"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect15433"
+       width="34.985939"
+       height="6.1667171"
+       x="76.954674"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect15435"
+       width="34.985939"
+       height="6.1667171"
+       x="41.968735"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="74.255142"
+       y="8.9582462"
+       id="text15439"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan15437"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="74.255142"
+         y="8.9582462">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="108.89492"
+       y="8.9582462"
+       id="text17111"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan17109"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="108.89492"
+         y="8.9582462">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="143.95145"
+       y="8.9582462"
+       id="text23427"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan23425"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="143.95145"
+         y="8.9582462">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-37.674282"
+       y="41.282192"
+       id="text29352"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan29350"
+         style="font-size:8.46667px;stroke-width:0.264583;fill:#0000ff"
+         x="-37.674282"
+         y="41.282192">Coche 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-50.847355"
+       y="7.5005441"
+       id="text30940"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan30938"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="-50.847355"
+         y="7.5005441">Vehículos</tspan></text>
+    <path
+       id="path33666"
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.111756;stroke-linecap:round;stroke-linejoin:bevel"
+       inkscape:transform-center-x="2.4570246"
+       inkscape:transform-center-y="-2.5971899"
+       d="m 180.88393,53.72772 -2.67007,0.891052 c -1.59116,-0.03176 -2.6891,0.496088 -3.66812,1.422667 -0.97901,0.926579 -1.54846,2.332516 -1.59451,3.680053 h -18.75497 c -0.0339,-1.347537 -0.60335,-2.753474 -1.58236,-3.680053 -0.97902,-0.926579 -2.28688,-1.424868 -3.63425,-1.384623 v -0.9272 h 11.14707 v 0.561347 c 0,0 -0.15363,1.155161 0.41977,1.487283 0.57341,0.332118 1.68817,0.330737 1.68817,0.330737 l 4.92981,-0.04008 c 0,0 0.76713,0.05283 1.10311,-0.321642 0.70515,-0.785904 0.61533,-2.01764 0.61533,-2.01764 z"
+       sodipodi:nodetypes="ccsccsccccsccscc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g33694"
+       transform="matrix(0.65891965,0,0,0.65891965,165.47689,-13.996179)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 68.504177,105.32924 c 0.152098,0.22296 0,6.96473 0,6.96473 l -1.508618,-6.77279 z"
+         id="path33668"
+         inkscape:transform-center-x="0.72051042"
+         inkscape:transform-center-y="-3.4823707"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 61.744938,110.61465 c 0.253047,-0.0939 6.759239,1.67932 6.759239,1.67932 l -6.936722,-0.16894 z"
+         id="path33670"
+         inkscape:transform-center-x="3.4683632"
+         inkscape:transform-center-y="-0.84146662"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 30.765938,105.32924 c -0.152093,0.22296 0,6.96473 0,6.96473 l 1.508619,-6.77279 z"
+         id="path33672"
+         inkscape:transform-center-x="-0.72051022"
+         inkscape:transform-center-y="-3.4823707"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.525178,110.61465 c -0.253041,-0.0939 -6.75924,1.67932 -6.75924,1.67932 l 6.936729,-0.16894 z"
+         id="path33674"
+         inkscape:transform-center-x="-3.4683633"
+         inkscape:transform-center-y="-0.84146662"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path33676"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.144281;stroke-linecap:round;stroke-linejoin:bevel"
+         inkscape:transform-center-x="3.1720928"
+         inkscape:transform-center-y="-3.3530267"
+         d="m 68.496052,105.53726 c -2.054242,-0.041 -3.471717,0.64046 -4.735654,1.83671 -1.263932,1.19624 -1.999112,3.01135 -2.058562,4.75106 H 37.488604 c -0.04379,-1.73972 -0.778946,-3.55482 -2.042883,-4.75106 -1.263937,-1.19625 -2.952433,-1.83955 -4.691921,-1.78759 v -4.05173 h 14.391198 v 3.5794 c 0,0 -0.198335,1.49135 0.541943,1.92013 0.740284,0.42878 2.179479,0.42699 2.179479,0.42699 l 6.364532,-0.0517 c 0,0 0.990381,0.0682 1.42415,-0.41524 0.910362,-1.01463 0.774426,-2.8823 0.774426,-2.8823 0,0 -0.146689,-3.32372 0.823739,-4.340022 0.970428,-1.016299 4.170901,-0.878755 4.170901,-0.878755 l 11.609748,0.0033 -1.090724,5.490357 z"
+         sodipodi:nodetypes="csccsccccsccscscccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 30.765938,104.76374 H 45.138706"
+         id="path33678"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.279918,102.524 v 2.20391"
+         id="path33680"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 35.995221,102.524 v 2.20391"
+         id="path33682"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.806663,102.524 v 2.20391"
+         id="path33684"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 40.058876,102.524 v 2.20391"
+         id="path33686"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 41.820428,102.524 v 2.20391"
+         id="path33688"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:0.432842;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle33690"
+         cx="68.496056"
+         cy="112.12504"
+         r="0.960504"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:0.432842;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle33692"
+         cx="30.753799"
+         cy="112.12504"
+         r="0.960504"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g33748"
+       transform="matrix(0.26166539,0,0,0.26141028,154.3302,5.6014404)"
+       style="stroke-width:1.32516"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.05184;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 288.86236,188.44529 9.95303,-6.86784"
+         id="path33696"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:1.05184;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse33698"
+         cx="301.74509"
+         cy="179.89433"
+         rx="3.4330463"
+         ry="3.9588645"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 331.72826,194.29456 c 0.27892,0.40885 0,12.77199 0,12.77199 l -2.76652,-12.42002 z"
+         id="path33700"
+         inkscape:transform-center-x="1.3212789"
+         inkscape:transform-center-y="-6.3859965"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 319.3331,203.98698 c 0.46404,-0.1721 12.39516,3.07957 12.39516,3.07957 l -12.72063,-0.30981 z"
+         id="path33702"
+         inkscape:transform-center-x="6.3603183"
+         inkscape:transform-center-y="-1.5430856"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 262.52351,194.29456 c -0.27891,0.40885 0,12.77199 0,12.77199 l 2.76652,-12.42002 z"
+         id="path33704"
+         inkscape:transform-center-x="-1.3212792"
+         inkscape:transform-center-y="-6.3859965"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 274.91867,203.98698 c -0.46403,-0.1721 -12.39516,3.07957 -12.39516,3.07957 l 12.72064,-0.30981 z"
+         id="path33706"
+         inkscape:transform-center-x="-6.3603186"
+         inkscape:transform-center-y="-1.5430856"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path33708"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel"
+         inkscape:transform-center-x="5.8170147"
+         inkscape:transform-center-y="-6.148857"
+         d="m 331.71336,194.67603 c -3.76709,-0.0752 -6.36647,1.17449 -8.68429,3.36817 -2.31781,2.19368 -3.66599,5.52224 -3.77501,8.71254 l -44.40246,1e-5 c -0.0803,-3.19031 -1.42844,-6.51887 -3.74626,-8.71255 -2.31782,-2.19368 -5.4142,-3.37338 -8.60409,-3.2781 v -7.4301 h 26.39072 v 6.56394 c 0,0 -0.36371,2.73485 0.99382,3.52115 1.35754,0.78629 3.99675,0.78303 3.99675,0.78303 l 11.67134,-0.0949 c 0,0 1.81617,0.12507 2.61162,-0.76149 1.66943,-1.86063 1.42015,-5.28559 1.42015,-5.28559 0,0 -0.269,-6.09507 1.51058,-7.95877 1.77958,-1.8637 7.64864,-1.61147 7.64864,-1.61147 l 21.29007,0.006 -2.00018,10.06827 z"
+         sodipodi:nodetypes="csccsccccsccscscccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#333333;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect33710"
+         width="1.4262692"
+         height="8.1864052"
+         x="287.71555"
+         y="179.18617"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.350613;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect33712"
+         width="1.4262692"
+         height="10.143977"
+         x="287.71555"
+         y="169.04221"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 262.52351,193.25754 h 26.35692"
+         id="path33714"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 268.96748,189.15028 v 4.04155"
+         id="path33716"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 272.11302,189.15028 v 4.04155"
+         id="path33718"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 275.43486,189.15028 v 4.04155"
+         id="path33720"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 279.56499,189.15028 v 4.04155"
+         id="path33722"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 282.79534,189.15028 v 4.04155"
+         id="path33724"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#d35f5f;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect33726"
+         width="3.9275515"
+         height="6.9493322"
+         x="319.23395"
+         y="175.60104"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#d35f5f;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect33728"
+         width="3.9275515"
+         height="6.9493322"
+         x="336.02286"
+         y="175.60104"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#333333;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 338.31579,186.24892 12.84203,-2.54213 -1.92203,-8.50802 -11.0305,8.15776 z"
+         id="path33730"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#1a1a1a;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 262.50125,194.7661 c 0,0 6.29224,0.35433 9.09254,3.63559 2.8003,3.28127 3.25782,8.35505 3.25782,8.35505 h 1.79246 c 0,0 -0.17698,-5.58685 -4.32783,-9.67925 -4.15085,-4.09241 -9.75587,-3.73444 -9.75587,-3.73444 l -5.22766,-0.0563 0.0454,1.50178 z"
+         id="path33732"
+         sodipodi:nodetypes="czcczcccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#1a1a1a;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 332.24815,194.7661 c 0,0 -6.29224,0.35433 -9.09254,3.63559 -2.8003,3.28127 -3.25782,8.35505 -3.25782,8.35505 h -1.79246 c 0,0 0.17698,-5.58685 4.32783,-9.67925 4.15084,-4.09241 9.75586,-3.73444 9.75586,-3.73444 l 12.29542,0.1534 -0.0454,1.50178 z"
+         id="path33734"
+         sodipodi:nodetypes="czcczcccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 272.44559,206.75674 a 9.9220762,9.9220762 0 0 1 -9.92208,9.92208 9.9220762,9.9220762 0 0 1 -9.92207,-9.92208 9.9220762,9.9220762 0 0 1 9.92207,-9.92207 9.9220762,9.9220762 0 0 1 9.92208,9.92207 z"
+         id="path33736"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 269.982,206.75674 a 7.4584894,7.4584894 0 0 1 -7.45849,7.45849 7.4584894,7.4584894 0 0 1 -7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,7.45849 z"
+         id="path33738"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:1.05184;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle33740"
+         cx="262.5235"
+         cy="206.75674"
+         r="1.7613815"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 341.63544,206.75674 a 9.9220762,9.9220762 0 0 1 -9.92208,9.92208 9.9220762,9.9220762 0 0 1 -9.92208,-9.92208 9.9220762,9.9220762 0 0 1 9.92208,-9.92207 9.9220762,9.9220762 0 0 1 9.92208,9.92207 z"
+         id="path33742"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 339.17185,206.75674 a 7.4584894,7.4584894 0 0 1 -7.45849,7.45849 7.4584894,7.4584894 0 0 1 -7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,7.45849 z"
+         id="path33744"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:1.05184;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle33746"
+         cx="331.71335"
+         cy="206.75674"
+         r="1.7613815"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g33804"
+       transform="matrix(0.24549207,0,0,0.24527952,155.92434,-0.54400015)"
+       style="stroke-width:1.48588"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.17942;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 444.59917,227.80222 9.95303,-6.86784"
+         id="path33750"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:1.17942;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse33752"
+         cx="457.4819"
+         cy="219.25127"
+         rx="3.4330463"
+         ry="3.9588645"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 487.46507,233.65149 c 0.27892,0.40885 0,12.77199 0,12.77199 l -2.76652,-12.42002 z"
+         id="path33754"
+         inkscape:transform-center-x="1.3212789"
+         inkscape:transform-center-y="-6.3859965"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 475.06991,243.34391 c 0.46404,-0.1721 12.39516,3.07957 12.39516,3.07957 l -12.72063,-0.30981 z"
+         id="path33756"
+         inkscape:transform-center-x="6.3603183"
+         inkscape:transform-center-y="-1.5430856"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 418.26032,233.65149 c -0.27891,0.40885 0,12.77199 0,12.77199 l 2.76652,-12.42002 z"
+         id="path33758"
+         inkscape:transform-center-x="-1.3212792"
+         inkscape:transform-center-y="-6.3859965"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 430.65548,243.34391 c -0.46403,-0.1721 -12.39516,3.07957 -12.39516,3.07957 l 12.72064,-0.30981 z"
+         id="path33760"
+         inkscape:transform-center-x="-6.3603186"
+         inkscape:transform-center-y="-1.5430856"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path33762"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel"
+         inkscape:transform-center-x="5.8170147"
+         inkscape:transform-center-y="-6.148857"
+         d="m 487.45017,234.03296 c -3.76709,-0.0752 -6.36647,1.17449 -8.68429,3.36817 -2.31781,2.19368 -3.66599,5.52224 -3.77501,8.71254 l -44.40246,10e-6 c -0.0803,-3.19031 -1.42844,-6.51887 -3.74626,-8.71255 -2.31782,-2.19368 -5.4142,-3.37338 -8.60409,-3.2781 v -7.4301 h 26.39072 v 6.56394 c 0,0 -0.36371,2.73485 0.99382,3.52115 1.35754,0.78629 3.99675,0.78303 3.99675,0.78303 l 11.67134,-0.0949 c 0,0 1.81617,0.12507 2.61162,-0.76149 1.66943,-1.86063 1.42015,-5.28559 1.42015,-5.28559 0,0 -0.269,-6.09507 1.51058,-7.95877 1.77958,-1.8637 7.64864,-1.61147 7.64864,-1.61147 l 21.29007,0.006 -2.00018,10.06827 z"
+         sodipodi:nodetypes="csccsccccsccscscccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#333333;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect33764"
+         width="1.4262692"
+         height="8.1864052"
+         x="443.45236"
+         y="218.54311"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.393137;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect33766"
+         width="1.4262692"
+         height="10.143977"
+         x="443.45236"
+         y="208.39914"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 418.26032,232.61447 h 26.35692"
+         id="path33768"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 424.70429,228.50721 v 4.04155"
+         id="path33770"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 427.84983,228.50721 v 4.04155"
+         id="path33772"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 431.17167,228.50721 v 4.04155"
+         id="path33774"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 435.3018,228.50721 v 4.04155"
+         id="path33776"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 438.53215,228.50721 v 4.04155"
+         id="path33778"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#d35f5f;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect33780"
+         width="3.9275515"
+         height="6.9493322"
+         x="474.97076"
+         y="214.95798"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#d35f5f;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect33782"
+         width="3.9275515"
+         height="6.9493322"
+         x="491.75967"
+         y="214.95798"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#333333;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 494.0526,225.60585 12.84203,-2.54213 -1.92203,-8.50802 -11.0305,8.15776 z"
+         id="path33784"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#1a1a1a;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 418.23806,234.12303 c 0,0 6.29224,0.35433 9.09254,3.63559 2.8003,3.28127 3.25782,8.35505 3.25782,8.35505 h 1.79245 c 0,0 -0.17697,-5.58685 -4.32782,-9.67925 -4.15085,-4.09241 -9.75587,-3.73444 -9.75587,-3.73444 l -5.22766,-0.0563 0.0454,1.50178 z"
+         id="path33786"
+         sodipodi:nodetypes="czcczcccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#1a1a1a;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 487.98496,234.12303 c 0,0 -6.29224,0.35433 -9.09254,3.63559 -2.8003,3.28127 -3.25782,8.35505 -3.25782,8.35505 h -1.79246 c 0,0 0.17698,-5.58685 4.32783,-9.67925 4.15084,-4.09241 9.75586,-3.73444 9.75586,-3.73444 l 12.29542,0.1534 -0.0454,1.50178 z"
+         id="path33788"
+         sodipodi:nodetypes="czcczcccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 428.1824,246.11367 a 9.9220762,9.9220762 0 0 1 -9.92208,9.92208 9.9220762,9.9220762 0 0 1 -9.92207,-9.92208 9.9220762,9.9220762 0 0 1 9.92207,-9.92207 9.9220762,9.9220762 0 0 1 9.92208,9.92207 z"
+         id="path33790"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 425.71881,246.11367 a 7.4584894,7.4584894 0 0 1 -7.45849,7.45849 7.4584894,7.4584894 0 0 1 -7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,7.45849 z"
+         id="path33792"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:1.17942;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle33794"
+         cx="418.26031"
+         cy="246.11368"
+         r="1.7613815"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 497.37225,246.11367 a 9.9220762,9.9220762 0 0 1 -9.92208,9.92208 9.9220762,9.9220762 0 0 1 -9.92208,-9.92208 9.9220762,9.9220762 0 0 1 9.92208,-9.92207 9.9220762,9.9220762 0 0 1 9.92208,9.92207 z"
+         id="path33796"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 494.90866,246.11367 a 7.4584894,7.4584894 0 0 1 -7.45849,7.45849 7.4584894,7.4584894 0 0 1 -7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,7.45849 z"
+         id="path33798"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:1.17942;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle33800"
+         cx="487.45016"
+         cy="246.11368"
+         r="1.7613815"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         d="m 449.49893,238.88567 c 0,0 10.25206,11.54246 12.29891,16.25734 h 8.81035 c 3.69324,-11.27548 18.039,-38.18712 30.33969,-47.62044 2.54521,-3.27496 -3.85343,-4.62767 -9.0195,-2.458 -7.78694,3.26605 -22.47087,28.22875 -25.21188,34.23047 -3.88901,1.02343 -7.99162,-6.55882 -7.99518,-6.55882 z"
+         fill="#66cc44"
+         id="path33802"
+         style="stroke-width:0.393139"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect33806"
+       width="34.985939"
+       height="17.697298"
+       x="146.94101"
+       y="47.683369"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect33808"
+       width="34.985939"
+       height="17.697298"
+       x="181.92696"
+       y="47.683369"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect33810"
+       width="34.985939"
+       height="17.697298"
+       x="216.91289"
+       y="47.683369"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect33812"
+       width="34.985939"
+       height="17.697298"
+       x="251.8988"
+       y="47.683369"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-37.674282"
+       y="60.054264"
+       id="text33816"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan33814"
+         style="font-size:8.46667px;stroke-width:0.264583;fill:#0000ff"
+         x="-37.674282"
+         y="60.054264">Coche 2</tspan></text>
+    <path
+       id="path37058"
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.111756;stroke-linecap:round;stroke-linejoin:bevel"
+       inkscape:transform-center-x="2.4570246"
+       inkscape:transform-center-y="-2.5971899"
+       d="m 320.82766,71.425018 -2.67007,0.891052 c -1.59116,-0.03176 -2.6891,0.496088 -3.66812,1.422667 -0.97901,0.926579 -1.54846,2.332516 -1.59451,3.680053 h -18.75497 c -0.0339,-1.347537 -0.60335,-2.753474 -1.58236,-3.680053 -0.97902,-0.926579 -2.28688,-1.424868 -3.63425,-1.384623 v -0.9272 h 11.14707 v 0.561347 c 0,0 -0.15363,1.155161 0.41977,1.487283 0.57341,0.332118 1.68817,0.330737 1.68817,0.330737 l 4.92981,-0.04008 c 0,0 0.76713,0.05283 1.10311,-0.321642 0.70515,-0.785904 0.61533,-2.01764 0.61533,-2.01764 z"
+       sodipodi:nodetypes="ccsccsccccsccscc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g37086"
+       transform="matrix(0.65891965,0,0,0.65891965,305.42062,3.701119)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 68.504177,105.32924 c 0.152098,0.22296 0,6.96473 0,6.96473 l -1.508618,-6.77279 z"
+         id="path37060"
+         inkscape:transform-center-x="0.72051042"
+         inkscape:transform-center-y="-3.4823707"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 61.744938,110.61465 c 0.253047,-0.0939 6.759239,1.67932 6.759239,1.67932 l -6.936722,-0.16894 z"
+         id="path37062"
+         inkscape:transform-center-x="3.4683632"
+         inkscape:transform-center-y="-0.84146662"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 30.765938,105.32924 c -0.152093,0.22296 0,6.96473 0,6.96473 l 1.508619,-6.77279 z"
+         id="path37064"
+         inkscape:transform-center-x="-0.72051022"
+         inkscape:transform-center-y="-3.4823707"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.525178,110.61465 c -0.253041,-0.0939 -6.75924,1.67932 -6.75924,1.67932 l 6.936729,-0.16894 z"
+         id="path37066"
+         inkscape:transform-center-x="-3.4683633"
+         inkscape:transform-center-y="-0.84146662"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path37068"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.144281;stroke-linecap:round;stroke-linejoin:bevel"
+         inkscape:transform-center-x="3.1720928"
+         inkscape:transform-center-y="-3.3530267"
+         d="m 68.496052,105.53726 c -2.054242,-0.041 -3.471717,0.64046 -4.735654,1.83671 -1.263932,1.19624 -1.999112,3.01135 -2.058562,4.75106 H 37.488604 c -0.04379,-1.73972 -0.778946,-3.55482 -2.042883,-4.75106 -1.263937,-1.19625 -2.952433,-1.83955 -4.691921,-1.78759 v -4.05173 h 14.391198 v 3.5794 c 0,0 -0.198335,1.49135 0.541943,1.92013 0.740284,0.42878 2.179479,0.42699 2.179479,0.42699 l 6.364532,-0.0517 c 0,0 0.990381,0.0682 1.42415,-0.41524 0.910362,-1.01463 0.774426,-2.8823 0.774426,-2.8823 0,0 -0.146689,-3.32372 0.823739,-4.340022 0.970428,-1.016299 4.170901,-0.878755 4.170901,-0.878755 l 11.609748,0.0033 -1.090724,5.490357 z"
+         sodipodi:nodetypes="csccsccccsccscscccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 30.765938,104.76374 H 45.138706"
+         id="path37070"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.279918,102.524 v 2.20391"
+         id="path37072"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 35.995221,102.524 v 2.20391"
+         id="path37074"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.806663,102.524 v 2.20391"
+         id="path37076"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 40.058876,102.524 v 2.20391"
+         id="path37078"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.144281px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 41.820428,102.524 v 2.20391"
+         id="path37080"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:0.432842;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle37082"
+         cx="68.496056"
+         cy="112.12504"
+         r="0.960504"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:0.432842;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle37084"
+         cx="30.753799"
+         cy="112.12504"
+         r="0.960504"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g37140"
+       transform="matrix(0.26166539,0,0,0.26141028,294.27393,23.298738)"
+       style="stroke-width:1.32516"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.05184;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 288.86236,188.44529 9.95303,-6.86784"
+         id="path37088"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:1.05184;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse37090"
+         cx="301.74509"
+         cy="179.89433"
+         rx="3.4330463"
+         ry="3.9588645"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 331.72826,194.29456 c 0.27892,0.40885 0,12.77199 0,12.77199 l -2.76652,-12.42002 z"
+         id="path37092"
+         inkscape:transform-center-x="1.3212789"
+         inkscape:transform-center-y="-6.3859965"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 319.3331,203.98698 c 0.46404,-0.1721 12.39516,3.07957 12.39516,3.07957 l -12.72063,-0.30981 z"
+         id="path37094"
+         inkscape:transform-center-x="6.3603183"
+         inkscape:transform-center-y="-1.5430856"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 262.52351,194.29456 c -0.27891,0.40885 0,12.77199 0,12.77199 l 2.76652,-12.42002 z"
+         id="path37096"
+         inkscape:transform-center-x="-1.3212792"
+         inkscape:transform-center-y="-6.3859965"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 274.91867,203.98698 c -0.46403,-0.1721 -12.39516,3.07957 -12.39516,3.07957 l 12.72064,-0.30981 z"
+         id="path37098"
+         inkscape:transform-center-x="-6.3603186"
+         inkscape:transform-center-y="-1.5430856"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path37100"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel"
+         inkscape:transform-center-x="5.8170147"
+         inkscape:transform-center-y="-6.148857"
+         d="m 331.71336,194.67603 c -3.76709,-0.0752 -6.36647,1.17449 -8.68429,3.36817 -2.31781,2.19368 -3.66599,5.52224 -3.77501,8.71254 l -44.40246,1e-5 c -0.0803,-3.19031 -1.42844,-6.51887 -3.74626,-8.71255 -2.31782,-2.19368 -5.4142,-3.37338 -8.60409,-3.2781 v -7.4301 h 26.39072 v 6.56394 c 0,0 -0.36371,2.73485 0.99382,3.52115 1.35754,0.78629 3.99675,0.78303 3.99675,0.78303 l 11.67134,-0.0949 c 0,0 1.81617,0.12507 2.61162,-0.76149 1.66943,-1.86063 1.42015,-5.28559 1.42015,-5.28559 0,0 -0.269,-6.09507 1.51058,-7.95877 1.77958,-1.8637 7.64864,-1.61147 7.64864,-1.61147 l 21.29007,0.006 -2.00018,10.06827 z"
+         sodipodi:nodetypes="csccsccccsccscscccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#333333;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect37102"
+         width="1.4262692"
+         height="8.1864052"
+         x="287.71555"
+         y="179.18617"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.350613;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect37104"
+         width="1.4262692"
+         height="10.143977"
+         x="287.71555"
+         y="169.04221"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 262.52351,193.25754 h 26.35692"
+         id="path37106"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 268.96748,189.15028 v 4.04155"
+         id="path37108"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 272.11302,189.15028 v 4.04155"
+         id="path37110"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 275.43486,189.15028 v 4.04155"
+         id="path37112"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 279.56499,189.15028 v 4.04155"
+         id="path37114"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 282.79534,189.15028 v 4.04155"
+         id="path37116"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#d35f5f;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect37118"
+         width="3.9275515"
+         height="6.9493322"
+         x="319.23395"
+         y="175.60104"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#d35f5f;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect37120"
+         width="3.9275515"
+         height="6.9493322"
+         x="336.02286"
+         y="175.60104"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#333333;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 338.31579,186.24892 12.84203,-2.54213 -1.92203,-8.50802 -11.0305,8.15776 z"
+         id="path37122"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#1a1a1a;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 262.50125,194.7661 c 0,0 6.29224,0.35433 9.09254,3.63559 2.8003,3.28127 3.25782,8.35505 3.25782,8.35505 h 1.79246 c 0,0 -0.17698,-5.58685 -4.32783,-9.67925 -4.15085,-4.09241 -9.75587,-3.73444 -9.75587,-3.73444 l -5.22766,-0.0563 0.0454,1.50178 z"
+         id="path37124"
+         sodipodi:nodetypes="czcczcccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#1a1a1a;stroke:#000000;stroke-width:0.350615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 332.24815,194.7661 c 0,0 -6.29224,0.35433 -9.09254,3.63559 -2.8003,3.28127 -3.25782,8.35505 -3.25782,8.35505 h -1.79246 c 0,0 0.17698,-5.58685 4.32783,-9.67925 4.15084,-4.09241 9.75586,-3.73444 9.75586,-3.73444 l 12.29542,0.1534 -0.0454,1.50178 z"
+         id="path37126"
+         sodipodi:nodetypes="czcczcccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 272.44559,206.75674 a 9.9220762,9.9220762 0 0 1 -9.92208,9.92208 9.9220762,9.9220762 0 0 1 -9.92207,-9.92208 9.9220762,9.9220762 0 0 1 9.92207,-9.92207 9.9220762,9.9220762 0 0 1 9.92208,9.92207 z"
+         id="path37128"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 269.982,206.75674 a 7.4584894,7.4584894 0 0 1 -7.45849,7.45849 7.4584894,7.4584894 0 0 1 -7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,7.45849 z"
+         id="path37130"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:1.05184;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle37132"
+         cx="262.5235"
+         cy="206.75674"
+         r="1.7613815"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 341.63544,206.75674 a 9.9220762,9.9220762 0 0 1 -9.92208,9.92208 9.9220762,9.9220762 0 0 1 -9.92208,-9.92208 9.9220762,9.9220762 0 0 1 9.92208,-9.92207 9.9220762,9.9220762 0 0 1 9.92208,9.92207 z"
+         id="path37134"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.350615;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 339.17185,206.75674 a 7.4584894,7.4584894 0 0 1 -7.45849,7.45849 7.4584894,7.4584894 0 0 1 -7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,7.45849 z"
+         id="path37136"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:1.05184;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle37138"
+         cx="331.71335"
+         cy="206.75674"
+         r="1.7613815"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g37196"
+       transform="matrix(0.24549207,0,0,0.24527952,295.86807,17.153298)"
+       style="stroke-width:1.48588"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.17942;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 444.59917,227.80222 9.95303,-6.86784"
+         id="path37142"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:1.17942;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse37144"
+         cx="457.4819"
+         cy="219.25127"
+         rx="3.4330463"
+         ry="3.9588645"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 487.46507,233.65149 c 0.27892,0.40885 0,12.77199 0,12.77199 l -2.76652,-12.42002 z"
+         id="path37146"
+         inkscape:transform-center-x="1.3212789"
+         inkscape:transform-center-y="-6.3859965"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 475.06991,243.34391 c 0.46404,-0.1721 12.39516,3.07957 12.39516,3.07957 l -12.72063,-0.30981 z"
+         id="path37148"
+         inkscape:transform-center-x="6.3603183"
+         inkscape:transform-center-y="-1.5430856"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 418.26032,233.65149 c -0.27891,0.40885 0,12.77199 0,12.77199 l 2.76652,-12.42002 z"
+         id="path37150"
+         inkscape:transform-center-x="-1.3212792"
+         inkscape:transform-center-y="-6.3859965"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 430.65548,243.34391 c -0.46403,-0.1721 -12.39516,3.07957 -12.39516,3.07957 l 12.72064,-0.30981 z"
+         id="path37152"
+         inkscape:transform-center-x="-6.3603186"
+         inkscape:transform-center-y="-1.5430856"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path37154"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel"
+         inkscape:transform-center-x="5.8170147"
+         inkscape:transform-center-y="-6.148857"
+         d="m 487.45017,234.03296 c -3.76709,-0.0752 -6.36647,1.17449 -8.68429,3.36817 -2.31781,2.19368 -3.66599,5.52224 -3.77501,8.71254 l -44.40246,10e-6 c -0.0803,-3.19031 -1.42844,-6.51887 -3.74626,-8.71255 -2.31782,-2.19368 -5.4142,-3.37338 -8.60409,-3.2781 v -7.4301 h 26.39072 v 6.56394 c 0,0 -0.36371,2.73485 0.99382,3.52115 1.35754,0.78629 3.99675,0.78303 3.99675,0.78303 l 11.67134,-0.0949 c 0,0 1.81617,0.12507 2.61162,-0.76149 1.66943,-1.86063 1.42015,-5.28559 1.42015,-5.28559 0,0 -0.269,-6.09507 1.51058,-7.95877 1.77958,-1.8637 7.64864,-1.61147 7.64864,-1.61147 l 21.29007,0.006 -2.00018,10.06827 z"
+         sodipodi:nodetypes="csccsccccsccscscccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#333333;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect37156"
+         width="1.4262692"
+         height="8.1864052"
+         x="443.45236"
+         y="218.54311"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.393137;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect37158"
+         width="1.4262692"
+         height="10.143977"
+         x="443.45236"
+         y="208.39914"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 418.26032,232.61447 h 26.35692"
+         id="path37160"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 424.70429,228.50721 v 4.04155"
+         id="path37162"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 427.84983,228.50721 v 4.04155"
+         id="path37164"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 431.17167,228.50721 v 4.04155"
+         id="path37166"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 435.3018,228.50721 v 4.04155"
+         id="path37168"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 438.53215,228.50721 v 4.04155"
+         id="path37170"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#d35f5f;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect37172"
+         width="3.9275515"
+         height="6.9493322"
+         x="474.97076"
+         y="214.95798"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#d35f5f;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect37174"
+         width="3.9275515"
+         height="6.9493322"
+         x="491.75967"
+         y="214.95798"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#333333;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 494.0526,225.60585 12.84203,-2.54213 -1.92203,-8.50802 -11.0305,8.15776 z"
+         id="path37176"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#1a1a1a;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 418.23806,234.12303 c 0,0 6.29224,0.35433 9.09254,3.63559 2.8003,3.28127 3.25782,8.35505 3.25782,8.35505 h 1.79245 c 0,0 -0.17697,-5.58685 -4.32782,-9.67925 -4.15085,-4.09241 -9.75587,-3.73444 -9.75587,-3.73444 l -5.22766,-0.0563 0.0454,1.50178 z"
+         id="path37178"
+         sodipodi:nodetypes="czcczcccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#1a1a1a;stroke:#000000;stroke-width:0.393139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 487.98496,234.12303 c 0,0 -6.29224,0.35433 -9.09254,3.63559 -2.8003,3.28127 -3.25782,8.35505 -3.25782,8.35505 h -1.79246 c 0,0 0.17698,-5.58685 4.32783,-9.67925 4.15084,-4.09241 9.75586,-3.73444 9.75586,-3.73444 l 12.29542,0.1534 -0.0454,1.50178 z"
+         id="path37180"
+         sodipodi:nodetypes="czcczcccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 428.1824,246.11367 a 9.9220762,9.9220762 0 0 1 -9.92208,9.92208 9.9220762,9.9220762 0 0 1 -9.92207,-9.92208 9.9220762,9.9220762 0 0 1 9.92207,-9.92207 9.9220762,9.9220762 0 0 1 9.92208,9.92207 z"
+         id="path37182"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 425.71881,246.11367 a 7.4584894,7.4584894 0 0 1 -7.45849,7.45849 7.4584894,7.4584894 0 0 1 -7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,7.45849 z"
+         id="path37184"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:1.17942;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle37186"
+         cx="418.26031"
+         cy="246.11368"
+         r="1.7613815"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 497.37225,246.11367 a 9.9220762,9.9220762 0 0 1 -9.92208,9.92208 9.9220762,9.9220762 0 0 1 -9.92208,-9.92208 9.9220762,9.9220762 0 0 1 9.92208,-9.92207 9.9220762,9.9220762 0 0 1 9.92208,9.92207 z"
+         id="path37188"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.393139;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 494.90866,246.11367 a 7.4584894,7.4584894 0 0 1 -7.45849,7.45849 7.4584894,7.4584894 0 0 1 -7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,-7.45849 7.4584894,7.4584894 0 0 1 7.45849,7.45849 z"
+         id="path37190"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:1.17942;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle37192"
+         cx="487.45016"
+         cy="246.11368"
+         r="1.7613815"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         d="m 449.49893,238.88567 c 0,0 10.25206,11.54246 12.29891,16.25734 h 8.81035 c 3.69324,-11.27548 18.039,-38.18712 30.33969,-47.62044 2.54521,-3.27496 -3.85343,-4.62767 -9.0195,-2.458 -7.78694,3.26605 -22.47087,28.22875 -25.21188,34.23047 -3.88901,1.02343 -7.99162,-6.55882 -7.99518,-6.55882 z"
+         fill="#66cc44"
+         id="path37194"
+         style="stroke-width:0.393139"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect37198"
+       width="34.985939"
+       height="17.697298"
+       x="286.88474"
+       y="65.380669"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect37200"
+       width="34.985939"
+       height="17.697298"
+       x="321.87067"
+       y="65.380669"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect37202"
+       width="34.985939"
+       height="17.697298"
+       x="356.85663"
+       y="65.380669"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect37204"
+       width="34.985939"
+       height="17.697298"
+       x="391.84253"
+       y="65.380669"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-37.674282"
+       y="77.424118"
+       id="text37208"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan37206"
+         style="font-size:8.46667px;stroke-width:0.264583;fill:#0000ff"
+         x="-37.674282"
+         y="77.424118">Coche 3</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect39045"
+       width="34.985939"
+       height="6.1667171"
+       x="181.92691"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="179.2617"
+       y="8.9582462"
+       id="text39049"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan39047"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="179.2617"
+         y="8.9582462">10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="214.10338"
+       y="8.9582462"
+       id="text39053"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan39051"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="214.10338"
+         y="8.9582462">12</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect39055"
+       width="34.985939"
+       height="6.1667171"
+       x="286.8847"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect39057"
+       width="34.985939"
+       height="6.1667171"
+       x="251.89879"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect39059"
+       width="34.985939"
+       height="6.1667171"
+       x="216.91286"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="249.19926"
+       y="8.9582462"
+       id="text39063"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan39061"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="249.19926"
+         y="8.9582462">14</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="281.60992"
+       y="8.9582462"
+       id="text39067"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan39065"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="281.60992"
+         y="8.9582462">16</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="318.89557"
+       y="8.9582462"
+       id="text39071"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan39069"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="318.89557"
+         y="8.9582462">18</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect39073"
+       width="34.985939"
+       height="6.1667171"
+       x="146.92654"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect51076"
+       width="34.985939"
+       height="6.1667171"
+       x="321.87064"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect51078"
+       width="34.985939"
+       height="6.1667171"
+       x="356.85657"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect51080"
+       width="34.985939"
+       height="6.1667171"
+       x="391.8425"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="350.7435"
+       y="8.9582462"
+       id="text53436"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan53434"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="350.7435"
+         y="8.9582462">20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="386.40756"
+       y="8.9582462"
+       id="text54988"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan54986"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="386.40756"
+         y="8.9582462">22</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="421.58066"
+       y="8.9582462"
+       id="text56488"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan56486"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="421.58066"
+         y="8.9582462">24</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 6.9827946,17.844031 v 69.05153"
+       id="path67858"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 426.82842,17.844042 V 65.380668"
+       id="path67860"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="179.05896"
+       y="35.747856"
+       id="text68982"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan68980"
+         style="font-size:8.46667px;fill:#000000;stroke-width:0.264583"
+         x="179.05896"
+         y="35.747856">Fin de la fabricación del coche 1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 174.59839,32.099001 -25.84214,5.045471"
+       id="path71889"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="34.497047"
+       y="74.400879"
+       id="text72558"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan72556"
+         style="font-size:8.46667px;fill:#000000;stroke-width:0.264583"
+         x="34.497047"
+         y="74.400879">Comienzo de la</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;fill:#000000;stroke-width:0.264583"
+         x="34.497047"
+         y="84.984215"
+         id="tspan72726">fabricación del coche 2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 108.92396,73.558439 141.52061,58.742348"
+       id="path74280"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
