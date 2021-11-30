@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="526.85742mm"
+   height="126.79849mm"
+   viewBox="0 0 526.85742 126.7985"
+   version="1.1"
+   id="svg1313"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   sodipodi:docname="aplicacion-03.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1315"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.34075126"
+     inkscape:cx="829.05049"
+     inkscape:cy="275.86105"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs1310">
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path71951" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(2.3292091,2.8139117)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect68242"
+       width="526.85742"
+       height="126.79849"
+       x="-2.3292091"
+       y="-2.8139117"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect67418"
+       width="520.40845"
+       height="120.10601"
+       x="-2.3292072"
+       y="3.8785713"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(67.460268,27.978182)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="150.65981"
+       y="-7.5456233"
+       id="text3765"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3763"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="150.65981"
+         y="-7.5456233">Tiempo (ps)</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11146"
+       width="34.985939"
+       height="17.697298"
+       x="6.9827952"
+       y="29.928617"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11309"
+       width="34.985939"
+       height="17.697298"
+       x="41.968735"
+       y="29.928617"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.239251;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11394"
+       width="20.337919"
+       height="17.771191"
+       x="76.917725"
+       y="29.891672"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264158;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11396"
+       width="24.817652"
+       height="17.753433"
+       x="97.227577"
+       y="29.900551"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11507"
+       width="34.985939"
+       height="6.1667171"
+       x="6.9827948"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="4.3175902"
+       y="-5.5893693"
+       id="text11591"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11589"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="4.3175902"
+         y="-5.5893693">0</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect15431"
+       width="34.985939"
+       height="6.1667171"
+       x="111.9406"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect15433"
+       width="34.985939"
+       height="6.1667171"
+       x="76.954674"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect15435"
+       width="34.985939"
+       height="6.1667171"
+       x="41.968735"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-37.674282"
+       y="41.282192"
+       id="text29352"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan29350"
+         style="font-size:8.46667px;fill:#0000ff;stroke-width:0.264583"
+         x="-37.674282"
+         y="41.282192">Inst. 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-62.342545"
+       y="9.418972"
+       id="text30940"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan30938"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="-62.342545"
+         y="9.418972">Intrucciones</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-37.674282"
+       y="60.054264"
+       id="text33816"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan33814"
+         style="font-size:8.46667px;fill:#0000ff;stroke-width:0.264583"
+         x="-37.674282"
+         y="60.054264">Inst. 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-37.674282"
+       y="77.424118"
+       id="text37208"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan37206"
+         style="font-size:8.46667px;fill:#0000ff;stroke-width:0.264583"
+         x="-37.674282"
+         y="77.424118">Inst. 3</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect39045"
+       width="34.985939"
+       height="6.1667171"
+       x="181.92691"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect39055"
+       width="34.985939"
+       height="6.1667171"
+       x="286.8847"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect39057"
+       width="34.985939"
+       height="6.1667171"
+       x="251.89879"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect39059"
+       width="34.985939"
+       height="6.1667171"
+       x="216.91286"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect39073"
+       width="34.985939"
+       height="6.1667171"
+       x="146.92654"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect51076"
+       width="34.985939"
+       height="6.1667171"
+       x="321.87064"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect51078"
+       width="34.985939"
+       height="6.1667171"
+       x="356.85657"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect51080"
+       width="34.985939"
+       height="6.1667171"
+       x="391.8425"
+       y="11.677324"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="427.5336"
+       y="8.9582462"
+       id="text56488"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan56486"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="427.5336"
+         y="8.9582462" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 6.9827946,17.844031 v 69.05153"
+       id="path67858"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 426.82842,17.844042 V 65.380668"
+       id="path67860"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="177.517"
+       y="36.960964"
+       id="text68982"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan68980"
+         style="font-size:8.46667px;fill:#000000;stroke-width:0.264583"
+         x="177.517"
+         y="36.960964">Fin de la instrucción 1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 173.71842,34.903796 -25.84214,5.045471"
+       id="path71889"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="40.472221"
+       y="67.243027"
+       id="text72558"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan72556"
+         style="font-size:8.46667px;fill:#000000;stroke-width:0.264583"
+         x="40.472221"
+         y="67.243027">Comienzo de la</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;fill:#000000;stroke-width:0.264583"
+         x="40.472221"
+         y="77.82637"
+         id="tspan72726">instrucción 2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 110.18409,72.467027 32.59665,-14.81609"
+       id="path74280"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect1467"
+       width="26.266066"
+       height="8.9241905"
+       x="10.95302"
+       y="34.187977"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect7080"
+       width="8.0564461"
+       height="8.9241886"
+       x="45.45599"
+       y="34.187977"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect10928"
+       width="8.0564461"
+       height="8.9241886"
+       x="55.871716"
+       y="34.187977"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect10930"
+       width="8.0564461"
+       height="8.9241886"
+       x="66.18483"
+       y="34.187977"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g46553"
+       transform="matrix(0.42644176,0,0,0.42644176,-29.313949,-18.838482)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         style="fill:#008000;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path11857"
+         cx="272.11084"
+         cy="133.73064"
+         r="10.990144"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 268.79047,141.01455 10.36909,-7.28391 -10.36909,-7.28391 z"
+         id="path11371"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g3942"
+       transform="translate(-4.2221003)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#d5f6ff;stroke:#000000;stroke-width:0.242169;stroke-linecap:round;stroke-linejoin:bevel"
+         id="rect13137"
+         width="10.539264"
+         height="13.214087"
+         x="108.43707"
+         y="32.056118"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,33.278866 h 7.67283"
+         id="path13305"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,34.174774 h 7.67283"
+         id="path13387"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,35.032549 h 7.67283"
+         id="path13389"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,35.877069 h 7.67283"
+         id="path13473"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,36.618001 h 7.67283"
+         id="path13475"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,37.419774 h 7.67283"
+         id="path13477"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,38.273936 h 7.67283"
+         id="path13479"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,39.102032 h 7.67283"
+         id="path13481"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,40.036542 h 7.67283"
+         id="path13483"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,40.944694 h 7.67283"
+         id="path13485"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,41.92416 h 7.67283"
+         id="path13487"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,42.855356 h 7.67283"
+         id="path13489"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,43.697958 h 7.67283"
+         id="path13491"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264546;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3532"
+       width="24.887751"
+       height="17.755533"
+       x="122.04523"
+       y="29.8995"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 134.16093,34.974522 v 5.794012 h 2.87405 l -4.10578,2.737191 -4.10579,-2.737191 h 2.87405 v -5.794012 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path29876"
+       style="fill:#0000ff;stroke-width:0.136859"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.410578;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect30025"
+       width="13.926614"
+       height="12.21084"
+       x="125.56319"
+       y="32.88287"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 135.86089,36.743333 c 0,0 1.50424,1.693565 1.80456,2.385354 h 1.2927 c 0.54189,-1.654392 2.64676,-5.602996 4.45158,-6.987092 0.37344,-0.480518 -0.5654,-0.678997 -1.32338,-0.360652 -1.14254,0.479209 -3.29704,4.141854 -3.69921,5.022455 -0.57061,0.150162 -1.17256,-0.962339 -1.17309,-0.962339 z"
+       fill="#66cc44"
+       id="path7241"
+       style="stroke-width:0.136859"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11526"
+       width="34.985939"
+       height="17.697298"
+       x="146.94101"
+       y="47.683369"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11528"
+       width="34.985939"
+       height="17.697298"
+       x="181.92694"
+       y="47.683369"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.239251;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11530"
+       width="20.337919"
+       height="17.771191"
+       x="216.87593"
+       y="47.646423"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264158;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11532"
+       width="24.817652"
+       height="17.753433"
+       x="237.18579"
+       y="47.655304"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect11534"
+       width="26.266066"
+       height="8.9241905"
+       x="150.91122"
+       y="51.94273"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect11536"
+       width="8.0564461"
+       height="8.9241886"
+       x="185.4142"
+       y="51.94273"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect11538"
+       width="8.0564461"
+       height="8.9241886"
+       x="195.82993"
+       y="51.94273"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect11540"
+       width="8.0564461"
+       height="8.9241886"
+       x="206.14304"
+       y="51.94273"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g11546"
+       transform="matrix(0.42644176,0,0,0.42644176,110.64426,-1.083729)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         style="fill:#008000;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle11542"
+         cx="272.11084"
+         cy="133.73064"
+         r="10.990144"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 268.79047,141.01455 10.36909,-7.28391 -10.36909,-7.28391 z"
+         id="path11544"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g11576"
+       transform="translate(135.73611,17.754753)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#d5f6ff;stroke:#000000;stroke-width:0.242169;stroke-linecap:round;stroke-linejoin:bevel"
+         id="rect11548"
+         width="10.539264"
+         height="13.214087"
+         x="108.43707"
+         y="32.056118"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,33.278866 h 7.67283"
+         id="path11550"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,34.174774 h 7.67283"
+         id="path11552"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,35.032549 h 7.67283"
+         id="path11554"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,35.877069 h 7.67283"
+         id="path11556"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,36.618001 h 7.67283"
+         id="path11558"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,37.419774 h 7.67283"
+         id="path11560"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,38.273936 h 7.67283"
+         id="path11562"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,39.102032 h 7.67283"
+         id="path11564"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,40.036542 h 7.67283"
+         id="path11566"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,40.944694 h 7.67283"
+         id="path11568"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,41.92416 h 7.67283"
+         id="path11570"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,42.855356 h 7.67283"
+         id="path11572"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,43.697958 h 7.67283"
+         id="path11574"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264546;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11578"
+       width="24.887751"
+       height="17.755533"
+       x="262.00345"
+       y="47.654251"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 274.11914,52.729275 v 5.794012 h 2.87405 l -4.10578,2.737191 -4.10579,-2.737191 h 2.87405 v -5.794012 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path11580"
+       style="fill:#0000ff;stroke-width:0.136859"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.410578;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect11582"
+       width="13.926614"
+       height="12.21084"
+       x="265.52139"
+       y="50.637623"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 275.8191,54.498086 c 0,0 1.50424,1.693565 1.80456,2.385354 h 1.2927 c 0.54189,-1.654392 2.64676,-5.602996 4.45158,-6.987092 0.37344,-0.480518 -0.5654,-0.678997 -1.32338,-0.360652 -1.14254,0.479209 -3.29704,4.141854 -3.69921,5.022455 -0.57061,0.150162 -1.17256,-0.962339 -1.17309,-0.962339 z"
+       fill="#66cc44"
+       id="path11584"
+       style="stroke-width:0.136859"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11586"
+       width="34.985939"
+       height="17.697298"
+       x="286.8912"
+       y="65.409782"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.313143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11588"
+       width="34.985939"
+       height="17.697298"
+       x="321.87714"
+       y="65.409782"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.239251;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11590"
+       width="20.337919"
+       height="17.771191"
+       x="356.82614"
+       y="65.372833"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264158;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11592"
+       width="24.817652"
+       height="17.753433"
+       x="377.13599"
+       y="65.381714"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect11594"
+       width="26.266066"
+       height="8.9241905"
+       x="290.86142"
+       y="69.669144"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect11596"
+       width="8.0564461"
+       height="8.9241886"
+       x="325.36441"
+       y="69.669144"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect11598"
+       width="8.0564461"
+       height="8.9241886"
+       x="335.78012"
+       y="69.669144"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect11600"
+       width="8.0564461"
+       height="8.9241886"
+       x="346.09323"
+       y="69.669144"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g11606"
+       transform="matrix(0.42644176,0,0,0.42644176,250.59446,16.642685)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         style="fill:#008000;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle11602"
+         cx="272.11084"
+         cy="133.73064"
+         r="10.990144"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 268.79047,141.01455 10.36909,-7.28391 -10.36909,-7.28391 z"
+         id="path11604"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g11636"
+       transform="translate(275.68631,35.481167)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#d5f6ff;stroke:#000000;stroke-width:0.242169;stroke-linecap:round;stroke-linejoin:bevel"
+         id="rect11608"
+         width="10.539264"
+         height="13.214087"
+         x="108.43707"
+         y="32.056118"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,33.278866 h 7.67283"
+         id="path11610"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,34.174774 h 7.67283"
+         id="path11612"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,35.032549 h 7.67283"
+         id="path11614"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,35.877069 h 7.67283"
+         id="path11616"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,36.618001 h 7.67283"
+         id="path11618"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,37.419774 h 7.67283"
+         id="path11620"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,38.273936 h 7.67283"
+         id="path11622"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,39.102032 h 7.67283"
+         id="path11624"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,40.036542 h 7.67283"
+         id="path11626"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,40.944694 h 7.67283"
+         id="path11628"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,41.92416 h 7.67283"
+         id="path11630"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,42.855356 h 7.67283"
+         id="path11632"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,43.697958 h 7.67283"
+         id="path11634"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264546;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11638"
+       width="24.887751"
+       height="17.755533"
+       x="401.95364"
+       y="65.380661"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 414.06934,70.455689 v 5.794012 h 2.87405 l -4.10578,2.737191 -4.10579,-2.737191 h 2.87405 v -5.794012 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path11640"
+       style="fill:#0000ff;stroke-width:0.136859"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.410578;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect11642"
+       width="13.926614"
+       height="12.21084"
+       x="405.47159"
+       y="68.364037"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 415.7693,72.2245 c 0,0 1.50424,1.693565 1.80456,2.385354 h 1.2927 c 0.54189,-1.654392 2.64676,-5.602996 4.45158,-6.987092 0.37344,-0.480518 -0.5654,-0.678997 -1.32338,-0.360652 -1.14254,0.479209 -3.29704,4.141854 -3.69921,5.022455 -0.57061,0.150162 -1.17256,-0.962339 -1.17309,-0.962339 z"
+       fill="#66cc44"
+       id="path11644"
+       style="stroke-width:0.136859"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="63.922848"
+       y="5.8130546"
+       id="text15704"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;fill:#000000;stroke-width:0.264583"
+         x="63.922848"
+         y="5.8130546"
+         id="tspan15702">Ciclo 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="202.63872"
+       y="5.8130546"
+       id="text16236"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;fill:#000000;stroke-width:0.264583"
+         x="202.63872"
+         y="5.8130546"
+         id="tspan16234">Ciclo 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="340.03897"
+       y="5.8130546"
+       id="text16958"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;fill:#000000;stroke-width:0.264583"
+         x="340.03897"
+         y="5.8130546"
+         id="tspan16956">Ciclo 2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.541221;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 94.321619,2.9421233 143.77231,2.8415277"
+       id="path18656"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 146.92654,11.677324 V -1.5889045"
+       id="path18691"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 286.8847,11.677324 V -1.5889045"
+       id="path18915"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.541221;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 60.632536,2.9421229 11.181841,2.8415273"
+       id="path19056"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.541221;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 234.04752,2.9421233 283.49821,2.8415277"
+       id="path19058"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.541221;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 197.69329,2.9421229 148.2426,2.8415273"
+       id="path19060"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.541221;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 372.01031,2.9421233 421.461,2.8415277"
+       id="path19062"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.541221;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 338.63052,2.9421233 289.17983,2.8415277"
+       id="path19064"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 6.9827935,11.677324 V -1.5889045"
+       id="path25306"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
