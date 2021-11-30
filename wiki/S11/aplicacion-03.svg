@@ -61,7 +61,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="back"
-     transform="translate(5.6311617,-0.37745142)">
+     transform="translate(5.6311617,-0.37745142)"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;stroke:none;stroke-width:0.794595;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect68242"
