@@ -26,11 +26,11 @@
      showgrid="false"
      inkscape:zoom="0.3507719"
      inkscape:cx="1004.9266"
-     inkscape:cy="494.62342"
+     inkscape:cy="494.62343"
      inkscape:window-width="1858"
      inkscape:window-height="1016"
      inkscape:window-x="62"
-     inkscape:window-y="27"
+     inkscape:window-y="1107"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="true"
@@ -507,7 +507,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
        id="rect1467-8"
        width="56.842182"
        height="19.312769"
@@ -857,7 +857,7 @@
          y="131.33292"
          id="tspan14949">No usado</tspan></text>
     <rect
-       style="display:inline;fill:#cccccc;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
+       style="display:inline;fill:#ffff00;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
        id="rect7080"
        width="17.434895"
        height="19.312769"
@@ -867,7 +867,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="display:inline;fill:#cccccc;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
+       style="display:inline;fill:#ffff00;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
        id="rect10928"
        width="17.434895"
        height="19.312769"
@@ -877,7 +877,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="display:inline;fill:#cccccc;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
+       style="display:inline;fill:#ffff00;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
        id="rect10930"
        width="17.434895"
        height="19.312769"
@@ -914,28 +914,21 @@
          x="201.75027"
          y="93.934975"
          id="tspan17625">Funcionando</tspan></text>
-    <g
-       id="g46553"
-       transform="translate(-37.462747,-12.694841)"
+    <circle
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path11857"
+       cx="234.64809"
+       cy="121.0358"
+       r="10.990144"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-08.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <circle
-         style="fill:#008000;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path11857"
-         cx="272.11084"
-         cy="133.73064"
-         r="10.990144"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-01.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <path
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 268.79047,141.01455 10.36909,-7.28391 -10.36909,-7.28391 z"
-         id="path11371"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-01.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-    </g>
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 231.32772,128.31971 10.36909,-7.28391 -10.36909,-7.28391 z"
+       id="path11371"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
