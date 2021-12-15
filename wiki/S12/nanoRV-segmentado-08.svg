@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="324.19922mm"
+   height="121.95963mm"
+   viewBox="0 0 324.19921 121.95964"
+   version="1.1"
+   id="svg1313"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   sodipodi:docname="nanoRV-segmentado-08.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1315"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.54508463"
+     inkscape:cx="639.35026"
+     inkscape:cy="353.15617"
+     inkscape:window-width="1858"
+     inkscape:window-height="1016"
+     inkscape:window-x="62"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-nodes="true" />
+  <defs
+     id="defs1310">
+    <marker
+       style="overflow:visible"
+       id="marker74182"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path74180" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path66523" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker66760"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path66526" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path71951" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(-2.3339601,183.43327)"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:1.19397;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect68242"
+       width="324.19922"
+       height="121.95963"
+       x="2.3339601"
+       y="-183.43327"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.20062;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect67418"
+       width="313.78772"
+       height="110.7502"
+       x="7.2045178"
+       y="-177.48112"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(62.797099,208.59754)"
+     style="display:inline">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11507"
+       width="34.985939"
+       height="6.1667171"
+       x="8.8129845"
+       y="-173.99446"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="6.1477799"
+       y="-176.71355"
+       id="text11591"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11589"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="6.1477799"
+         y="-176.71355">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="35.647194"
+       y="-176.71355"
+       id="text12453"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan12451"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="35.647194"
+         y="-176.71355">200</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect15431"
+       width="34.985939"
+       height="6.1667171"
+       x="113.77079"
+       y="-173.99446"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect15433"
+       width="34.985939"
+       height="6.1667171"
+       x="78.784866"
+       y="-173.99446"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect15435"
+       width="34.985939"
+       height="6.1667171"
+       x="43.798923"
+       y="-173.99446"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="69.537643"
+       y="-176.71355"
+       id="text15439"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan15437"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="69.537643"
+         y="-176.71355">400</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="104.62792"
+       y="-176.71355"
+       id="text17111"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan17109"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="104.62792"
+         y="-176.71355">600</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="139.46562"
+       y="-176.71355"
+       id="text23427"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan23425"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="139.46562"
+         y="-176.71355">800</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-27.88312"
+       y="-144.3896"
+       id="text29352"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan29350"
+         style="font-size:8.46667px;fill:#999999;fill-opacity:1;stroke-width:0.264583"
+         x="-27.88312"
+         y="-144.3896">Inst. 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-37.636272"
+       y="-177.39037"
+       id="text30940"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan30938"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="-37.636272"
+         y="-177.39037">Instruc.</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect39045"
+       width="34.985939"
+       height="6.1667171"
+       x="183.7571"
+       y="-173.99446"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="172.61096"
+       y="-176.71355"
+       id="text39049"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan39047"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="172.61096"
+         y="-176.71355">1000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="215.93356"
+       y="-176.71355"
+       id="text39053"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan39051"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         x="215.93356"
+         y="-176.71355">1200</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect39073"
+       width="34.985939"
+       height="6.1667171"
+       x="148.75673"
+       y="-173.99446"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect1467"
+       width="26.266066"
+       height="8.9241905"
+       x="12.783209"
+       y="-151.48738"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect7080"
+       width="8.0564461"
+       height="8.9241886"
+       x="47.286175"
+       y="-151.48738"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect10928"
+       width="8.0564461"
+       height="8.9241886"
+       x="57.7019"
+       y="-151.48738"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect10930"
+       width="8.0564461"
+       height="8.9241886"
+       x="68.01503"
+       y="-151.48738"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.338488;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path11857"
+       cx="95.434959"
+       cy="-147.48552"
+       r="4.6866565"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.338488;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 94.019014,-144.37935 4.421807,-3.10617 -4.421807,-3.10616 z"
+       id="path11371"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3942"
+       transform="translate(17.6278,-185.67536)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#cccccc;fill-opacity:1">
+      <rect
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.242169;stroke-linecap:round;stroke-linejoin:bevel"
+         id="rect13137"
+         width="10.539264"
+         height="13.214087"
+         x="108.43707"
+         y="32.056118"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,33.278866 h 7.67283"
+         id="path13305"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,34.174774 h 7.67283"
+         id="path13387"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,35.032549 h 7.67283"
+         id="path13389"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,35.877069 h 7.67283"
+         id="path13473"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,36.618001 h 7.67283"
+         id="path13475"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,37.419774 h 7.67283"
+         id="path13477"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,38.273936 h 7.67283"
+         id="path13479"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,39.102032 h 7.67283"
+         id="path13481"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,40.036542 h 7.67283"
+         id="path13483"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,40.944694 h 7.67283"
+         id="path13485"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,41.92416 h 7.67283"
+         id="path13487"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,42.855356 h 7.67283"
+         id="path13489"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,43.697958 h 7.67283"
+         id="path13491"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       d="m 165.43411,-150.7634 v 5.79401 h 2.87405 l -4.10578,2.73719 -4.10579,-2.73719 h 2.87405 v -5.79401 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path29876"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0.136859"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.410578;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect30025"
+       width="13.926614"
+       height="12.21084"
+       x="156.83635"
+       y="-152.85506"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 167.13407,-148.99459 c 0,0 1.50424,1.69357 1.80456,2.38535 h 1.2927 c 0.54189,-1.65439 2.64676,-5.60299 4.45158,-6.98709 0.37344,-0.48052 -0.5654,-0.67899 -1.32338,-0.36065 -1.14254,0.47921 -3.29704,4.14185 -3.69921,5.02246 -0.57061,0.15016 -1.17256,-0.96234 -1.17309,-0.96234 z"
+       fill="#66cc44"
+       id="path7241-3"
+       style="stroke-width:0.136859"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect40645"
+       width="26.266066"
+       height="8.9241905"
+       x="47.769157"
+       y="-125.33318"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect40647"
+       width="8.0564461"
+       height="8.9241886"
+       x="82.272133"
+       y="-125.33318"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect40649"
+       width="8.0564461"
+       height="8.9241886"
+       x="92.687859"
+       y="-125.33318"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.244521;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect40651"
+       width="8.0564461"
+       height="8.9241886"
+       x="103.00098"
+       y="-125.33318"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g40803"
+       transform="translate(49.478069,-160.44277)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#008000;fill-opacity:1">
+      <rect
+         style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.242169;stroke-linecap:round;stroke-linejoin:bevel"
+         id="rect40775"
+         width="10.539264"
+         height="13.214087"
+         x="108.43707"
+         y="32.056118"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,33.278866 h 7.67283"
+         id="path40777"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,34.174774 h 7.67283"
+         id="path40779"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,35.032549 h 7.67283"
+         id="path40781"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,35.877069 h 7.67283"
+         id="path40783"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,36.618001 h 7.67283"
+         id="path40785"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,37.419774 h 7.67283"
+         id="path40787"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,38.273936 h 7.67283"
+         id="path40789"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,39.102032 h 7.67283"
+         id="path40791"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,40.036542 h 7.67283"
+         id="path40793"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,40.944694 h 7.67283"
+         id="path40795"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,41.92416 h 7.67283"
+         id="path40797"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,42.855356 h 7.67283"
+         id="path40799"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.121085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.72996,43.697958 h 7.67283"
+         id="path40801"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g7844"
+       transform="translate(-29.523933,-56.86695)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="m 231.63516,-68.789543 v 5.79401 h 2.87405 l -4.10578,2.7372 -4.10579,-2.7372 h 2.87405 v -5.79401 z"
+         fill="#ffffff"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         id="path40805"
+         style="fill:#008000;fill-opacity:1;stroke-width:0.136859"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-05.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.410578;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect40807"
+         width="13.926614"
+         height="12.21084"
+         x="223.03741"
+         y="-70.881195"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-05.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         d="m 233.33512,-67.020733 c 0,0 1.50424,1.69357 1.80456,2.38536 h 1.2927 c 0.54189,-1.65439 2.64676,-5.603 4.45158,-6.98709 0.37344,-0.48052 -0.5654,-0.679 -1.32338,-0.36066 -1.14254,0.47921 -3.29704,4.14186 -3.69921,5.02246 -0.57061,0.15016 -1.17256,-0.96234 -1.17309,-0.96234 z"
+         fill="#66cc44"
+         id="path40809"
+         style="stroke-width:0.136859"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-05.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g7599"
+       transform="translate(-29.925785,-55.549062)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.338488;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle40771"
+         cx="161.63599"
+         cy="-65.511658"
+         r="4.6866565"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-05.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.338488;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 160.22006,-62.405493 4.42181,-3.10617 -4.42181,-3.10616 z"
+         id="path40773"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/aplicacion-05.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.16663px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.192707"
+       x="24.95853"
+       y="-168.57837"
+       id="text57513"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan57511"
+         style="font-size:6.16663px;fill:#0000ff;stroke-width:0.192707"
+         x="24.95853"
+         y="-168.57837">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.16663px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.192707"
+       x="59.466908"
+       y="-168.57837"
+       id="text58466"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan58464"
+         style="font-size:6.16663px;fill:#0000ff;stroke-width:0.192707"
+         x="59.466908"
+         y="-168.57837">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.16663px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.192707"
+       x="10.009584"
+       y="-161.74045"
+       id="text59877"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan59875"
+         style="font-size:6.16663px;fill:#0000ff;stroke-width:0.192707"
+         x="10.009584"
+         y="-161.74045">Ciclos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-27.88312"
+       y="-116.89021"
+       id="text122082"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan122080"
+         style="font-size:8.46667px;fill:#008000;stroke-width:0.264583"
+         x="-27.88312"
+         y="-116.89021">Inst. 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.16663px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.192707"
+       x="96.354652"
+       y="-168.57837"
+       id="text147386"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan147384"
+         style="font-size:6.16663px;fill:#0000ff;stroke-width:0.192707"
+         x="96.354652"
+         y="-168.57837">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.16663px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.192707"
+       x="129.75563"
+       y="-168.57837"
+       id="text148096"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan148094"
+         style="font-size:6.16663px;fill:#0000ff;stroke-width:0.192707"
+         x="129.75563"
+         y="-168.57837">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.16663px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.192707"
+       x="163.87764"
+       y="-168.57837"
+       id="text150605"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan150603"
+         style="font-size:6.16663px;fill:#0000ff;stroke-width:0.192707"
+         x="163.87764"
+         y="-168.57837">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.16663px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.192707"
+       x="200.33238"
+       y="-168.57837"
+       id="text157284"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan157282"
+         style="font-size:6.16663px;fill:#0000ff;stroke-width:0.192707"
+         x="200.33238"
+         y="-168.57837">5</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 39.135025,-147.65814 h 8.151148"
+       id="path8059"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 76.307948,-147.65814 H 90.751481"
+       id="path8061"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 100.50819,-147.65814 h 25.55668"
+       id="path8063"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 136.60413,-147.62579 h 20.23222"
+       id="path8065"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 74.03522,-120.80251 h 8.23691"
+       id="path8182"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 111.05742,-120.92466 h 15.9681"
+       id="path8184"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 136.39616,-121.14139 h 21.51898"
+       id="path8186"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 168.4981,-121.06072 h 25.01538"
+       id="path8188"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke-width:0.264583;stroke-linejoin:round"
+       id="path8997"
+       cx="146.54803"
+       cy="-147.63449"
+       r="1.5568706"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke-width:0.264583;stroke-linejoin:round"
+       id="circle9101"
+       cx="119.43829"
+       cy="-120.86353"
+       r="1.5568706"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#0000ff;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 146.34532,-147.38607 -27.0613,26.5574"
+       id="path9136"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g10664"
+       transform="translate(61.018613,91.019945)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#ff0000;stroke:#ff0000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 71.535318,-229.86285 8.507831,8.50783"
+         id="path10506" />
+      <path
+         style="fill:#ff0000;stroke:#ff0000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 80.043149,-229.86285 -8.507831,8.50783"
+         id="path10508" />
+    </g>
+  </g>
+</svg>
