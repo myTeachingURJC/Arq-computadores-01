@@ -1,0 +1,2165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="680.94397mm"
+   height="406.7254mm"
+   viewBox="0 0 680.94398 406.72539"
+   version="1.1"
+   id="svg27191"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   sodipodi:docname="nanoRV-segmentado-06.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview27193"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.34797786"
+     inkscape:cx="1127.9453"
+     inkscape:cy="794.59078"
+     inkscape:window-width="1858"
+     inkscape:window-height="1016"
+     inkscape:window-x="62"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer5"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs27188">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-23-9-6-6-1-0-2-7-0-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2779-75-7-1-2-7-9-6-8-9-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1630"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1628" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2008"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2006" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1944"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1942" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1954"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1952" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2145"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2143" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2008-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2006-6" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="back"
+     transform="translate(30.588137,409.18231)"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.754099;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect103575"
+       width="680.94397"
+       height="406.7254"
+       x="-30.588137"
+       y="-409.18231"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g32467"
+       transform="matrix(0.4032008,0,0,0.4032008,54.763703,-340.8178)"
+       style="stroke-width:2.48015"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect32358"
+         width="98.001839"
+         height="70.517563"
+         x="49.914268"
+         y="71.567261" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 88.736836,95.829092 c 0,0 1.706904,-19.149628 19.860294,-18.901034 18.15338,0.248593 18.94523,17.799786 18.94523,17.799786"
+         id="path31433"
+         sodipodi:nodetypes="czc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 126.93795,90.765446 c 0,0 10.03792,-4.644898 16.08359,5.3438 6.04567,9.988704 -5.03049,17.027414 -5.03049,17.027414"
+         id="path31677" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 136.98426,111.19098 c 0,0 7.19226,15.62052 -6.37347,25.15245 -11.03902,7.75655 -23.61968,-3.90438 -23.61968,-3.90438"
+         id="path31792"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 91.105134,87.31488 c 0,0 -7.258129,-9.005533 -15.962235,-2.501765 -8.704107,6.503768 -3.585194,16.074265 -3.585194,16.074265"
+         id="path31884" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 70.350583,98.217894 c 0,0 -16.388749,3.009406 -15.8819,12.553516 0.506849,9.54411 16.253555,11.41618 16.253555,11.41618"
+         id="path31886" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 68.558097,121.60469 c 0,0 -5.151833,11.31953 4.718034,16.60513 9.869867,5.28559 15.825385,-3.66345 15.825385,-3.66345"
+         id="path31888"
+         sodipodi:nodetypes="czc" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle32298"
+         cx="94.026459"
+         cy="132.84232"
+         r="5.1869316" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.656209;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path32158"
+         cx="101.56135"
+         cy="130.04091"
+         r="6.0960584" />
+    </g>
+    <g
+       id="g32568"
+       transform="matrix(0.4032008,0,0,0.4032008,54.763703,-302.10841)"
+       style="stroke-width:2.48015"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect32550"
+         width="98.001839"
+         height="70.517563"
+         x="49.914268"
+         y="71.567261" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 88.736836,95.829092 c 0,0 1.706904,-19.149628 19.860294,-18.901034 18.15338,0.248593 18.94523,17.799786 18.94523,17.799786"
+         id="path32552"
+         sodipodi:nodetypes="czc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 126.93795,90.765446 c 0,0 10.03792,-4.644898 16.08359,5.3438 6.04567,9.988704 -5.03049,17.027414 -5.03049,17.027414"
+         id="path32554" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 136.98426,111.19098 c 0,0 7.19226,15.62052 -6.37347,25.15245 -11.03902,7.75655 -23.61968,-3.90438 -23.61968,-3.90438"
+         id="path32556"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 91.105134,87.31488 c 0,0 -7.258129,-9.005533 -15.962235,-2.501765 -8.704107,6.503768 -3.585194,16.074265 -3.585194,16.074265"
+         id="path32558" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 70.350583,98.217894 c 0,0 -16.388749,3.009406 -15.8819,12.553516 0.506849,9.54411 16.253555,11.41618 16.253555,11.41618"
+         id="path32560" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 68.558097,121.60469 c 0,0 -5.151833,11.31953 4.718034,16.60513 9.869867,5.28559 15.825385,-3.66345 15.825385,-3.66345"
+         id="path32562"
+         sodipodi:nodetypes="czc" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle32564"
+         cx="94.026459"
+         cy="132.84232"
+         r="5.1869316" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.656209;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle32566"
+         cx="101.56135"
+         cy="130.04091"
+         r="6.0960584" />
+    </g>
+    <g
+       id="g32588"
+       transform="matrix(0.4032008,0,0,0.4032008,54.763703,-264.53425)"
+       style="stroke-width:2.48015"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect32570"
+         width="98.001839"
+         height="70.517563"
+         x="49.914268"
+         y="71.567261" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 88.736836,95.829092 c 0,0 1.706904,-19.149628 19.860294,-18.901034 18.15338,0.248593 18.94523,17.799786 18.94523,17.799786"
+         id="path32572"
+         sodipodi:nodetypes="czc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 126.93795,90.765446 c 0,0 10.03792,-4.644898 16.08359,5.3438 6.04567,9.988704 -5.03049,17.027414 -5.03049,17.027414"
+         id="path32574" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 136.98426,111.19098 c 0,0 7.19226,15.62052 -6.37347,25.15245 -11.03902,7.75655 -23.61968,-3.90438 -23.61968,-3.90438"
+         id="path32576"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 91.105134,87.31488 c 0,0 -7.258129,-9.005533 -15.962235,-2.501765 -8.704107,6.503768 -3.585194,16.074265 -3.585194,16.074265"
+         id="path32578" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 70.350583,98.217894 c 0,0 -16.388749,3.009406 -15.8819,12.553516 0.506849,9.54411 16.253555,11.41618 16.253555,11.41618"
+         id="path32580" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 68.558097,121.60469 c 0,0 -5.151833,11.31953 4.718034,16.60513 9.869867,5.28559 15.825385,-3.66345 15.825385,-3.66345"
+         id="path32582"
+         sodipodi:nodetypes="czc" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle32584"
+         cx="94.026459"
+         cy="132.84232"
+         r="5.1869316" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.656209;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle32586"
+         cx="101.56135"
+         cy="130.04091"
+         r="6.0960584" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.9201px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="84.904633"
+       y="-256.15598"
+       id="text33274"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan33272"
+         style="stroke-width:0.264583"
+         x="84.904633"
+         y="-256.15598">Burbuja</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.9201px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="84.904633"
+       y="-294.71796"
+       id="text34997"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan34995"
+         style="stroke-width:0.264583"
+         x="84.904633"
+         y="-294.71796">Burbuja</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.9201px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="84.904633"
+       y="-217.82394"
+       id="text35001"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan34999"
+         style="stroke-width:0.264583"
+         x="84.904633"
+         y="-217.82394">Burbuja</tspan></text>
+    <g
+       id="g35108"
+       transform="translate(393.35664,-117.3512)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g32467-3"
+         transform="matrix(0.4032008,0,0,0.4032008,-225.58127,-185.37348)"
+         style="display:inline;stroke-width:2.48015">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect32358-6"
+           width="98.001839"
+           height="70.517563"
+           x="49.914268"
+           y="71.567261" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 88.736836,95.829092 c 0,0 1.706904,-19.149628 19.860294,-18.901034 18.15338,0.248593 18.94523,17.799786 18.94523,17.799786"
+           id="path31433-7"
+           sodipodi:nodetypes="czc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 126.93795,90.765446 c 0,0 10.03792,-4.644898 16.08359,5.3438 6.04567,9.988704 -5.03049,17.027414 -5.03049,17.027414"
+           id="path31677-5" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 136.98426,111.19098 c 0,0 7.19226,15.62052 -6.37347,25.15245 -11.03902,7.75655 -23.61968,-3.90438 -23.61968,-3.90438"
+           id="path31792-3"
+           sodipodi:nodetypes="csc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 91.105134,87.31488 c 0,0 -7.258129,-9.005533 -15.962235,-2.501765 -8.704107,6.503768 -3.585194,16.074265 -3.585194,16.074265"
+           id="path31884-5" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 70.350583,98.217894 c 0,0 -16.388749,3.009406 -15.8819,12.553516 0.506849,9.54411 16.253555,11.41618 16.253555,11.41618"
+           id="path31886-6" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 68.558097,121.60469 c 0,0 -5.151833,11.31953 4.718034,16.60513 9.869867,5.28559 15.825385,-3.66345 15.825385,-3.66345"
+           id="path31888-2"
+           sodipodi:nodetypes="czc" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle32298-9"
+           cx="94.026459"
+           cy="132.84232"
+           r="5.1869316" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656209;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path32158-1"
+           cx="101.56135"
+           cy="130.04091"
+           r="6.0960584" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.9201px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-195.44034"
+         y="-139.27364"
+         id="text34997-2"><tspan
+           sodipodi:role="line"
+           id="tspan34995-7"
+           style="stroke-width:0.264583"
+           x="-195.44034"
+           y="-139.27364">Burbuja</tspan></text>
+    </g>
+    <g
+       id="g35134"
+       transform="translate(393.35664,-79.066162)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g35128"
+         transform="matrix(0.4032008,0,0,0.4032008,-225.58127,-185.37348)"
+         style="display:inline;stroke-width:2.48015">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect35110"
+           width="98.001839"
+           height="70.517563"
+           x="49.914268"
+           y="71.567261" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 88.736836,95.829092 c 0,0 1.706904,-19.149628 19.860294,-18.901034 18.15338,0.248593 18.94523,17.799786 18.94523,17.799786"
+           id="path35112"
+           sodipodi:nodetypes="czc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 126.93795,90.765446 c 0,0 10.03792,-4.644898 16.08359,5.3438 6.04567,9.988704 -5.03049,17.027414 -5.03049,17.027414"
+           id="path35114" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 136.98426,111.19098 c 0,0 7.19226,15.62052 -6.37347,25.15245 -11.03902,7.75655 -23.61968,-3.90438 -23.61968,-3.90438"
+           id="path35116"
+           sodipodi:nodetypes="csc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 91.105134,87.31488 c 0,0 -7.258129,-9.005533 -15.962235,-2.501765 -8.704107,6.503768 -3.585194,16.074265 -3.585194,16.074265"
+           id="path35118" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 70.350583,98.217894 c 0,0 -16.388749,3.009406 -15.8819,12.553516 0.506849,9.54411 16.253555,11.41618 16.253555,11.41618"
+           id="path35120" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 68.558097,121.60469 c 0,0 -5.151833,11.31953 4.718034,16.60513 9.869867,5.28559 15.825385,-3.66345 15.825385,-3.66345"
+           id="path35122"
+           sodipodi:nodetypes="czc" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35124"
+           cx="94.026459"
+           cy="132.84232"
+           r="5.1869316" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656209;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35126"
+           cx="101.56135"
+           cy="130.04091"
+           r="6.0960584" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.9201px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-195.44034"
+         y="-139.27364"
+         id="text35132"><tspan
+           sodipodi:role="line"
+           id="tspan35130"
+           style="stroke-width:0.264583"
+           x="-195.44034"
+           y="-139.27364">Burbuja</tspan></text>
+    </g>
+    <g
+       id="g35160"
+       transform="translate(393.35664,-41.158419)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g35154"
+         transform="matrix(0.4032008,0,0,0.4032008,-225.58127,-185.37348)"
+         style="display:inline;stroke-width:2.48015">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect35136"
+           width="98.001839"
+           height="70.517563"
+           x="49.914268"
+           y="71.567261" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 88.736836,95.829092 c 0,0 1.706904,-19.149628 19.860294,-18.901034 18.15338,0.248593 18.94523,17.799786 18.94523,17.799786"
+           id="path35138"
+           sodipodi:nodetypes="czc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 126.93795,90.765446 c 0,0 10.03792,-4.644898 16.08359,5.3438 6.04567,9.988704 -5.03049,17.027414 -5.03049,17.027414"
+           id="path35140" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 136.98426,111.19098 c 0,0 7.19226,15.62052 -6.37347,25.15245 -11.03902,7.75655 -23.61968,-3.90438 -23.61968,-3.90438"
+           id="path35142"
+           sodipodi:nodetypes="csc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 91.105134,87.31488 c 0,0 -7.258129,-9.005533 -15.962235,-2.501765 -8.704107,6.503768 -3.585194,16.074265 -3.585194,16.074265"
+           id="path35144" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 70.350583,98.217894 c 0,0 -16.388749,3.009406 -15.8819,12.553516 0.506849,9.54411 16.253555,11.41618 16.253555,11.41618"
+           id="path35146" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 68.558097,121.60469 c 0,0 -5.151833,11.31953 4.718034,16.60513 9.869867,5.28559 15.825385,-3.66345 15.825385,-3.66345"
+           id="path35148"
+           sodipodi:nodetypes="czc" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35150"
+           cx="94.026459"
+           cy="132.84232"
+           r="5.1869316" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656209;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35152"
+           cx="101.56135"
+           cy="130.04091"
+           r="6.0960584" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.9201px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-195.44034"
+         y="-139.27364"
+         id="text35158"><tspan
+           sodipodi:role="line"
+           id="tspan35156"
+           style="stroke-width:0.264583"
+           x="-195.44034"
+           y="-139.27364">Burbuja</tspan></text>
+    </g>
+    <g
+       id="g35186"
+       transform="translate(495.53407,-41.158419)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g35180"
+         transform="matrix(0.4032008,0,0,0.4032008,-225.58127,-185.37348)"
+         style="display:inline;stroke-width:2.48015">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect35162"
+           width="98.001839"
+           height="70.517563"
+           x="49.914268"
+           y="71.567261" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 88.736836,95.829092 c 0,0 1.706904,-19.149628 19.860294,-18.901034 18.15338,0.248593 18.94523,17.799786 18.94523,17.799786"
+           id="path35164"
+           sodipodi:nodetypes="czc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 126.93795,90.765446 c 0,0 10.03792,-4.644898 16.08359,5.3438 6.04567,9.988704 -5.03049,17.027414 -5.03049,17.027414"
+           id="path35166" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 136.98426,111.19098 c 0,0 7.19226,15.62052 -6.37347,25.15245 -11.03902,7.75655 -23.61968,-3.90438 -23.61968,-3.90438"
+           id="path35168"
+           sodipodi:nodetypes="csc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 91.105134,87.31488 c 0,0 -7.258129,-9.005533 -15.962235,-2.501765 -8.704107,6.503768 -3.585194,16.074265 -3.585194,16.074265"
+           id="path35170" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 70.350583,98.217894 c 0,0 -16.388749,3.009406 -15.8819,12.553516 0.506849,9.54411 16.253555,11.41618 16.253555,11.41618"
+           id="path35172" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 68.558097,121.60469 c 0,0 -5.151833,11.31953 4.718034,16.60513 9.869867,5.28559 15.825385,-3.66345 15.825385,-3.66345"
+           id="path35174"
+           sodipodi:nodetypes="czc" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35176"
+           cx="94.026459"
+           cy="132.84232"
+           r="5.1869316" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656209;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35178"
+           cx="101.56135"
+           cy="130.04091"
+           r="6.0960584" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.9201px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-195.44034"
+         y="-139.27364"
+         id="text35184"><tspan
+           sodipodi:role="line"
+           id="tspan35182"
+           style="stroke-width:0.264583"
+           x="-195.44034"
+           y="-139.27364">Burbuja</tspan></text>
+    </g>
+    <g
+       id="g35212"
+       transform="translate(496.76147,-79.066162)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g35206"
+         transform="matrix(0.4032008,0,0,0.4032008,-225.58127,-185.37348)"
+         style="display:inline;stroke-width:2.48015">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect35188"
+           width="98.001839"
+           height="70.517563"
+           x="49.914268"
+           y="71.567261" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 88.736836,95.829092 c 0,0 1.706904,-19.149628 19.860294,-18.901034 18.15338,0.248593 18.94523,17.799786 18.94523,17.799786"
+           id="path35190"
+           sodipodi:nodetypes="czc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 126.93795,90.765446 c 0,0 10.03792,-4.644898 16.08359,5.3438 6.04567,9.988704 -5.03049,17.027414 -5.03049,17.027414"
+           id="path35192" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 136.98426,111.19098 c 0,0 7.19226,15.62052 -6.37347,25.15245 -11.03902,7.75655 -23.61968,-3.90438 -23.61968,-3.90438"
+           id="path35194"
+           sodipodi:nodetypes="csc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 91.105134,87.31488 c 0,0 -7.258129,-9.005533 -15.962235,-2.501765 -8.704107,6.503768 -3.585194,16.074265 -3.585194,16.074265"
+           id="path35196" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 70.350583,98.217894 c 0,0 -16.388749,3.009406 -15.8819,12.553516 0.506849,9.54411 16.253555,11.41618 16.253555,11.41618"
+           id="path35198" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 68.558097,121.60469 c 0,0 -5.151833,11.31953 4.718034,16.60513 9.869867,5.28559 15.825385,-3.66345 15.825385,-3.66345"
+           id="path35200"
+           sodipodi:nodetypes="czc" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35202"
+           cx="94.026459"
+           cy="132.84232"
+           r="5.1869316" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656209;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35204"
+           cx="101.56135"
+           cy="130.04091"
+           r="6.0960584" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.9201px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-195.44034"
+         y="-139.27364"
+         id="text35210"><tspan
+           sodipodi:role="line"
+           id="tspan35208"
+           style="stroke-width:0.264583"
+           x="-195.44034"
+           y="-139.27364">Burbuja</tspan></text>
+    </g>
+    <g
+       id="g35238"
+       transform="translate(602.29427,-41.158419)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g35232"
+         transform="matrix(0.4032008,0,0,0.4032008,-225.58127,-185.37348)"
+         style="display:inline;stroke-width:2.48015">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect35214"
+           width="98.001839"
+           height="70.517563"
+           x="49.914268"
+           y="71.567261" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 88.736836,95.829092 c 0,0 1.706904,-19.149628 19.860294,-18.901034 18.15338,0.248593 18.94523,17.799786 18.94523,17.799786"
+           id="path35216"
+           sodipodi:nodetypes="czc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 126.93795,90.765446 c 0,0 10.03792,-4.644898 16.08359,5.3438 6.04567,9.988704 -5.03049,17.027414 -5.03049,17.027414"
+           id="path35218" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 136.98426,111.19098 c 0,0 7.19226,15.62052 -6.37347,25.15245 -11.03902,7.75655 -23.61968,-3.90438 -23.61968,-3.90438"
+           id="path35220"
+           sodipodi:nodetypes="csc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 91.105134,87.31488 c 0,0 -7.258129,-9.005533 -15.962235,-2.501765 -8.704107,6.503768 -3.585194,16.074265 -3.585194,16.074265"
+           id="path35222" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 70.350583,98.217894 c 0,0 -16.388749,3.009406 -15.8819,12.553516 0.506849,9.54411 16.253555,11.41618 16.253555,11.41618"
+           id="path35224" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 68.558097,121.60469 c 0,0 -5.151833,11.31953 4.718034,16.60513 9.869867,5.28559 15.825385,-3.66345 15.825385,-3.66345"
+           id="path35226"
+           sodipodi:nodetypes="czc" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35228"
+           cx="94.026459"
+           cy="132.84232"
+           r="5.1869316" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656209;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35230"
+           cx="101.56135"
+           cy="130.04091"
+           r="6.0960584" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.9201px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-195.44034"
+         y="-139.27364"
+         id="text35236"><tspan
+           sodipodi:role="line"
+           id="tspan35234"
+           style="stroke-width:0.264583"
+           x="-195.44034"
+           y="-139.27364">Burbuja</tspan></text>
+    </g>
+    <g
+       id="g35264"
+       transform="translate(495.53407,-1.222841)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g35258"
+         transform="matrix(0.4032008,0,0,0.4032008,-225.58127,-185.37348)"
+         style="display:inline;stroke-width:2.48015">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect35240"
+           width="98.001839"
+           height="70.517563"
+           x="49.914268"
+           y="71.567261" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 88.736836,95.829092 c 0,0 1.706904,-19.149628 19.860294,-18.901034 18.15338,0.248593 18.94523,17.799786 18.94523,17.799786"
+           id="path35242"
+           sodipodi:nodetypes="czc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 126.93795,90.765446 c 0,0 10.03792,-4.644898 16.08359,5.3438 6.04567,9.988704 -5.03049,17.027414 -5.03049,17.027414"
+           id="path35244" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 136.98426,111.19098 c 0,0 7.19226,15.62052 -6.37347,25.15245 -11.03902,7.75655 -23.61968,-3.90438 -23.61968,-3.90438"
+           id="path35246"
+           sodipodi:nodetypes="csc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 91.105134,87.31488 c 0,0 -7.258129,-9.005533 -15.962235,-2.501765 -8.704107,6.503768 -3.585194,16.074265 -3.585194,16.074265"
+           id="path35248" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 70.350583,98.217894 c 0,0 -16.388749,3.009406 -15.8819,12.553516 0.506849,9.54411 16.253555,11.41618 16.253555,11.41618"
+           id="path35250" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 68.558097,121.60469 c 0,0 -5.151833,11.31953 4.718034,16.60513 9.869867,5.28559 15.825385,-3.66345 15.825385,-3.66345"
+           id="path35252"
+           sodipodi:nodetypes="czc" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35254"
+           cx="94.026459"
+           cy="132.84232"
+           r="5.1869316" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656209;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35256"
+           cx="101.56135"
+           cy="130.04091"
+           r="6.0960584" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.9201px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-195.44034"
+         y="-139.27364"
+         id="text35262"><tspan
+           sodipodi:role="line"
+           id="tspan35260"
+           style="stroke-width:0.264583"
+           x="-195.44034"
+           y="-139.27364">Burbuja</tspan></text>
+    </g>
+    <g
+       id="g35290"
+       transform="translate(603.90156,-1.222841)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g35284"
+         transform="matrix(0.4032008,0,0,0.4032008,-225.58127,-185.37348)"
+         style="display:inline;stroke-width:2.48015">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect35266"
+           width="98.001839"
+           height="70.517563"
+           x="49.914268"
+           y="71.567261" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 88.736836,95.829092 c 0,0 1.706904,-19.149628 19.860294,-18.901034 18.15338,0.248593 18.94523,17.799786 18.94523,17.799786"
+           id="path35268"
+           sodipodi:nodetypes="czc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 126.93795,90.765446 c 0,0 10.03792,-4.644898 16.08359,5.3438 6.04567,9.988704 -5.03049,17.027414 -5.03049,17.027414"
+           id="path35270" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 136.98426,111.19098 c 0,0 7.19226,15.62052 -6.37347,25.15245 -11.03902,7.75655 -23.61968,-3.90438 -23.61968,-3.90438"
+           id="path35272"
+           sodipodi:nodetypes="csc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 91.105134,87.31488 c 0,0 -7.258129,-9.005533 -15.962235,-2.501765 -8.704107,6.503768 -3.585194,16.074265 -3.585194,16.074265"
+           id="path35274" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 70.350583,98.217894 c 0,0 -16.388749,3.009406 -15.8819,12.553516 0.506849,9.54411 16.253555,11.41618 16.253555,11.41618"
+           id="path35276" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 68.558097,121.60469 c 0,0 -5.151833,11.31953 4.718034,16.60513 9.869867,5.28559 15.825385,-3.66345 15.825385,-3.66345"
+           id="path35278"
+           sodipodi:nodetypes="czc" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35280"
+           cx="94.026459"
+           cy="132.84232"
+           r="5.1869316" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656209;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35282"
+           cx="101.56135"
+           cy="130.04091"
+           r="6.0960584" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.9201px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-195.44034"
+         y="-139.27364"
+         id="text35288"><tspan
+           sodipodi:role="line"
+           id="tspan35286"
+           style="stroke-width:0.264583"
+           x="-195.44034"
+           y="-139.27364">Burbuja</tspan></text>
+    </g>
+    <g
+       id="g35316"
+       transform="translate(603.90156,36.243564)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g35310"
+         transform="matrix(0.4032008,0,0,0.4032008,-225.58127,-185.37348)"
+         style="display:inline;stroke-width:2.48015">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect35292"
+           width="98.001839"
+           height="70.517563"
+           x="49.914268"
+           y="71.567261" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 88.736836,95.829092 c 0,0 1.706904,-19.149628 19.860294,-18.901034 18.15338,0.248593 18.94523,17.799786 18.94523,17.799786"
+           id="path35294"
+           sodipodi:nodetypes="czc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 126.93795,90.765446 c 0,0 10.03792,-4.644898 16.08359,5.3438 6.04567,9.988704 -5.03049,17.027414 -5.03049,17.027414"
+           id="path35296" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 136.98426,111.19098 c 0,0 7.19226,15.62052 -6.37347,25.15245 -11.03902,7.75655 -23.61968,-3.90438 -23.61968,-3.90438"
+           id="path35298"
+           sodipodi:nodetypes="csc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 91.105134,87.31488 c 0,0 -7.258129,-9.005533 -15.962235,-2.501765 -8.704107,6.503768 -3.585194,16.074265 -3.585194,16.074265"
+           id="path35300" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 70.350583,98.217894 c 0,0 -16.388749,3.009406 -15.8819,12.553516 0.506849,9.54411 16.253555,11.41618 16.253555,11.41618"
+           id="path35302" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 68.558097,121.60469 c 0,0 -5.151833,11.31953 4.718034,16.60513 9.869867,5.28559 15.825385,-3.66345 15.825385,-3.66345"
+           id="path35304"
+           sodipodi:nodetypes="czc" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35306"
+           cx="94.026459"
+           cy="132.84232"
+           r="5.1869316" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656209;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35308"
+           cx="101.56135"
+           cy="130.04091"
+           r="6.0960584" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.9201px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-195.44034"
+         y="-139.27364"
+         id="text35314"><tspan
+           sodipodi:role="line"
+           id="tspan35312"
+           style="stroke-width:0.264583"
+           x="-195.44034"
+           y="-139.27364">Burbuja</tspan></text>
+    </g>
+    <g
+       id="g35342"
+       transform="translate(700.05953,-1.222841)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g35336"
+         transform="matrix(0.4032008,0,0,0.4032008,-225.58127,-185.37348)"
+         style="display:inline;stroke-width:2.48015">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect35318"
+           width="98.001839"
+           height="70.517563"
+           x="49.914268"
+           y="71.567261" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 88.736836,95.829092 c 0,0 1.706904,-19.149628 19.860294,-18.901034 18.15338,0.248593 18.94523,17.799786 18.94523,17.799786"
+           id="path35320"
+           sodipodi:nodetypes="czc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 126.93795,90.765446 c 0,0 10.03792,-4.644898 16.08359,5.3438 6.04567,9.988704 -5.03049,17.027414 -5.03049,17.027414"
+           id="path35322" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 136.98426,111.19098 c 0,0 7.19226,15.62052 -6.37347,25.15245 -11.03902,7.75655 -23.61968,-3.90438 -23.61968,-3.90438"
+           id="path35324"
+           sodipodi:nodetypes="csc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 91.105134,87.31488 c 0,0 -7.258129,-9.005533 -15.962235,-2.501765 -8.704107,6.503768 -3.585194,16.074265 -3.585194,16.074265"
+           id="path35326" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 70.350583,98.217894 c 0,0 -16.388749,3.009406 -15.8819,12.553516 0.506849,9.54411 16.253555,11.41618 16.253555,11.41618"
+           id="path35328" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 68.558097,121.60469 c 0,0 -5.151833,11.31953 4.718034,16.60513 9.869867,5.28559 15.825385,-3.66345 15.825385,-3.66345"
+           id="path35330"
+           sodipodi:nodetypes="czc" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35332"
+           cx="94.026459"
+           cy="132.84232"
+           r="5.1869316" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656209;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35334"
+           cx="101.56135"
+           cy="130.04091"
+           r="6.0960584" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.9201px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-195.44034"
+         y="-139.27364"
+         id="text35340"><tspan
+           sodipodi:role="line"
+           id="tspan35338"
+           style="stroke-width:0.264583"
+           x="-195.44034"
+           y="-139.27364">Burbuja</tspan></text>
+    </g>
+    <g
+       id="g35368"
+       transform="translate(700.7989,36.243564)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g35362"
+         transform="matrix(0.4032008,0,0,0.4032008,-225.58127,-185.37348)"
+         style="display:inline;stroke-width:2.48015">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect35344"
+           width="98.001839"
+           height="70.517563"
+           x="49.914268"
+           y="71.567261" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 88.736836,95.829092 c 0,0 1.706904,-19.149628 19.860294,-18.901034 18.15338,0.248593 18.94523,17.799786 18.94523,17.799786"
+           id="path35346"
+           sodipodi:nodetypes="czc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 126.93795,90.765446 c 0,0 10.03792,-4.644898 16.08359,5.3438 6.04567,9.988704 -5.03049,17.027414 -5.03049,17.027414"
+           id="path35348" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 136.98426,111.19098 c 0,0 7.19226,15.62052 -6.37347,25.15245 -11.03902,7.75655 -23.61968,-3.90438 -23.61968,-3.90438"
+           id="path35350"
+           sodipodi:nodetypes="csc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 91.105134,87.31488 c 0,0 -7.258129,-9.005533 -15.962235,-2.501765 -8.704107,6.503768 -3.585194,16.074265 -3.585194,16.074265"
+           id="path35352" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 70.350583,98.217894 c 0,0 -16.388749,3.009406 -15.8819,12.553516 0.506849,9.54411 16.253555,11.41618 16.253555,11.41618"
+           id="path35354" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 68.558097,121.60469 c 0,0 -5.151833,11.31953 4.718034,16.60513 9.869867,5.28559 15.825385,-3.66345 15.825385,-3.66345"
+           id="path35356"
+           sodipodi:nodetypes="czc" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35358"
+           cx="94.026459"
+           cy="132.84232"
+           r="5.1869316" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656209;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35360"
+           cx="101.56135"
+           cy="130.04091"
+           r="6.0960584" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.9201px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-195.44034"
+         y="-139.27364"
+         id="text35366"><tspan
+           sodipodi:role="line"
+           id="tspan35364"
+           style="stroke-width:0.264583"
+           x="-195.44034"
+           y="-139.27364">Burbuja</tspan></text>
+    </g>
+    <g
+       id="g35394"
+       transform="translate(700.7989,75.680258)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g35388"
+         transform="matrix(0.4032008,0,0,0.4032008,-225.58127,-185.37348)"
+         style="display:inline;stroke-width:2.48015">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect35370"
+           width="98.001839"
+           height="70.517563"
+           x="49.914268"
+           y="71.567261" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 88.736836,95.829092 c 0,0 1.706904,-19.149628 19.860294,-18.901034 18.15338,0.248593 18.94523,17.799786 18.94523,17.799786"
+           id="path35372"
+           sodipodi:nodetypes="czc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 126.93795,90.765446 c 0,0 10.03792,-4.644898 16.08359,5.3438 6.04567,9.988704 -5.03049,17.027414 -5.03049,17.027414"
+           id="path35374" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 136.98426,111.19098 c 0,0 7.19226,15.62052 -6.37347,25.15245 -11.03902,7.75655 -23.61968,-3.90438 -23.61968,-3.90438"
+           id="path35376"
+           sodipodi:nodetypes="csc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 91.105134,87.31488 c 0,0 -7.258129,-9.005533 -15.962235,-2.501765 -8.704107,6.503768 -3.585194,16.074265 -3.585194,16.074265"
+           id="path35378" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 70.350583,98.217894 c 0,0 -16.388749,3.009406 -15.8819,12.553516 0.506849,9.54411 16.253555,11.41618 16.253555,11.41618"
+           id="path35380" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.656206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 68.558097,121.60469 c 0,0 -5.151833,11.31953 4.718034,16.60513 9.869867,5.28559 15.825385,-3.66345 15.825385,-3.66345"
+           id="path35382"
+           sodipodi:nodetypes="czc" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656206;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35384"
+           cx="94.026459"
+           cy="132.84232"
+           r="5.1869316" />
+        <circle
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.656209;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle35386"
+           cx="101.56135"
+           cy="130.04091"
+           r="6.0960584" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.9201px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-195.44034"
+         y="-139.27364"
+         id="text35392"><tspan
+           sodipodi:role="line"
+           id="tspan35390"
+           style="stroke-width:0.264583"
+           x="-195.44034"
+           y="-139.27364">Burbuja</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(50.215927,407.45147)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect84963"
+       width="669.10394"
+       height="396.01187"
+       x="-44.701149"
+       y="-402.99872"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect84837"
+       width="669.10394"
+       height="19.806963"
+       x="-44.701149"
+       y="-402.99872"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.11667, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 137.02139,-383.1917 V -6.986827"
+       id="path107523"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="58.435287"
+       y="-366.25848"
+       id="text31322"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.374209"
+         x="58.435287"
+         y="-366.25848"
+         id="tspan31320">Fetch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="148.39552"
+       y="-365.94412"
+       id="text104276"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.374209"
+         x="148.39552"
+         y="-365.94412"
+         id="tspan104274">Decodificación</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="272.97662"
+       y="-367.89514"
+       id="text104878"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.374209"
+         x="272.97662"
+         y="-367.89514"
+         id="tspan104876">Ejecución</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="373.73782"
+       y="-366.86026"
+       id="text105856"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.374209"
+         x="373.73782"
+         y="-366.86026"
+         id="tspan105854">Memoria</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="458.7572"
+       y="-366.89911"
+       id="text49350"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.374209"
+         x="458.7572"
+         y="-366.89911"
+         id="tspan49348">Write-Back</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="39.778656"
+       y="-330.87189"
+       id="text39602"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="39.778656"
+         y="-330.87189"
+         id="tspan39600"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+   id="tspan55299">IR</tspan>=ADDi x1,x0,1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="-27.39695"
+       y="-389.13788"
+       id="text45860"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.374209"
+         x="-27.39695"
+         y="-389.13788"
+         id="tspan45858">Ciclos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="260.5806"
+       y="-390.31958"
+       id="text47174"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.374209"
+         x="260.5806"
+         y="-390.31958"
+         id="tspan47172">Etapas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="158.76222"
+       y="-296.73352"
+       id="text48768"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="158.76222"
+         y="-296.73352"
+         id="tspan48766"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+   id="tspan57967">OP1</tspan>=x0=0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="158.76222"
+         y="-283.81754"
+         id="tspan48916"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+   id="tspan60689">OP2</tspan>=1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="255.33926"
+       y="-257.73529"
+       id="text50345"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="255.33926"
+         y="-257.73529"
+         id="tspan50343"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+   id="tspan64103">Res</tspan>=OP1+OP2=</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="255.33926"
+         y="-244.81929"
+         id="tspan50443">=0+1=1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="370.16699"
+       y="-220.91937"
+       id="text66555"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="370.16699"
+         y="-220.91937"
+         id="tspan66655"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+   id="tspan66549">md</tspan>=xxx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="465.30505"
+       y="-176.11119"
+       id="text69719"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="465.30505"
+         y="-176.11119"
+         id="tspan69715"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+   id="tspan69713">x1</tspan>=Res2=1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="465.30505"
+         y="-163.19519"
+         id="tspan69717" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="556.83075"
+       y="-389.8327"
+       id="text71809"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.374209"
+         x="556.83075"
+         y="-389.8327"
+         id="tspan71807">Registros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="-27.39695"
+       y="-337.33105"
+       id="text73273"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="-27.39695"
+         y="-337.33105"
+         id="tspan73271">Ciclo 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="-27.39695"
+       y="-290.06985"
+       id="text76628"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="-27.39695"
+         y="-290.06985"
+         id="tspan76626">Ciclo 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="-27.39695"
+       y="-252.64224"
+       id="text76632"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="-27.39695"
+         y="-252.64224"
+         id="tspan76630">Ciclo 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="-27.39695"
+       y="-212.25572"
+       id="text76636"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="-27.39695"
+         y="-212.25572"
+         id="tspan76634">Ciclo 4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="-27.39695"
+       y="-175.0815"
+       id="text76640"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="-27.39695"
+         y="-175.0815"
+         id="tspan76638">Ciclo 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-340.54099"
+       id="text81557"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-340.54099"
+         id="tspan81553"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan81551">x1</tspan>=0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-327.625"
+         id="tspan81555" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-296.43958"
+       id="text82555"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-296.43958"
+         id="tspan82551"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan82549">x1</tspan>=0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-283.52359"
+         id="tspan82553" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-256.74081"
+       id="text82563"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-256.74081"
+         id="tspan82559"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan82557">x1</tspan>=0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-243.82481"
+         id="tspan82561" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-219.12553"
+       id="text82571"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-219.12553"
+         id="tspan82567"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan82565">x1</tspan>=0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-206.20953"
+         id="tspan82569" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-182.66664"
+       id="text82579"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="561.15393"
+         y="-182.66664"
+         id="tspan82575"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+   id="tspan82573">x1</tspan>=1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="561.15393"
+         y="-169.75064"
+         id="tspan82577" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 26.010968,-402.9987 V -6.9868421"
+       id="path85356"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 540.76478,-402.9987 V -6.9868421"
+       id="path85358"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.11667, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 243.46974,-383.1917 V -6.986827"
+       id="path85673"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.11667, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 356.7612,-383.1917 V -6.986827"
+       id="path85675"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.11667, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 444.96127,-383.1917 V -6.986827"
+       id="path85677"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 26.010966,-358.10036 H 540.76481"
+       id="path85827"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -44.70115,-313.23999 h 669.1039"
+       id="path86412"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -44.70115,-275.22272 h 669.1039"
+       id="path86981"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -44.70115,-237.20546 h 669.1039"
+       id="path86983"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -44.70115,-200.70889 h 669.1039"
+       id="path87220"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="39.778656"
+       y="-178.26575"
+       id="text88235"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#008000;stroke-width:0.374209"
+         x="39.778656"
+         y="-178.26575"
+         id="tspan88233"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000"
+   id="tspan88231">IR</tspan>=ADDi x2,x1,2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="158.76222"
+       y="-145.71489"
+       id="text90223"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#008000;stroke-width:0.374209"
+         x="158.76222"
+         y="-145.71489"
+         id="tspan90217"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000"
+   id="tspan90215">OP1</tspan>=x1=1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#008000;stroke-width:0.374209"
+         x="158.76222"
+         y="-132.79889"
+         id="tspan90221"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000"
+   id="tspan90219">OP2</tspan>=2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="255.33926"
+       y="-103.44729"
+       id="text91218"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#008000;stroke-width:0.374209"
+         x="255.33926"
+         y="-103.44729"
+         id="tspan91214"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000"
+   id="tspan91212">Res</tspan>=OP1+OP2=</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#008000;stroke-width:0.374209"
+         x="255.33926"
+         y="-90.531288"
+         id="tspan91216">=1+2=3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="370.16699"
+       y="-69.712601"
+       id="text94781"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#008000;stroke-width:0.374209"
+         x="370.16699"
+         y="-69.712601"
+         id="tspan94779"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000"
+   id="tspan94775">md</tspan>=xxx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="-27.39695"
+       y="-136.81665"
+       id="text94803"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="-27.39695"
+         y="-136.81665"
+         id="tspan94801">Ciclo 6</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -44.70115,-160.92683 h 669.1039"
+       id="path94805"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="369.51453"
+       y="-206.69568"
+       id="text98445"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="369.51453"
+         y="-206.69568"
+         id="tspan98443"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+   id="tspan98439">Res2</tspan>=Res=1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="368.34879"
+       y="-53.678436"
+       id="text98445-7"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#008000;stroke-width:0.374209"
+         x="368.34879"
+         y="-53.678436"
+         id="tspan98443-5"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000"
+   id="tspan98439-3">Res2</tspan>=Res=3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-325.79803"
+       id="text116143"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-325.79803"
+         id="tspan116139"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan116137">x2</tspan>=0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-312.88205"
+         id="tspan116141" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-283.03864"
+       id="text117405"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-283.03864"
+         id="tspan117401"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan117399">x2</tspan>=0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-270.12265"
+         id="tspan117403" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-243.56616"
+       id="text117413"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-243.56616"
+         id="tspan117409"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan117407">x2</tspan>=0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-230.65016"
+         id="tspan117411" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-205.97157"
+       id="text117421"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-205.97157"
+         id="tspan117417"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan117415">x2</tspan>=0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-193.05557"
+         id="tspan117419" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-170.46971"
+       id="text117429"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-170.46971"
+         id="tspan117425"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan117423">x2</tspan>=0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="561.15393"
+         y="-157.55371"
+         id="tspan117427" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="465.30505"
+       y="-19.776157"
+       id="text117580"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#008000;stroke-width:0.374209"
+         x="465.30505"
+         y="-19.776157"
+         id="tspan117576"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000"
+   id="tspan117574">x2</tspan>=Res2 =3</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#008000;stroke-width:0.374209"
+         x="465.30505"
+         y="-6.8601575"
+         id="tspan117578" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-141.97786"
+       id="text124797"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="561.15393"
+         y="-141.97786"
+         id="tspan124793"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+   id="tspan124791">x1</tspan>=1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="561.15393"
+         y="-129.06186"
+         id="tspan124795" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-129.78093"
+       id="text124805"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;stroke-width:0.374209"
+         x="561.15393"
+         y="-129.78093"
+         id="tspan124801"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000"
+   id="tspan124799">x2</tspan>=0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;stroke-width:0.374209"
+         x="561.15393"
+         y="-116.86493"
+         id="tspan124803" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -44.70115,-122.44183 h 669.1039"
+       id="path1543"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -44.70115,-83.95683 h 669.1039"
+       id="path9663"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -44.70115,-45.47183 h 669.1039"
+       id="path12038"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-103.46514"
+       id="text18926"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="561.15393"
+         y="-103.46514"
+         id="tspan18922"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+   id="tspan18920">x1</tspan>=1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="561.15393"
+         y="-90.549141"
+         id="tspan18924" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-91.268211"
+       id="text18934"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;stroke-width:0.374209"
+         x="561.15393"
+         y="-91.268211"
+         id="tspan18930"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000"
+   id="tspan18928">x2</tspan>=0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;stroke-width:0.374209"
+         x="561.15393"
+         y="-78.352211"
+         id="tspan18932" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-66.842056"
+       id="text18942"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="561.15393"
+         y="-66.842056"
+         id="tspan18938"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+   id="tspan18936">x1</tspan>=1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="561.15393"
+         y="-53.926056"
+         id="tspan18940" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-54.645126"
+       id="text18950"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;stroke-width:0.374209"
+         x="561.15393"
+         y="-54.645126"
+         id="tspan18946"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000"
+   id="tspan18944">x2</tspan>=0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;stroke-width:0.374209"
+         x="561.15393"
+         y="-41.729126"
+         id="tspan18948" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-28.035837"
+       id="text18958"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="561.15393"
+         y="-28.035837"
+         id="tspan18954"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+   id="tspan18952">x1</tspan>=1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.374209"
+         x="561.15393"
+         y="-15.119837"
+         id="tspan18956" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="561.15393"
+       y="-15.838908"
+       id="text18966"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#008000;stroke-width:0.374209"
+         x="561.15393"
+         y="-15.838908"
+         id="tspan18962"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000"
+   id="tspan18960">x2</tspan>=3</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#008000;stroke-width:0.374209"
+         x="561.15393"
+         y="-2.9229083"
+         id="tspan18964" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="-27.39695"
+       y="-96.568069"
+       id="text20994"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="-27.39695"
+         y="-96.568069"
+         id="tspan20992">Ciclo 7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="-27.39695"
+       y="-58.616425"
+       id="text22252"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="-27.39695"
+         y="-58.616425"
+         id="tspan22250">Ciclo 8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="-27.39695"
+       y="-23.120283"
+       id="text22910"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S12/nanoRV-segmentado-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.374209"
+         x="-27.39695"
+         y="-23.120283"
+         id="tspan22908">Ciclo 9</tspan></text>
+  </g>
+</svg>

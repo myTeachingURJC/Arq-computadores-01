@@ -1,0 +1,2144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="518.61542mm"
+   height="229.79454mm"
+   viewBox="0 0 518.61542 229.79453"
+   version="1.1"
+   id="svg27191"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   sodipodi:docname="ford-06.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview27193"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.41712784"
+     inkscape:cx="389.56882"
+     inkscape:cy="701.22387"
+     inkscape:window-width="1858"
+     inkscape:window-height="1016"
+     inkscape:window-x="62"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs27188" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="back"
+     transform="translate(3.9539201,-7.8246012)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.188342;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect103866"
+       width="518.61542"
+       height="229.79454"
+       x="-3.9539201"
+       y="7.8246012"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.666725;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect103575"
+       width="509.88696"
+       height="219.63391"
+       x="1.0103185"
+       y="13.534735"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(23.58171,-9.5554372)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.467769;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.87108, 0.935534;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 357.46755,15.309271 V 234.89948"
+       id="path107527"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.467769;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.87108, 0.935534;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 230.0889,15.309271 V 234.89948"
+       id="path107525"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.467768;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.87107, 0.935533;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 127.23481,15.309271 V 234.89948"
+       id="path107523"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect37595"
+       width="510.43829"
+       height="43.09412"
+       x="-19.230915"
+       y="112.19999"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path8488"
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel"
+       inkscape:transform-center-x="5.8170147"
+       inkscape:transform-center-y="-6.148857"
+       d="m 92.072608,128.34447 -6.3214,2.10957 c -3.76709,-0.0752 -6.36647,1.17449 -8.68429,3.36817 -2.31781,2.19368 -3.66599,5.52224 -3.77501,8.71254 H 28.889453 c -0.08027,-3.1903 -1.428449,-6.51886 -3.746264,-8.71254 -2.317816,-2.19368 -5.414199,-3.37338 -8.604094,-3.2781 v -2.19515 h 26.390722 v 1.32899 c 0,0 -0.363709,2.73485 0.993826,3.52115 1.357535,0.78629 3.996742,0.78302 3.996742,0.78302 l 11.67134,-0.0949 c 0,0 1.816176,0.12507 2.611627,-0.76149 1.669424,-1.86063 1.456801,-4.77677 1.456801,-4.77677 z"
+       sodipodi:nodetypes="ccsccsccccsccscc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="15.758514"
+       y="33.109833"
+       id="text31322"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.374209"
+         x="15.758514"
+         y="33.109833"
+         id="tspan31320">Chásis</tspan></text>
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle21378"
+       cx="143.67307"
+       cy="28.531137"
+       r="7.0726581"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="140.21333"
+       y="32.388771"
+       id="text21382"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan21380"
+         style="stroke-width:0.264583"
+         x="140.21333"
+         y="32.388771">2</tspan></text>
+    <g
+       id="g39258"
+       transform="translate(-259.37,-25.674191)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path21296"
+         cx="260.58801"
+         cy="54.270481"
+         r="7.0726581"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="257.1283"
+         y="58.128109"
+         id="text20414"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan20412"
+           style="stroke-width:0.264583"
+           x="257.1283"
+           y="58.128109">1</tspan></text>
+    </g>
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle22322"
+       cx="242.19138"
+       cy="28.383539"
+       r="7.0726581"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="238.73163"
+       y="32.241173"
+       id="text22326"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan22324"
+         style="stroke-width:0.264583"
+         x="238.73163"
+         y="32.241173">3</tspan></text>
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle24544"
+       cx="375.93735"
+       cy="29.115891"
+       r="7.0726581"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="372.4776"
+       y="32.973511"
+       id="text24548"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan24546"
+         style="stroke-width:0.264583"
+         x="372.4776"
+         y="32.973511">4</tspan></text>
+    <g
+       id="g95618"
+       style="display:inline"
+       transform="matrix(0.55628201,0,0,0.55628201,12.211982,31.097111)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.5895,158.19207 4.01956,-0.87803 41.6896,-0.0337 3.64087,0.53262 c 0,0 0.21177,-5.26432 -0.36052,-10.71475 -0.57228,-5.45044 -2.3223,-9.28893 -2.3223,-9.28893 l -0.0858,-11.47516 0.0315,-5.53312 0.18792,-2.53879 -0.11694,-4.09664 c 0,0 -3.5908,-18.579711 -21.02848,-18.578481 -22.16452,-0.209952 -22.86943,17.656901 -22.86943,17.656901 l 0.44095,24.98148 c 0,0 -2.60691,4.98151 -2.95238,9.80955 -0.34546,4.82804 -0.27449,10.15709 -0.27449,10.15709 z"
+         id="path42945"
+         sodipodi:nodetypes="ccccsccccccccscc" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect78911"
+         width="5.1927824"
+         height="4.8816452"
+         x="185.53943"
+         y="112.98118" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect76723"
+         width="4.0640955"
+         height="4.8816452"
+         x="146.33432"
+         y="112.98118" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle76580"
+         cx="176.54158"
+         cy="115.16708"
+         r="9.4803848" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path69975"
+         cx="159.58713"
+         cy="115.35176"
+         r="9.4803848" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle76578"
+         cx="176.62535"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle73922"
+         cx="159.43898"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path58540"
+         cx="160.7424"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="path53594"
+         cx="160.75185"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="path42992"
+         cx="159.99802"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle69932"
+         cx="174.1489"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle69934"
+         cx="174.15834"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse69936"
+         cx="173.40451"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 160.13761,131.13154 c 0,0 2.76726,1.72399 6.81532,1.7983 4.04806,0.0743 8.38446,-1.3874 8.38446,-1.3874"
+         id="path78946" />
+      <path
+         style="fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 146.74676,132.94759 7.65485,6.68194 28.07689,-0.14427 7.88104,-6.84394 -0.0822,5.08902 -6.80319,5.42207 0.087,9.56279 2.8601,-0.31257 3.12284,-1.2623 0.18409,3.63388 c 0,0 0.24833,1.81235 -0.66916,3.21576 -0.91748,1.4034 -4.05388,3.61137 -4.05388,3.61137 l -3.98733,2.15443 c 0,0 -1.21956,0.0724 -2.20601,1.2144 -0.98645,1.14199 -1.29376,3.75014 -1.29376,3.75014 l -7.60417,0.0306 c 0,0 -0.43949,-1.0071 -0.47871,-1.83032 -0.0392,-0.82322 -0.2226,-2.15559 -0.2226,-2.15559 l -1.99162,0.0781 c 0,0 0.27961,1.14574 0.0768,2.09789 -0.20283,0.95216 -0.71345,1.94282 -0.71345,1.94282 l -7.20309,-0.18968 c 0,0 -0.0227,-1.44012 -0.65235,-2.65216 -0.62968,-1.21204 -2.48262,-2.19863 -2.48262,-2.19863 0,0 -2.4924,-1.01767 -4.47452,-2.25945 -1.98213,-1.24178 -4.23294,-4.14547 -4.23294,-4.14547 l -0.10301,-6.5126 c 0,0 1.55606,0.8353 2.59421,1.19731 1.03815,0.36203 3.26294,0.49512 3.26294,0.49512 l -0.0993,-9.66539 -6.44829,-5.65588 z"
+         id="path79001" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.45388,158.19036 0.97381,2.22742 c 0,0 -1.22792,1.2238 -1.31012,3.42788 -0.0822,2.20408 -0.27169,3.0335 0.87513,3.3171 1.14682,0.28359 1.74172,-0.3315 2.46092,0.0717 0.71919,0.40316 -0.12367,1.22629 0.57368,1.50186 0.69734,0.27556 1.21876,0.61343 2.01636,0.30985 0.7976,-0.30358 1.4245,-0.95536 1.86553,-2.12649 0.44103,-1.17114 1.96631,0.24178 2.11018,-1.34059 0.14387,-1.58237 -0.55599,-2.25324 -0.55599,-2.25324 l -3.66206,-2.09375 -0.0765,-3.51575 -1.24818,-0.44145 z"
+         id="path87252" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 193.5043,158.19036 -0.97381,2.22742 c 0,0 1.22792,1.2238 1.31012,3.42788 0.0822,2.20408 0.27169,3.0335 -0.87513,3.3171 -1.14682,0.28359 -1.74172,-0.3315 -2.46092,0.0717 -0.71919,0.40316 0.12367,1.22629 -0.57368,1.50186 -0.69734,0.27556 -1.21876,0.61343 -2.01636,0.30985 -0.7976,-0.30358 -1.4245,-0.95536 -1.86553,-2.12649 -0.44103,-1.17114 -1.96631,0.24178 -2.11018,-1.34059 -0.14387,-1.58237 0.55599,-2.25324 0.55599,-2.25324 l 3.66206,-2.09375 0.0765,-3.51575 1.24818,-0.44145 z"
+         id="path92326" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 159.27589,168.79826 c 0,0 -1.82503,0.21048 -2.66128,0.77183 -0.83626,0.56134 -1.38918,1.32698 -1.38918,1.32698 l 0.0377,2.17145 7.19362,-0.14962 c 0,0 0.23819,-0.41065 0.82322,-0.55861 0.58503,-0.14796 2.60799,0.27969 3.13205,0.0243 0.52405,-0.25534 0.54837,-1.05165 0.54837,-1.05165 l -0.3601,-2.44172 z"
+         id="path92361" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 177.3002,168.79826 c 0,0 1.82503,0.21048 2.66128,0.77183 0.83626,0.56134 1.38918,1.32698 1.38918,1.32698 l -0.0377,2.17145 -7.19362,-0.14962 c 0,0 -0.23819,-0.41065 -0.82322,-0.55861 -0.58503,-0.14796 -2.60799,0.27969 -3.13205,0.0243 -0.52405,-0.25534 -0.54837,-1.05165 -0.54837,-1.05165 l 0.3601,-2.44172 z"
+         id="path95372" />
+    </g>
+    <g
+       id="g95959"
+       style="display:inline"
+       transform="matrix(0.55628201,0,0,0.55628201,-88.497108,28.298865)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.5895,158.19207 4.01956,-0.87803 41.6896,-0.0337 3.64087,0.53262 c 0,0 0.21177,-5.26432 -0.36052,-10.71475 -0.57228,-5.45044 -2.3223,-9.28893 -2.3223,-9.28893 l -0.0858,-11.47516 0.0315,-5.53312 0.18792,-2.53879 -0.11694,-4.09664 c 0,0 -3.5908,-18.579711 -21.02848,-18.578481 -22.16452,-0.209952 -22.86943,17.656901 -22.86943,17.656901 l 0.44095,24.98148 c 0,0 -2.60691,4.98151 -2.95238,9.80955 -0.34546,4.82804 -0.27449,10.15709 -0.27449,10.15709 z"
+         id="path95921"
+         sodipodi:nodetypes="ccccsccccccccscc" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect95923"
+         width="5.1927824"
+         height="4.8816452"
+         x="185.53943"
+         y="112.98118" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect95925"
+         width="4.0640955"
+         height="4.8816452"
+         x="146.33432"
+         y="112.98118" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle95927"
+         cx="176.54158"
+         cy="115.16708"
+         r="9.4803848" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle95929"
+         cx="159.58713"
+         cy="115.35176"
+         r="9.4803848" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle95931"
+         cx="176.62535"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle95933"
+         cx="159.43898"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle95935"
+         cx="160.7424"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle95937"
+         cx="160.75185"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse95939"
+         cx="159.99802"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle95941"
+         cx="174.1489"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle95943"
+         cx="174.15834"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse95945"
+         cx="173.40451"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 160.13761,131.13154 c 0,0 2.76726,1.72399 6.81532,1.7983 4.04806,0.0743 8.38446,-1.3874 8.38446,-1.3874"
+         id="path95947" />
+      <path
+         style="fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 146.74676,132.94759 7.65485,6.68194 28.07689,-0.14427 7.88104,-6.84394 -0.0822,5.08902 -6.80319,5.42207 0.087,9.56279 2.8601,-0.31257 3.12284,-1.2623 0.18409,3.63388 c 0,0 0.24833,1.81235 -0.66916,3.21576 -0.91748,1.4034 -4.05388,3.61137 -4.05388,3.61137 l -3.98733,2.15443 c 0,0 -1.21956,0.0724 -2.20601,1.2144 -0.98645,1.14199 -1.29376,3.75014 -1.29376,3.75014 l -7.60417,0.0306 c 0,0 -0.43949,-1.0071 -0.47871,-1.83032 -0.0392,-0.82322 -0.2226,-2.15559 -0.2226,-2.15559 l -1.99162,0.0781 c 0,0 0.27961,1.14574 0.0768,2.09789 -0.20283,0.95216 -0.71345,1.94282 -0.71345,1.94282 l -7.20309,-0.18968 c 0,0 -0.0227,-1.44012 -0.65235,-2.65216 -0.62968,-1.21204 -2.48262,-2.19863 -2.48262,-2.19863 0,0 -2.4924,-1.01767 -4.47452,-2.25945 -1.98213,-1.24178 -4.23294,-4.14547 -4.23294,-4.14547 l -0.10301,-6.5126 c 0,0 1.55606,0.8353 2.59421,1.19731 1.03815,0.36203 3.26294,0.49512 3.26294,0.49512 l -0.0993,-9.66539 -6.44829,-5.65588 z"
+         id="path95949" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.45388,158.19036 0.97381,2.22742 c 0,0 -1.22792,1.2238 -1.31012,3.42788 -0.0822,2.20408 -0.27169,3.0335 0.87513,3.3171 1.14682,0.28359 1.74172,-0.3315 2.46092,0.0717 0.71919,0.40316 -0.12367,1.22629 0.57368,1.50186 0.69734,0.27556 1.21876,0.61343 2.01636,0.30985 0.7976,-0.30358 1.4245,-0.95536 1.86553,-2.12649 0.44103,-1.17114 1.96631,0.24178 2.11018,-1.34059 0.14387,-1.58237 -0.55599,-2.25324 -0.55599,-2.25324 l -3.66206,-2.09375 -0.0765,-3.51575 -1.24818,-0.44145 z"
+         id="path95951" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 193.5043,158.19036 -0.97381,2.22742 c 0,0 1.22792,1.2238 1.31012,3.42788 0.0822,2.20408 0.27169,3.0335 -0.87513,3.3171 -1.14682,0.28359 -1.74172,-0.3315 -2.46092,0.0717 -0.71919,0.40316 0.12367,1.22629 -0.57368,1.50186 -0.69734,0.27556 -1.21876,0.61343 -2.01636,0.30985 -0.7976,-0.30358 -1.4245,-0.95536 -1.86553,-2.12649 -0.44103,-1.17114 -1.96631,0.24178 -2.11018,-1.34059 -0.14387,-1.58237 0.55599,-2.25324 0.55599,-2.25324 l 3.66206,-2.09375 0.0765,-3.51575 1.24818,-0.44145 z"
+         id="path95953" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 159.27589,168.79826 c 0,0 -1.82503,0.21048 -2.66128,0.77183 -0.83626,0.56134 -1.38918,1.32698 -1.38918,1.32698 l 0.0377,2.17145 7.19362,-0.14962 c 0,0 0.23819,-0.41065 0.82322,-0.55861 0.58503,-0.14796 2.60799,0.27969 3.13205,0.0243 0.52405,-0.25534 0.54837,-1.05165 0.54837,-1.05165 l -0.3601,-2.44172 z"
+         id="path95955" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 177.3002,168.79826 c 0,0 1.82503,0.21048 2.66128,0.77183 0.83626,0.56134 1.38918,1.32698 1.38918,1.32698 l -0.0377,2.17145 -7.19362,-0.14962 c 0,0 -0.23819,-0.41065 -0.82322,-0.55861 -0.58503,-0.14796 -2.60799,0.27969 -3.13205,0.0243 -0.52405,-0.25534 -0.54837,-1.05165 -0.54837,-1.05165 l 0.3601,-2.44172 z"
+         id="path95957" />
+    </g>
+    <g
+       id="g96719"
+       style="display:inline"
+       transform="matrix(0.55628201,0,0,0.55628201,-45.970617,26.886068)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.5895,158.19207 4.01956,-0.87803 41.6896,-0.0337 3.64087,0.53262 c 0,0 0.21177,-5.26432 -0.36052,-10.71475 -0.57228,-5.45044 -2.3223,-9.28893 -2.3223,-9.28893 l -0.0858,-11.47516 0.0315,-5.53312 0.18792,-2.53879 -0.11694,-4.09664 c 0,0 -3.5908,-18.579711 -21.02848,-18.578481 -22.16452,-0.209952 -22.86943,17.656901 -22.86943,17.656901 l 0.44095,24.98148 c 0,0 -2.60691,4.98151 -2.95238,9.80955 -0.34546,4.82804 -0.27449,10.15709 -0.27449,10.15709 z"
+         id="path96681"
+         sodipodi:nodetypes="ccccsccccccccscc" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect96683"
+         width="5.1927824"
+         height="4.8816452"
+         x="185.53943"
+         y="112.98118" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect96685"
+         width="4.0640955"
+         height="4.8816452"
+         x="146.33432"
+         y="112.98118" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle96687"
+         cx="176.54158"
+         cy="115.16708"
+         r="9.4803848" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle96689"
+         cx="159.58713"
+         cy="115.35176"
+         r="9.4803848" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle96691"
+         cx="176.62535"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle96693"
+         cx="159.43898"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle96695"
+         cx="160.7424"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle96697"
+         cx="160.75185"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse96699"
+         cx="159.99802"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle96701"
+         cx="174.1489"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle96703"
+         cx="174.15834"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse96705"
+         cx="173.40451"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 160.13761,131.13154 c 0,0 2.76726,1.72399 6.81532,1.7983 4.04806,0.0743 8.38446,-1.3874 8.38446,-1.3874"
+         id="path96707" />
+      <path
+         style="fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 146.74676,132.94759 7.65485,6.68194 28.07689,-0.14427 7.88104,-6.84394 -0.0822,5.08902 -6.80319,5.42207 0.087,9.56279 2.8601,-0.31257 3.12284,-1.2623 0.18409,3.63388 c 0,0 0.24833,1.81235 -0.66916,3.21576 -0.91748,1.4034 -4.05388,3.61137 -4.05388,3.61137 l -3.98733,2.15443 c 0,0 -1.21956,0.0724 -2.20601,1.2144 -0.98645,1.14199 -1.29376,3.75014 -1.29376,3.75014 l -7.60417,0.0306 c 0,0 -0.43949,-1.0071 -0.47871,-1.83032 -0.0392,-0.82322 -0.2226,-2.15559 -0.2226,-2.15559 l -1.99162,0.0781 c 0,0 0.27961,1.14574 0.0768,2.09789 -0.20283,0.95216 -0.71345,1.94282 -0.71345,1.94282 l -7.20309,-0.18968 c 0,0 -0.0227,-1.44012 -0.65235,-2.65216 -0.62968,-1.21204 -2.48262,-2.19863 -2.48262,-2.19863 0,0 -2.4924,-1.01767 -4.47452,-2.25945 -1.98213,-1.24178 -4.23294,-4.14547 -4.23294,-4.14547 l -0.10301,-6.5126 c 0,0 1.55606,0.8353 2.59421,1.19731 1.03815,0.36203 3.26294,0.49512 3.26294,0.49512 l -0.0993,-9.66539 -6.44829,-5.65588 z"
+         id="path96709" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.45388,158.19036 0.97381,2.22742 c 0,0 -1.22792,1.2238 -1.31012,3.42788 -0.0822,2.20408 -0.27169,3.0335 0.87513,3.3171 1.14682,0.28359 1.74172,-0.3315 2.46092,0.0717 0.71919,0.40316 -0.12367,1.22629 0.57368,1.50186 0.69734,0.27556 1.21876,0.61343 2.01636,0.30985 0.7976,-0.30358 1.4245,-0.95536 1.86553,-2.12649 0.44103,-1.17114 1.96631,0.24178 2.11018,-1.34059 0.14387,-1.58237 -0.55599,-2.25324 -0.55599,-2.25324 l -3.66206,-2.09375 -0.0765,-3.51575 -1.24818,-0.44145 z"
+         id="path96711" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 193.5043,158.19036 -0.97381,2.22742 c 0,0 1.22792,1.2238 1.31012,3.42788 0.0822,2.20408 0.27169,3.0335 -0.87513,3.3171 -1.14682,0.28359 -1.74172,-0.3315 -2.46092,0.0717 -0.71919,0.40316 0.12367,1.22629 -0.57368,1.50186 -0.69734,0.27556 -1.21876,0.61343 -2.01636,0.30985 -0.7976,-0.30358 -1.4245,-0.95536 -1.86553,-2.12649 -0.44103,-1.17114 -1.96631,0.24178 -2.11018,-1.34059 -0.14387,-1.58237 0.55599,-2.25324 0.55599,-2.25324 l 3.66206,-2.09375 0.0765,-3.51575 1.24818,-0.44145 z"
+         id="path96713" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 159.27589,168.79826 c 0,0 -1.82503,0.21048 -2.66128,0.77183 -0.83626,0.56134 -1.38918,1.32698 -1.38918,1.32698 l 0.0377,2.17145 7.19362,-0.14962 c 0,0 0.23819,-0.41065 0.82322,-0.55861 0.58503,-0.14796 2.60799,0.27969 3.13205,0.0243 0.52405,-0.25534 0.54837,-1.05165 0.54837,-1.05165 l -0.3601,-2.44172 z"
+         id="path96715" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 177.3002,168.79826 c 0,0 1.82503,0.21048 2.66128,0.77183 0.83626,0.56134 1.38918,1.32698 1.38918,1.32698 l -0.0377,2.17145 -7.19362,-0.14962 c 0,0 -0.23819,-0.41065 -0.82322,-0.55861 -0.58503,-0.14796 -2.60799,0.27969 -3.13205,0.0243 -0.52405,-0.25534 -0.54837,-1.05165 -0.54837,-1.05165 l 0.3601,-2.44172 z"
+         id="path96717" />
+    </g>
+    <path
+       style="display:inline;fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 6.0280927,166.01851 1.90376,-0.41585 19.7451993,-0.016 1.724404,0.25226 c 0,0 0.100294,-2.4933 -0.170752,-5.07476 -0.271045,-2.58146 -1.099897,-4.39947 -1.099897,-4.39947 l -0.04063,-5.4349 0.01492,-2.62063 0.089,-1.20243 -0.05539,-1.94026 c 0,0 -1.700688,-8.7998 -9.959594,-8.79922 -10.4976503,-0.0995 -10.8315133,8.36273 -10.8315133,8.36273 l 0.208846,11.83184 c 0,0 -1.234696,2.35936 -1.398318,4.64603 -0.163619,2.28668 -0.130006,4.81064 -0.130006,4.81064 z"
+       id="path42945-2"
+       sodipodi:nodetypes="ccccsccccccccscc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125313;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect78911-9"
+       width="2.4594269"
+       height="2.3120646"
+       x="25.896589"
+       y="144.60555"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.398752;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect76723-1"
+       width="19.489958"
+       height="2.3120646"
+       x="7.328104"
+       y="144.60555"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 7.5234477,154.06212 3.6255203,3.16473 13.297892,-0.0684 3.732649,-3.24145 -0.03893,2.41029 -3.222154,2.56802 0.0412,4.52917 1.354612,-0.14805 1.479052,-0.59785 0.08719,1.72109 c 0,0 0.117611,0.85838 -0.316931,1.52307 -0.43454,0.66468 -1.920015,1.71042 -1.920015,1.71042 l -1.888495,1.0204 c 0,0 -0.577613,0.0342 -1.044819,0.57516 -0.467208,0.54088 -0.612757,1.77616 -0.612757,1.77616 l -3.601518,0.0145 c 0,0 -0.208153,-0.47699 -0.226728,-0.86689 -0.01856,-0.3899 -0.105425,-1.02093 -0.105425,-1.02093 l -0.943279,0.037 c 0,0 0.132429,0.54266 0.03638,0.99362 -0.09607,0.45096 -0.337906,0.92016 -0.337906,0.92016 l -3.411558,-0.0898 c 0,0 -0.01077,-0.68207 -0.308968,-1.25613 -0.298231,-0.57405 -1.175828,-1.04132 -1.175828,-1.04132 0,0 -1.180462,-0.48199 -2.1192413,-1.07013 -0.938784,-0.58813 -2.004822,-1.96339 -2.004822,-1.96339 l -0.04879,-3.08452 c 0,0 0.736987,0.39561 1.228681,0.56707 0.491693,0.17146 1.5454063,0.23449 1.5454063,0.23449 l -0.04704,-4.57775 -3.0540653,-2.67876 z"
+       id="path79001-8"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 5.9638597,166.0177 0.46122,1.05496 c 0,0 -0.581572,0.57962 -0.620504,1.62352 -0.03893,1.04391 -0.128679,1.43675 0.414483,1.57106 0.543161,0.13432 0.82492,-0.157 1.16555,0.034 0.340626,0.19095 -0.05857,0.5808 0.27171,0.71132 0.330276,0.13051 0.577233,0.29053 0.954996,0.14675 0.377763,-0.14378 0.674678,-0.45248 0.883559,-1.00715 0.208883,-0.55468 0.9312933,0.11447 0.9994333,-0.63495 0.06814,-0.74945 -0.263331,-1.06719 -0.263331,-1.06719 l -1.7344393,-0.99164 -0.03623,-1.66514 -0.591168,-0.20909 z"
+       id="path87252-7"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 29.668944,166.0177 -0.46122,1.05496 c 0,0 0.581572,0.57962 0.620504,1.62352 0.03893,1.04391 0.128679,1.43675 -0.414482,1.57106 -0.543162,0.13432 -0.824921,-0.157 -1.165552,0.034 -0.340625,0.19095 0.05857,0.5808 -0.271708,0.71132 -0.330277,0.13051 -0.577233,0.29053 -0.954996,0.14675 -0.377763,-0.14378 -0.674678,-0.45248 -0.883561,-1.00715 -0.208881,-0.55468 -0.931291,0.11447 -0.999431,-0.63495 -0.06814,-0.74945 0.26333,-1.06719 0.26333,-1.06719 l 1.73444,-0.99164 0.03623,-1.66514 0.591168,-0.20909 z"
+       id="path92326-9"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 13.457545,171.04186 c 0,0 -0.864378,0.0997 -1.260446,0.36555 -0.396073,0.26586 -0.65795,0.6285 -0.65795,0.6285 l 0.01786,1.02844 3.407071,-0.0708 c 0,0 0.112807,-0.19451 0.389897,-0.26458 0.277084,-0.0701 1.235207,0.13247 1.483414,0.0121 0.248203,-0.12089 0.259722,-0.49809 0.259722,-0.49809 l -0.170553,-1.15645 z"
+       id="path92361-2"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 21.994292,171.04186 c 0,0 0.864378,0.0997 1.260446,0.36555 0.396073,0.26586 0.657949,0.6285 0.657949,0.6285 l -0.01785,1.02844 -3.407072,-0.0708 c 0,0 -0.112819,-0.19451 -0.389896,-0.26458 -0.277085,-0.0701 -1.235207,0.13247 -1.483415,0.0121 -0.248202,-0.12089 -0.259721,-0.49809 -0.259721,-0.49809 l 0.170552,-1.15645 z"
+       id="path95372-0"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 64.566491,169.63452 1.90376,-0.41585 19.7452,-0.016 1.7244,0.25226 c 0,0 0.1003,-2.4933 -0.17075,-5.07476 -0.27104,-2.58146 -1.0999,-4.39947 -1.0999,-4.39947 l -0.0406,-5.4349 0.0149,-2.62063 0.089,-1.20243 -0.0554,-1.94026 c 0,0 -1.70068,-8.7998 -9.95959,-8.79922 -10.49765,-0.0995 -10.831513,8.36273 -10.831513,8.36273 l 0.208846,11.83184 c 0,0 -1.234696,2.35936 -1.398318,4.64603 -0.163619,2.28668 -0.130006,4.81064 -0.130006,4.81064 z"
+       id="path96790"
+       sodipodi:nodetypes="ccccsccccccccscc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125313;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect96792"
+       width="2.4594269"
+       height="2.3120646"
+       x="84.434975"
+       y="148.22156"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.398752;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect96794"
+       width="19.489958"
+       height="2.3120646"
+       x="65.866501"
+       y="148.22156"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 66.061846,157.67813 3.62552,3.16473 13.297892,-0.0684 3.732653,-3.24145 -0.0389,2.41029 -3.222158,2.56802 0.0412,4.52917 1.354608,-0.14805 1.47906,-0.59785 0.0872,1.72109 c 0,0 0.11761,0.85838 -0.31694,1.52307 -0.43454,0.66468 -1.92001,1.71042 -1.92001,1.71042 l -1.888495,1.0204 c 0,0 -0.577613,0.0342 -1.044819,0.57516 -0.467208,0.54088 -0.612757,1.77616 -0.612757,1.77616 l -3.601518,0.0145 c 0,0 -0.208153,-0.47699 -0.226728,-0.86689 -0.01856,-0.3899 -0.105425,-1.02093 -0.105425,-1.02093 l -0.943279,0.037 c 0,0 0.132429,0.54266 0.03638,0.99362 -0.09607,0.45096 -0.337906,0.92016 -0.337906,0.92016 l -3.411558,-0.0898 c 0,0 -0.01077,-0.68207 -0.308968,-1.25613 -0.298231,-0.57405 -1.175828,-1.04132 -1.175828,-1.04132 0,0 -1.180462,-0.48199 -2.119241,-1.07013 -0.938784,-0.58813 -2.004822,-1.96339 -2.004822,-1.96339 l -0.04879,-3.08452 c 0,0 0.736987,0.39561 1.228681,0.56707 0.491693,0.17146 1.545406,0.23449 1.545406,0.23449 l -0.04704,-4.57775 -3.054065,-2.67876 z"
+       id="path96796"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 64.502258,169.63371 0.46122,1.05496 c 0,0 -0.581572,0.57962 -0.620504,1.62352 -0.03893,1.04391 -0.128679,1.43675 0.414483,1.57106 0.543161,0.13432 0.82492,-0.157 1.16555,0.034 0.340626,0.19095 -0.05857,0.5808 0.27171,0.71132 0.330276,0.13051 0.577233,0.29053 0.954996,0.14675 0.377763,-0.14378 0.674678,-0.45248 0.883559,-1.00715 0.208883,-0.55468 0.931293,0.11447 0.999433,-0.63495 0.06814,-0.74945 -0.263331,-1.06719 -0.263331,-1.06719 l -1.734439,-0.99164 -0.03623,-1.66514 -0.591168,-0.20909 z"
+       id="path96798"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88.207341,169.63371 -0.46122,1.05496 c 0,0 0.58157,0.57962 0.6205,1.62352 0.0389,1.04391 0.12868,1.43675 -0.41448,1.57106 -0.54316,0.13432 -0.82492,-0.157 -1.16555,0.034 -0.34062,0.19095 0.0586,0.5808 -0.27171,0.71132 -0.33027,0.13051 -0.57723,0.29053 -0.95499,0.14675 -0.37777,-0.14378 -0.67468,-0.45248 -0.88356,-1.00715 -0.20889,-0.55468 -0.931295,0.11447 -0.999435,-0.63495 -0.06814,-0.74945 0.26333,-1.06719 0.26333,-1.06719 l 1.734435,-0.99164 0.0362,-1.66514 0.59117,-0.20909 z"
+       id="path96800"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.995943,174.65787 c 0,0 -0.864378,0.0997 -1.260446,0.36555 -0.396073,0.26586 -0.65795,0.6285 -0.65795,0.6285 l 0.01786,1.02844 3.407071,-0.0708 c 0,0 0.112807,-0.19451 0.389897,-0.26458 0.277084,-0.0701 1.235207,0.13247 1.483414,0.0121 0.248203,-0.12089 0.259722,-0.49809 0.259722,-0.49809 l -0.170553,-1.15645 z"
+       id="path96802"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80.53269,174.65787 c 0,0 0.864378,0.0997 1.260446,0.36555 0.396073,0.26586 0.657949,0.6285 0.657949,0.6285 l -0.01785,1.02844 -3.407072,-0.0708 c 0,0 -0.112819,-0.19451 -0.389896,-0.26458 -0.277085,-0.0701 -1.235207,0.13247 -1.483415,0.0121 -0.248202,-0.12089 -0.259721,-0.49809 -0.259721,-0.49809 l 0.170552,-1.15645 z"
+       id="path96804"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="157.33998"
+       y="31.567913"
+       id="text104276"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.374209"
+         x="157.33998"
+         y="31.567913"
+         id="tspan104274">Motor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="261.27783"
+       y="32.670441"
+       id="text104878"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.374209"
+         x="261.27783"
+         y="32.670441"
+         id="tspan104876">Carrocería</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3328px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374209"
+       x="391.6008"
+       y="31.921164"
+       id="text105856"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.374209"
+         x="391.6008"
+         y="31.921164"
+         id="tspan105854">Revisión</tspan></text>
+    <g
+       id="g91831"
+       style="display:inline"
+       transform="matrix(0.55628201,0,0,0.55628201,160.88025,-7.8009843)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.5895,158.19207 4.01956,-0.87803 41.6896,-0.0337 3.64087,0.53262 c 0,0 0.21177,-5.26432 -0.36052,-10.71475 -0.57228,-5.45044 -2.3223,-9.28893 -2.3223,-9.28893 l -0.0858,-11.47516 0.0315,-5.53312 0.18792,-2.53879 -0.11694,-4.09664 c 0,0 -3.5908,-18.579711 -21.02848,-18.578481 -22.16452,-0.209952 -22.86943,17.656901 -22.86943,17.656901 l 0.44095,24.98148 c 0,0 -2.60691,4.98151 -2.95238,9.80955 -0.34546,4.82804 -0.27449,10.15709 -0.27449,10.15709 z"
+         id="path91793"
+         sodipodi:nodetypes="ccccsccccccccscc" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect91795"
+         width="5.1927824"
+         height="4.8816452"
+         x="185.53943"
+         y="112.98118" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect91797"
+         width="4.0640955"
+         height="4.8816452"
+         x="146.33432"
+         y="112.98118" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91799"
+         cx="176.54158"
+         cy="115.16708"
+         r="9.4803848" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91801"
+         cx="159.58713"
+         cy="115.35176"
+         r="9.4803848" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91803"
+         cx="176.62535"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91805"
+         cx="159.43898"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91807"
+         cx="160.7424"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle91809"
+         cx="160.75185"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse91811"
+         cx="159.99802"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91813"
+         cx="174.1489"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle91815"
+         cx="174.15834"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse91817"
+         cx="173.40451"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 160.13761,131.13154 c 0,0 2.76726,1.72399 6.81532,1.7983 4.04806,0.0743 8.38446,-1.3874 8.38446,-1.3874"
+         id="path91819" />
+      <path
+         style="fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 146.74676,132.94759 7.65485,6.68194 28.07689,-0.14427 7.88104,-6.84394 -0.0822,5.08902 -6.80319,5.42207 0.087,9.56279 2.8601,-0.31257 3.12284,-1.2623 0.18409,3.63388 c 0,0 0.24833,1.81235 -0.66916,3.21576 -0.91748,1.4034 -4.05388,3.61137 -4.05388,3.61137 l -3.98733,2.15443 c 0,0 -1.21956,0.0724 -2.20601,1.2144 -0.98645,1.14199 -1.29376,3.75014 -1.29376,3.75014 l -7.60417,0.0306 c 0,0 -0.43949,-1.0071 -0.47871,-1.83032 -0.0392,-0.82322 -0.2226,-2.15559 -0.2226,-2.15559 l -1.99162,0.0781 c 0,0 0.27961,1.14574 0.0768,2.09789 -0.20283,0.95216 -0.71345,1.94282 -0.71345,1.94282 l -7.20309,-0.18968 c 0,0 -0.0227,-1.44012 -0.65235,-2.65216 -0.62968,-1.21204 -2.48262,-2.19863 -2.48262,-2.19863 0,0 -2.4924,-1.01767 -4.47452,-2.25945 -1.98213,-1.24178 -4.23294,-4.14547 -4.23294,-4.14547 l -0.10301,-6.5126 c 0,0 1.55606,0.8353 2.59421,1.19731 1.03815,0.36203 3.26294,0.49512 3.26294,0.49512 l -0.0993,-9.66539 -6.44829,-5.65588 z"
+         id="path91821" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.45388,158.19036 0.97381,2.22742 c 0,0 -1.22792,1.2238 -1.31012,3.42788 -0.0822,2.20408 -0.27169,3.0335 0.87513,3.3171 1.14682,0.28359 1.74172,-0.3315 2.46092,0.0717 0.71919,0.40316 -0.12367,1.22629 0.57368,1.50186 0.69734,0.27556 1.21876,0.61343 2.01636,0.30985 0.7976,-0.30358 1.4245,-0.95536 1.86553,-2.12649 0.44103,-1.17114 1.96631,0.24178 2.11018,-1.34059 0.14387,-1.58237 -0.55599,-2.25324 -0.55599,-2.25324 l -3.66206,-2.09375 -0.0765,-3.51575 -1.24818,-0.44145 z"
+         id="path91823" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 193.5043,158.19036 -0.97381,2.22742 c 0,0 1.22792,1.2238 1.31012,3.42788 0.0822,2.20408 0.27169,3.0335 -0.87513,3.3171 -1.14682,0.28359 -1.74172,-0.3315 -2.46092,0.0717 -0.71919,0.40316 0.12367,1.22629 -0.57368,1.50186 -0.69734,0.27556 -1.21876,0.61343 -2.01636,0.30985 -0.7976,-0.30358 -1.4245,-0.95536 -1.86553,-2.12649 -0.44103,-1.17114 -1.96631,0.24178 -2.11018,-1.34059 -0.14387,-1.58237 0.55599,-2.25324 0.55599,-2.25324 l 3.66206,-2.09375 0.0765,-3.51575 1.24818,-0.44145 z"
+         id="path91825" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 159.27589,168.79826 c 0,0 -1.82503,0.21048 -2.66128,0.77183 -0.83626,0.56134 -1.38918,1.32698 -1.38918,1.32698 l 0.0377,2.17145 7.19362,-0.14962 c 0,0 0.23819,-0.41065 0.82322,-0.55861 0.58503,-0.14796 2.60799,0.27969 3.13205,0.0243 0.52405,-0.25534 0.54837,-1.05165 0.54837,-1.05165 l -0.3601,-2.44172 z"
+         id="path91827" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 177.3002,168.79826 c 0,0 1.82503,0.21048 2.66128,0.77183 0.83626,0.56134 1.38918,1.32698 1.38918,1.32698 l -0.0377,2.17145 -7.19362,-0.14962 c 0,0 -0.23819,-0.41065 -0.82322,-0.55861 -0.58503,-0.14796 -2.60799,0.27969 -3.13205,0.0243 -0.52405,-0.25534 -0.54837,-1.05165 -0.54837,-1.05165 l 0.3601,-2.44172 z"
+         id="path91829" />
+    </g>
+    <g
+       id="g91871"
+       style="display:inline"
+       transform="matrix(0.55628201,0,0,0.55628201,58.881427,7.8770775)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.5895,158.19207 4.01956,-0.87803 41.6896,-0.0337 3.64087,0.53262 c 0,0 0.21177,-5.26432 -0.36052,-10.71475 -0.57228,-5.45044 -2.3223,-9.28893 -2.3223,-9.28893 l -0.0858,-11.47516 0.0315,-5.53312 0.18792,-2.53879 -0.11694,-4.09664 c 0,0 -3.5908,-18.579711 -21.02848,-18.578481 -22.16452,-0.209952 -22.86943,17.656901 -22.86943,17.656901 l 0.44095,24.98148 c 0,0 -2.60691,4.98151 -2.95238,9.80955 -0.34546,4.82804 -0.27449,10.15709 -0.27449,10.15709 z"
+         id="path91833"
+         sodipodi:nodetypes="ccccsccccccccscc" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect91835"
+         width="5.1927824"
+         height="4.8816452"
+         x="185.53943"
+         y="112.98118" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect91837"
+         width="4.0640955"
+         height="4.8816452"
+         x="146.33432"
+         y="112.98118" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91839"
+         cx="176.54158"
+         cy="115.16708"
+         r="9.4803848" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91841"
+         cx="159.58713"
+         cy="115.35176"
+         r="9.4803848" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91843"
+         cx="176.62535"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91845"
+         cx="159.43898"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91847"
+         cx="160.7424"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle91849"
+         cx="160.75185"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse91851"
+         cx="159.99802"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91853"
+         cx="174.1489"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle91855"
+         cx="174.15834"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse91857"
+         cx="173.40451"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 160.13761,131.13154 c 0,0 2.76726,1.72399 6.81532,1.7983 4.04806,0.0743 8.38446,-1.3874 8.38446,-1.3874"
+         id="path91859" />
+      <path
+         style="fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 146.74676,132.94759 7.65485,6.68194 28.07689,-0.14427 7.88104,-6.84394 -0.0822,5.08902 -6.80319,5.42207 0.087,9.56279 2.8601,-0.31257 3.12284,-1.2623 0.18409,3.63388 c 0,0 0.24833,1.81235 -0.66916,3.21576 -0.91748,1.4034 -4.05388,3.61137 -4.05388,3.61137 l -3.98733,2.15443 c 0,0 -1.21956,0.0724 -2.20601,1.2144 -0.98645,1.14199 -1.29376,3.75014 -1.29376,3.75014 l -7.60417,0.0306 c 0,0 -0.43949,-1.0071 -0.47871,-1.83032 -0.0392,-0.82322 -0.2226,-2.15559 -0.2226,-2.15559 l -1.99162,0.0781 c 0,0 0.27961,1.14574 0.0768,2.09789 -0.20283,0.95216 -0.71345,1.94282 -0.71345,1.94282 l -7.20309,-0.18968 c 0,0 -0.0227,-1.44012 -0.65235,-2.65216 -0.62968,-1.21204 -2.48262,-2.19863 -2.48262,-2.19863 0,0 -2.4924,-1.01767 -4.47452,-2.25945 -1.98213,-1.24178 -4.23294,-4.14547 -4.23294,-4.14547 l -0.10301,-6.5126 c 0,0 1.55606,0.8353 2.59421,1.19731 1.03815,0.36203 3.26294,0.49512 3.26294,0.49512 l -0.0993,-9.66539 -6.44829,-5.65588 z"
+         id="path91861" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.45388,158.19036 0.97381,2.22742 c 0,0 -1.22792,1.2238 -1.31012,3.42788 -0.0822,2.20408 -0.27169,3.0335 0.87513,3.3171 1.14682,0.28359 1.74172,-0.3315 2.46092,0.0717 0.71919,0.40316 -0.12367,1.22629 0.57368,1.50186 0.69734,0.27556 1.21876,0.61343 2.01636,0.30985 0.7976,-0.30358 1.4245,-0.95536 1.86553,-2.12649 0.44103,-1.17114 1.96631,0.24178 2.11018,-1.34059 0.14387,-1.58237 -0.55599,-2.25324 -0.55599,-2.25324 l -3.66206,-2.09375 -0.0765,-3.51575 -1.24818,-0.44145 z"
+         id="path91863" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 193.5043,158.19036 -0.97381,2.22742 c 0,0 1.22792,1.2238 1.31012,3.42788 0.0822,2.20408 0.27169,3.0335 -0.87513,3.3171 -1.14682,0.28359 -1.74172,-0.3315 -2.46092,0.0717 -0.71919,0.40316 0.12367,1.22629 -0.57368,1.50186 -0.69734,0.27556 -1.21876,0.61343 -2.01636,0.30985 -0.7976,-0.30358 -1.4245,-0.95536 -1.86553,-2.12649 -0.44103,-1.17114 -1.96631,0.24178 -2.11018,-1.34059 -0.14387,-1.58237 0.55599,-2.25324 0.55599,-2.25324 l 3.66206,-2.09375 0.0765,-3.51575 1.24818,-0.44145 z"
+         id="path91865" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 159.27589,168.79826 c 0,0 -1.82503,0.21048 -2.66128,0.77183 -0.83626,0.56134 -1.38918,1.32698 -1.38918,1.32698 l 0.0377,2.17145 7.19362,-0.14962 c 0,0 0.23819,-0.41065 0.82322,-0.55861 0.58503,-0.14796 2.60799,0.27969 3.13205,0.0243 0.52405,-0.25534 0.54837,-1.05165 0.54837,-1.05165 l -0.3601,-2.44172 z"
+         id="path91867" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 177.3002,168.79826 c 0,0 1.82503,0.21048 2.66128,0.77183 0.83626,0.56134 1.38918,1.32698 1.38918,1.32698 l -0.0377,2.17145 -7.19362,-0.14962 c 0,0 -0.23819,-0.41065 -0.82322,-0.55861 -0.58503,-0.14796 -2.60799,0.27969 -3.13205,0.0243 -0.52405,-0.25534 -0.54837,-1.05165 -0.54837,-1.05165 l 0.3601,-2.44172 z"
+         id="path91869" />
+    </g>
+    <g
+       id="g91911"
+       style="display:inline"
+       transform="matrix(0.55628201,0,0,0.55628201,96.764932,7.3729301)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.5895,158.19207 4.01956,-0.87803 41.6896,-0.0337 3.64087,0.53262 c 0,0 0.21177,-5.26432 -0.36052,-10.71475 -0.57228,-5.45044 -2.3223,-9.28893 -2.3223,-9.28893 l -0.0858,-11.47516 0.0315,-5.53312 0.18792,-2.53879 -0.11694,-4.09664 c 0,0 -3.5908,-18.579711 -21.02848,-18.578481 -22.16452,-0.209952 -22.86943,17.656901 -22.86943,17.656901 l 0.44095,24.98148 c 0,0 -2.60691,4.98151 -2.95238,9.80955 -0.34546,4.82804 -0.27449,10.15709 -0.27449,10.15709 z"
+         id="path91873"
+         sodipodi:nodetypes="ccccsccccccccscc" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect91875"
+         width="5.1927824"
+         height="4.8816452"
+         x="185.53943"
+         y="112.98118" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect91877"
+         width="4.0640955"
+         height="4.8816452"
+         x="146.33432"
+         y="112.98118" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91879"
+         cx="176.54158"
+         cy="115.16708"
+         r="9.4803848" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91881"
+         cx="159.58713"
+         cy="115.35176"
+         r="9.4803848" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91883"
+         cx="176.62535"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91885"
+         cx="159.43898"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91887"
+         cx="160.7424"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle91889"
+         cx="160.75185"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse91891"
+         cx="159.99802"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle91893"
+         cx="174.1489"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle91895"
+         cx="174.15834"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse91897"
+         cx="173.40451"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 160.13761,131.13154 c 0,0 2.76726,1.72399 6.81532,1.7983 4.04806,0.0743 8.38446,-1.3874 8.38446,-1.3874"
+         id="path91899" />
+      <path
+         style="fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 146.74676,132.94759 7.65485,6.68194 28.07689,-0.14427 7.88104,-6.84394 -0.0822,5.08902 -6.80319,5.42207 0.087,9.56279 2.8601,-0.31257 3.12284,-1.2623 0.18409,3.63388 c 0,0 0.24833,1.81235 -0.66916,3.21576 -0.91748,1.4034 -4.05388,3.61137 -4.05388,3.61137 l -3.98733,2.15443 c 0,0 -1.21956,0.0724 -2.20601,1.2144 -0.98645,1.14199 -1.29376,3.75014 -1.29376,3.75014 l -7.60417,0.0306 c 0,0 -0.43949,-1.0071 -0.47871,-1.83032 -0.0392,-0.82322 -0.2226,-2.15559 -0.2226,-2.15559 l -1.99162,0.0781 c 0,0 0.27961,1.14574 0.0768,2.09789 -0.20283,0.95216 -0.71345,1.94282 -0.71345,1.94282 l -7.20309,-0.18968 c 0,0 -0.0227,-1.44012 -0.65235,-2.65216 -0.62968,-1.21204 -2.48262,-2.19863 -2.48262,-2.19863 0,0 -2.4924,-1.01767 -4.47452,-2.25945 -1.98213,-1.24178 -4.23294,-4.14547 -4.23294,-4.14547 l -0.10301,-6.5126 c 0,0 1.55606,0.8353 2.59421,1.19731 1.03815,0.36203 3.26294,0.49512 3.26294,0.49512 l -0.0993,-9.66539 -6.44829,-5.65588 z"
+         id="path91901" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.45388,158.19036 0.97381,2.22742 c 0,0 -1.22792,1.2238 -1.31012,3.42788 -0.0822,2.20408 -0.27169,3.0335 0.87513,3.3171 1.14682,0.28359 1.74172,-0.3315 2.46092,0.0717 0.71919,0.40316 -0.12367,1.22629 0.57368,1.50186 0.69734,0.27556 1.21876,0.61343 2.01636,0.30985 0.7976,-0.30358 1.4245,-0.95536 1.86553,-2.12649 0.44103,-1.17114 1.96631,0.24178 2.11018,-1.34059 0.14387,-1.58237 -0.55599,-2.25324 -0.55599,-2.25324 l -3.66206,-2.09375 -0.0765,-3.51575 -1.24818,-0.44145 z"
+         id="path91903" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 193.5043,158.19036 -0.97381,2.22742 c 0,0 1.22792,1.2238 1.31012,3.42788 0.0822,2.20408 0.27169,3.0335 -0.87513,3.3171 -1.14682,0.28359 -1.74172,-0.3315 -2.46092,0.0717 -0.71919,0.40316 0.12367,1.22629 -0.57368,1.50186 -0.69734,0.27556 -1.21876,0.61343 -2.01636,0.30985 -0.7976,-0.30358 -1.4245,-0.95536 -1.86553,-2.12649 -0.44103,-1.17114 -1.96631,0.24178 -2.11018,-1.34059 -0.14387,-1.58237 0.55599,-2.25324 0.55599,-2.25324 l 3.66206,-2.09375 0.0765,-3.51575 1.24818,-0.44145 z"
+         id="path91905" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 159.27589,168.79826 c 0,0 -1.82503,0.21048 -2.66128,0.77183 -0.83626,0.56134 -1.38918,1.32698 -1.38918,1.32698 l 0.0377,2.17145 7.19362,-0.14962 c 0,0 0.23819,-0.41065 0.82322,-0.55861 0.58503,-0.14796 2.60799,0.27969 3.13205,0.0243 0.52405,-0.25534 0.54837,-1.05165 0.54837,-1.05165 l -0.3601,-2.44172 z"
+         id="path91907" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 177.3002,168.79826 c 0,0 1.82503,0.21048 2.66128,0.77183 0.83626,0.56134 1.38918,1.32698 1.38918,1.32698 l -0.0377,2.17145 -7.19362,-0.14962 c 0,0 -0.23819,-0.41065 -0.82322,-0.55861 -0.58503,-0.14796 -2.60799,0.27969 -3.13205,0.0243 -0.52405,-0.25534 -0.54837,-1.05165 -0.54837,-1.05165 l 0.3601,-2.44172 z"
+         id="path91909" />
+    </g>
+    <g
+       id="g92031"
+       transform="translate(-90.684998,-274.0135)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="display:inline;fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 225.50273,481.81755 1.90376,-0.41585 19.7452,-0.016 1.72441,0.25226 c 0,0 0.10029,-2.4933 -0.17076,-5.07476 -0.27104,-2.58146 -1.09989,-4.39947 -1.09989,-4.39947 l -0.0406,-5.4349 0.0149,-2.62063 0.089,-1.20243 -0.0554,-1.94026 c 0,0 -1.70069,-8.7998 -9.9596,-8.79922 -10.49765,-0.0995 -10.83151,8.36273 -10.83151,8.36273 l 0.20885,11.83184 c 0,0 -1.2347,2.35936 -1.39832,4.64603 -0.16362,2.28668 -0.13001,4.81064 -0.13001,4.81064 z"
+         id="path91913"
+         sodipodi:nodetypes="ccccsccccccccscc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125313;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect91915"
+         width="2.4594269"
+         height="2.3120646"
+         x="245.37123"
+         y="460.4046"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.398752;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect91917"
+         width="19.489958"
+         height="2.3120646"
+         x="226.80275"
+         y="460.4046"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 226.99809,469.86116 3.62552,3.16473 13.29789,-0.0684 3.73265,-3.24145 -0.0389,2.41029 -3.22216,2.56802 0.0412,4.52917 1.35462,-0.14805 1.47905,-0.59785 0.0872,1.72109 c 0,0 0.11761,0.85838 -0.31693,1.52307 -0.43454,0.66468 -1.92002,1.71042 -1.92002,1.71042 l -1.88849,1.0204 c 0,0 -0.57762,0.0342 -1.04482,0.57516 -0.46721,0.54088 -0.61276,1.77616 -0.61276,1.77616 l -3.60152,0.0145 c 0,0 -0.20815,-0.47699 -0.22672,-0.86689 -0.0186,-0.3899 -0.10543,-1.02093 -0.10543,-1.02093 l -0.94328,0.037 c 0,0 0.13243,0.54266 0.0364,0.99362 -0.0961,0.45096 -0.3379,0.92016 -0.3379,0.92016 l -3.41156,-0.0898 c 0,0 -0.0108,-0.68207 -0.30897,-1.25613 -0.29823,-0.57405 -1.17583,-1.04132 -1.17583,-1.04132 0,0 -1.18046,-0.48199 -2.11924,-1.07013 -0.93878,-0.58813 -2.00482,-1.96339 -2.00482,-1.96339 l -0.0488,-3.08452 c 0,0 0.73699,0.39561 1.22868,0.56707 0.49169,0.17146 1.54541,0.23449 1.54541,0.23449 l -0.047,-4.57775 -3.05407,-2.67876 z"
+         id="path91919"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 225.4385,481.81674 0.46122,1.05496 c 0,0 -0.58157,0.57962 -0.6205,1.62352 -0.0389,1.04391 -0.12868,1.43675 0.41448,1.57106 0.54316,0.13432 0.82492,-0.157 1.16555,0.034 0.34062,0.19095 -0.0586,0.5808 0.27171,0.71132 0.33027,0.13051 0.57723,0.29053 0.95499,0.14675 0.37777,-0.14378 0.67468,-0.45248 0.88356,-1.00715 0.20889,-0.55468 0.9313,0.11447 0.99944,-0.63495 0.0681,-0.74945 -0.26333,-1.06719 -0.26333,-1.06719 l -1.73444,-0.99164 -0.0362,-1.66514 -0.59117,-0.20909 z"
+         id="path91921"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 249.14358,481.81674 -0.46122,1.05496 c 0,0 0.58158,0.57962 0.62051,1.62352 0.0389,1.04391 0.12868,1.43675 -0.41448,1.57106 -0.54317,0.13432 -0.82493,-0.157 -1.16556,0.034 -0.34062,0.19095 0.0586,0.5808 -0.2717,0.71132 -0.33028,0.13051 -0.57724,0.29053 -0.955,0.14675 -0.37776,-0.14378 -0.67468,-0.45248 -0.88356,-1.00715 -0.20888,-0.55468 -0.93129,0.11447 -0.99943,-0.63495 -0.0681,-0.74945 0.26333,-1.06719 0.26333,-1.06719 l 1.73444,-0.99164 0.0362,-1.66514 0.59117,-0.20909 z"
+         id="path91923"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 232.93218,486.8409 c 0,0 -0.86437,0.0997 -1.26044,0.36555 -0.39607,0.26586 -0.65795,0.6285 -0.65795,0.6285 l 0.0179,1.02844 3.40707,-0.0708 c 0,0 0.11281,-0.19451 0.3899,-0.26458 0.27708,-0.0701 1.2352,0.13247 1.48341,0.0121 0.2482,-0.12089 0.25972,-0.49809 0.25972,-0.49809 l -0.17055,-1.15645 z"
+         id="path91925"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 241.46893,486.8409 c 0,0 0.86438,0.0997 1.26045,0.36555 0.39607,0.26586 0.65795,0.6285 0.65795,0.6285 l -0.0178,1.02844 -3.40708,-0.0708 c 0,0 -0.11281,-0.19451 -0.38989,-0.26458 -0.27709,-0.0701 -1.23521,0.13247 -1.48342,0.0121 -0.2482,-0.12089 -0.25972,-0.49809 -0.25972,-0.49809 l 0.17055,-1.15645 z"
+         id="path91927"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g92049"
+       transform="translate(-59.689648,-292.3696)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="display:inline;fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 225.50273,481.81755 1.90376,-0.41585 19.7452,-0.016 1.72441,0.25226 c 0,0 0.10029,-2.4933 -0.17076,-5.07476 -0.27104,-2.58146 -1.09989,-4.39947 -1.09989,-4.39947 l -0.0406,-5.4349 0.0149,-2.62063 0.089,-1.20243 -0.0554,-1.94026 c 0,0 -1.70069,-8.7998 -9.9596,-8.79922 -10.49765,-0.0995 -10.83151,8.36273 -10.83151,8.36273 l 0.20885,11.83184 c 0,0 -1.2347,2.35936 -1.39832,4.64603 -0.16362,2.28668 -0.13001,4.81064 -0.13001,4.81064 z"
+         id="path92033"
+         sodipodi:nodetypes="ccccsccccccccscc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125313;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92035"
+         width="2.4594269"
+         height="2.3120646"
+         x="245.37123"
+         y="460.4046"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.398752;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92037"
+         width="19.489958"
+         height="2.3120646"
+         x="226.80275"
+         y="460.4046"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 226.99809,469.86116 3.62552,3.16473 13.29789,-0.0684 3.73265,-3.24145 -0.0389,2.41029 -3.22216,2.56802 0.0412,4.52917 1.35462,-0.14805 1.47905,-0.59785 0.0872,1.72109 c 0,0 0.11761,0.85838 -0.31693,1.52307 -0.43454,0.66468 -1.92002,1.71042 -1.92002,1.71042 l -1.88849,1.0204 c 0,0 -0.57762,0.0342 -1.04482,0.57516 -0.46721,0.54088 -0.61276,1.77616 -0.61276,1.77616 l -3.60152,0.0145 c 0,0 -0.20815,-0.47699 -0.22672,-0.86689 -0.0186,-0.3899 -0.10543,-1.02093 -0.10543,-1.02093 l -0.94328,0.037 c 0,0 0.13243,0.54266 0.0364,0.99362 -0.0961,0.45096 -0.3379,0.92016 -0.3379,0.92016 l -3.41156,-0.0898 c 0,0 -0.0108,-0.68207 -0.30897,-1.25613 -0.29823,-0.57405 -1.17583,-1.04132 -1.17583,-1.04132 0,0 -1.18046,-0.48199 -2.11924,-1.07013 -0.93878,-0.58813 -2.00482,-1.96339 -2.00482,-1.96339 l -0.0488,-3.08452 c 0,0 0.73699,0.39561 1.22868,0.56707 0.49169,0.17146 1.54541,0.23449 1.54541,0.23449 l -0.047,-4.57775 -3.05407,-2.67876 z"
+         id="path92039"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 225.4385,481.81674 0.46122,1.05496 c 0,0 -0.58157,0.57962 -0.6205,1.62352 -0.0389,1.04391 -0.12868,1.43675 0.41448,1.57106 0.54316,0.13432 0.82492,-0.157 1.16555,0.034 0.34062,0.19095 -0.0586,0.5808 0.27171,0.71132 0.33027,0.13051 0.57723,0.29053 0.95499,0.14675 0.37777,-0.14378 0.67468,-0.45248 0.88356,-1.00715 0.20889,-0.55468 0.9313,0.11447 0.99944,-0.63495 0.0681,-0.74945 -0.26333,-1.06719 -0.26333,-1.06719 l -1.73444,-0.99164 -0.0362,-1.66514 -0.59117,-0.20909 z"
+         id="path92041"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 249.14358,481.81674 -0.46122,1.05496 c 0,0 0.58158,0.57962 0.62051,1.62352 0.0389,1.04391 0.12868,1.43675 -0.41448,1.57106 -0.54317,0.13432 -0.82493,-0.157 -1.16556,0.034 -0.34062,0.19095 0.0586,0.5808 -0.2717,0.71132 -0.33028,0.13051 -0.57724,0.29053 -0.955,0.14675 -0.37776,-0.14378 -0.67468,-0.45248 -0.88356,-1.00715 -0.20888,-0.55468 -0.93129,0.11447 -0.99943,-0.63495 -0.0681,-0.74945 0.26333,-1.06719 0.26333,-1.06719 l 1.73444,-0.99164 0.0362,-1.66514 0.59117,-0.20909 z"
+         id="path92043"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 232.93218,486.8409 c 0,0 -0.86437,0.0997 -1.26044,0.36555 -0.39607,0.26586 -0.65795,0.6285 -0.65795,0.6285 l 0.0179,1.02844 3.40707,-0.0708 c 0,0 0.11281,-0.19451 0.3899,-0.26458 0.27708,-0.0701 1.2352,0.13247 1.48341,0.0121 0.2482,-0.12089 0.25972,-0.49809 0.25972,-0.49809 l -0.17055,-1.15645 z"
+         id="path92045"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 241.46893,486.8409 c 0,0 0.86438,0.0997 1.26045,0.36555 0.39607,0.26586 0.65795,0.6285 0.65795,0.6285 l -0.0178,1.02844 -3.40708,-0.0708 c 0,0 -0.11281,-0.19451 -0.38989,-0.26458 -0.27709,-0.0701 -1.23521,0.13247 -1.48342,0.0121 -0.2482,-0.12089 -0.25972,-0.49809 -0.25972,-0.49809 l 0.17055,-1.15645 z"
+         id="path92047"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g92067"
+       transform="translate(-24.985761,-263.72497)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="display:inline;fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 225.50273,481.81755 1.90376,-0.41585 19.7452,-0.016 1.72441,0.25226 c 0,0 0.10029,-2.4933 -0.17076,-5.07476 -0.27104,-2.58146 -1.09989,-4.39947 -1.09989,-4.39947 l -0.0406,-5.4349 0.0149,-2.62063 0.089,-1.20243 -0.0554,-1.94026 c 0,0 -1.70069,-8.7998 -9.9596,-8.79922 -10.49765,-0.0995 -10.83151,8.36273 -10.83151,8.36273 l 0.20885,11.83184 c 0,0 -1.2347,2.35936 -1.39832,4.64603 -0.16362,2.28668 -0.13001,4.81064 -0.13001,4.81064 z"
+         id="path92051"
+         sodipodi:nodetypes="ccccsccccccccscc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125313;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92053"
+         width="2.4594269"
+         height="2.3120646"
+         x="245.37123"
+         y="460.4046"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.398752;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92055"
+         width="19.489958"
+         height="2.3120646"
+         x="226.80275"
+         y="460.4046"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 226.99809,469.86116 3.62552,3.16473 13.29789,-0.0684 3.73265,-3.24145 -0.0389,2.41029 -3.22216,2.56802 0.0412,4.52917 1.35462,-0.14805 1.47905,-0.59785 0.0872,1.72109 c 0,0 0.11761,0.85838 -0.31693,1.52307 -0.43454,0.66468 -1.92002,1.71042 -1.92002,1.71042 l -1.88849,1.0204 c 0,0 -0.57762,0.0342 -1.04482,0.57516 -0.46721,0.54088 -0.61276,1.77616 -0.61276,1.77616 l -3.60152,0.0145 c 0,0 -0.20815,-0.47699 -0.22672,-0.86689 -0.0186,-0.3899 -0.10543,-1.02093 -0.10543,-1.02093 l -0.94328,0.037 c 0,0 0.13243,0.54266 0.0364,0.99362 -0.0961,0.45096 -0.3379,0.92016 -0.3379,0.92016 l -3.41156,-0.0898 c 0,0 -0.0108,-0.68207 -0.30897,-1.25613 -0.29823,-0.57405 -1.17583,-1.04132 -1.17583,-1.04132 0,0 -1.18046,-0.48199 -2.11924,-1.07013 -0.93878,-0.58813 -2.00482,-1.96339 -2.00482,-1.96339 l -0.0488,-3.08452 c 0,0 0.73699,0.39561 1.22868,0.56707 0.49169,0.17146 1.54541,0.23449 1.54541,0.23449 l -0.047,-4.57775 -3.05407,-2.67876 z"
+         id="path92057"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 225.4385,481.81674 0.46122,1.05496 c 0,0 -0.58157,0.57962 -0.6205,1.62352 -0.0389,1.04391 -0.12868,1.43675 0.41448,1.57106 0.54316,0.13432 0.82492,-0.157 1.16555,0.034 0.34062,0.19095 -0.0586,0.5808 0.27171,0.71132 0.33027,0.13051 0.57723,0.29053 0.95499,0.14675 0.37777,-0.14378 0.67468,-0.45248 0.88356,-1.00715 0.20889,-0.55468 0.9313,0.11447 0.99944,-0.63495 0.0681,-0.74945 -0.26333,-1.06719 -0.26333,-1.06719 l -1.73444,-0.99164 -0.0362,-1.66514 -0.59117,-0.20909 z"
+         id="path92059"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 249.14358,481.81674 -0.46122,1.05496 c 0,0 0.58158,0.57962 0.62051,1.62352 0.0389,1.04391 0.12868,1.43675 -0.41448,1.57106 -0.54317,0.13432 -0.82493,-0.157 -1.16556,0.034 -0.34062,0.19095 0.0586,0.5808 -0.2717,0.71132 -0.33028,0.13051 -0.57724,0.29053 -0.955,0.14675 -0.37776,-0.14378 -0.67468,-0.45248 -0.88356,-1.00715 -0.20888,-0.55468 -0.93129,0.11447 -0.99943,-0.63495 -0.0681,-0.74945 0.26333,-1.06719 0.26333,-1.06719 l 1.73444,-0.99164 0.0362,-1.66514 0.59117,-0.20909 z"
+         id="path92061"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 232.93218,486.8409 c 0,0 -0.86437,0.0997 -1.26044,0.36555 -0.39607,0.26586 -0.65795,0.6285 -0.65795,0.6285 l 0.0179,1.02844 3.40707,-0.0708 c 0,0 0.11281,-0.19451 0.3899,-0.26458 0.27708,-0.0701 1.2352,0.13247 1.48341,0.0121 0.2482,-0.12089 0.25972,-0.49809 0.25972,-0.49809 l -0.17055,-1.15645 z"
+         id="path92063"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 241.46893,486.8409 c 0,0 0.86438,0.0997 1.26045,0.36555 0.39607,0.26586 0.65795,0.6285 0.65795,0.6285 l -0.0178,1.02844 -3.40708,-0.0708 c 0,0 -0.11281,-0.19451 -0.38989,-0.26458 -0.27709,-0.0701 -1.23521,0.13247 -1.48342,0.0121 -0.2482,-0.12089 -0.25972,-0.49809 -0.25972,-0.49809 l 0.17055,-1.15645 z"
+         id="path92065"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g92107"
+       style="display:inline"
+       transform="matrix(0.55628201,0,0,0.55628201,197.31258,11.661382)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.5895,158.19207 4.01956,-0.87803 41.6896,-0.0337 3.64087,0.53262 c 0,0 0.21177,-5.26432 -0.36052,-10.71475 -0.57228,-5.45044 -2.3223,-9.28893 -2.3223,-9.28893 l -0.0858,-11.47516 0.0315,-5.53312 0.18792,-2.53879 -0.11694,-4.09664 c 0,0 -3.5908,-18.579711 -21.02848,-18.578481 -22.16452,-0.209952 -22.86943,17.656901 -22.86943,17.656901 l 0.44095,24.98148 c 0,0 -2.60691,4.98151 -2.95238,9.80955 -0.34546,4.82804 -0.27449,10.15709 -0.27449,10.15709 z"
+         id="path92069"
+         sodipodi:nodetypes="ccccsccccccccscc" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92071"
+         width="5.1927824"
+         height="4.8816452"
+         x="185.53943"
+         y="112.98118" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92073"
+         width="4.0640955"
+         height="4.8816452"
+         x="146.33432"
+         y="112.98118" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92075"
+         cx="176.54158"
+         cy="115.16708"
+         r="9.4803848" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92077"
+         cx="159.58713"
+         cy="115.35176"
+         r="9.4803848" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92079"
+         cx="176.62535"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92081"
+         cx="159.43898"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92083"
+         cx="160.7424"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle92085"
+         cx="160.75185"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse92087"
+         cx="159.99802"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92089"
+         cx="174.1489"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle92091"
+         cx="174.15834"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse92093"
+         cx="173.40451"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 160.13761,131.13154 c 0,0 2.76726,1.72399 6.81532,1.7983 4.04806,0.0743 8.38446,-1.3874 8.38446,-1.3874"
+         id="path92095" />
+      <path
+         style="fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 146.74676,132.94759 7.65485,6.68194 28.07689,-0.14427 7.88104,-6.84394 -0.0822,5.08902 -6.80319,5.42207 0.087,9.56279 2.8601,-0.31257 3.12284,-1.2623 0.18409,3.63388 c 0,0 0.24833,1.81235 -0.66916,3.21576 -0.91748,1.4034 -4.05388,3.61137 -4.05388,3.61137 l -3.98733,2.15443 c 0,0 -1.21956,0.0724 -2.20601,1.2144 -0.98645,1.14199 -1.29376,3.75014 -1.29376,3.75014 l -7.60417,0.0306 c 0,0 -0.43949,-1.0071 -0.47871,-1.83032 -0.0392,-0.82322 -0.2226,-2.15559 -0.2226,-2.15559 l -1.99162,0.0781 c 0,0 0.27961,1.14574 0.0768,2.09789 -0.20283,0.95216 -0.71345,1.94282 -0.71345,1.94282 l -7.20309,-0.18968 c 0,0 -0.0227,-1.44012 -0.65235,-2.65216 -0.62968,-1.21204 -2.48262,-2.19863 -2.48262,-2.19863 0,0 -2.4924,-1.01767 -4.47452,-2.25945 -1.98213,-1.24178 -4.23294,-4.14547 -4.23294,-4.14547 l -0.10301,-6.5126 c 0,0 1.55606,0.8353 2.59421,1.19731 1.03815,0.36203 3.26294,0.49512 3.26294,0.49512 l -0.0993,-9.66539 -6.44829,-5.65588 z"
+         id="path92097" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.45388,158.19036 0.97381,2.22742 c 0,0 -1.22792,1.2238 -1.31012,3.42788 -0.0822,2.20408 -0.27169,3.0335 0.87513,3.3171 1.14682,0.28359 1.74172,-0.3315 2.46092,0.0717 0.71919,0.40316 -0.12367,1.22629 0.57368,1.50186 0.69734,0.27556 1.21876,0.61343 2.01636,0.30985 0.7976,-0.30358 1.4245,-0.95536 1.86553,-2.12649 0.44103,-1.17114 1.96631,0.24178 2.11018,-1.34059 0.14387,-1.58237 -0.55599,-2.25324 -0.55599,-2.25324 l -3.66206,-2.09375 -0.0765,-3.51575 -1.24818,-0.44145 z"
+         id="path92099" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 193.5043,158.19036 -0.97381,2.22742 c 0,0 1.22792,1.2238 1.31012,3.42788 0.0822,2.20408 0.27169,3.0335 -0.87513,3.3171 -1.14682,0.28359 -1.74172,-0.3315 -2.46092,0.0717 -0.71919,0.40316 0.12367,1.22629 -0.57368,1.50186 -0.69734,0.27556 -1.21876,0.61343 -2.01636,0.30985 -0.7976,-0.30358 -1.4245,-0.95536 -1.86553,-2.12649 -0.44103,-1.17114 -1.96631,0.24178 -2.11018,-1.34059 -0.14387,-1.58237 0.55599,-2.25324 0.55599,-2.25324 l 3.66206,-2.09375 0.0765,-3.51575 1.24818,-0.44145 z"
+         id="path92101" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 159.27589,168.79826 c 0,0 -1.82503,0.21048 -2.66128,0.77183 -0.83626,0.56134 -1.38918,1.32698 -1.38918,1.32698 l 0.0377,2.17145 7.19362,-0.14962 c 0,0 0.23819,-0.41065 0.82322,-0.55861 0.58503,-0.14796 2.60799,0.27969 3.13205,0.0243 0.52405,-0.25534 0.54837,-1.05165 0.54837,-1.05165 l -0.3601,-2.44172 z"
+         id="path92103" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 177.3002,168.79826 c 0,0 1.82503,0.21048 2.66128,0.77183 0.83626,0.56134 1.38918,1.32698 1.38918,1.32698 l -0.0377,2.17145 -7.19362,-0.14962 c 0,0 -0.23819,-0.41065 -0.82322,-0.55861 -0.58503,-0.14796 -2.60799,0.27969 -3.13205,0.0243 -0.52405,-0.25534 -0.54837,-1.05165 -0.54837,-1.05165 l 0.3601,-2.44172 z"
+         id="path92105" />
+    </g>
+    <g
+       id="g92147"
+       style="display:inline"
+       transform="matrix(0.55628201,0,0,0.55628201,237.76332,0.25549776)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.5895,158.19207 4.01956,-0.87803 41.6896,-0.0337 3.64087,0.53262 c 0,0 0.21177,-5.26432 -0.36052,-10.71475 -0.57228,-5.45044 -2.3223,-9.28893 -2.3223,-9.28893 l -0.0858,-11.47516 0.0315,-5.53312 0.18792,-2.53879 -0.11694,-4.09664 c 0,0 -3.5908,-18.579711 -21.02848,-18.578481 -22.16452,-0.209952 -22.86943,17.656901 -22.86943,17.656901 l 0.44095,24.98148 c 0,0 -2.60691,4.98151 -2.95238,9.80955 -0.34546,4.82804 -0.27449,10.15709 -0.27449,10.15709 z"
+         id="path92109"
+         sodipodi:nodetypes="ccccsccccccccscc" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92111"
+         width="5.1927824"
+         height="4.8816452"
+         x="185.53943"
+         y="112.98118" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92113"
+         width="4.0640955"
+         height="4.8816452"
+         x="146.33432"
+         y="112.98118" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92115"
+         cx="176.54158"
+         cy="115.16708"
+         r="9.4803848" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92117"
+         cx="159.58713"
+         cy="115.35176"
+         r="9.4803848" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92119"
+         cx="176.62535"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92121"
+         cx="159.43898"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92123"
+         cx="160.7424"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle92125"
+         cx="160.75185"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse92127"
+         cx="159.99802"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92129"
+         cx="174.1489"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle92131"
+         cx="174.15834"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse92133"
+         cx="173.40451"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 160.13761,131.13154 c 0,0 2.76726,1.72399 6.81532,1.7983 4.04806,0.0743 8.38446,-1.3874 8.38446,-1.3874"
+         id="path92135" />
+      <path
+         style="fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 146.74676,132.94759 7.65485,6.68194 28.07689,-0.14427 7.88104,-6.84394 -0.0822,5.08902 -6.80319,5.42207 0.087,9.56279 2.8601,-0.31257 3.12284,-1.2623 0.18409,3.63388 c 0,0 0.24833,1.81235 -0.66916,3.21576 -0.91748,1.4034 -4.05388,3.61137 -4.05388,3.61137 l -3.98733,2.15443 c 0,0 -1.21956,0.0724 -2.20601,1.2144 -0.98645,1.14199 -1.29376,3.75014 -1.29376,3.75014 l -7.60417,0.0306 c 0,0 -0.43949,-1.0071 -0.47871,-1.83032 -0.0392,-0.82322 -0.2226,-2.15559 -0.2226,-2.15559 l -1.99162,0.0781 c 0,0 0.27961,1.14574 0.0768,2.09789 -0.20283,0.95216 -0.71345,1.94282 -0.71345,1.94282 l -7.20309,-0.18968 c 0,0 -0.0227,-1.44012 -0.65235,-2.65216 -0.62968,-1.21204 -2.48262,-2.19863 -2.48262,-2.19863 0,0 -2.4924,-1.01767 -4.47452,-2.25945 -1.98213,-1.24178 -4.23294,-4.14547 -4.23294,-4.14547 l -0.10301,-6.5126 c 0,0 1.55606,0.8353 2.59421,1.19731 1.03815,0.36203 3.26294,0.49512 3.26294,0.49512 l -0.0993,-9.66539 -6.44829,-5.65588 z"
+         id="path92137" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.45388,158.19036 0.97381,2.22742 c 0,0 -1.22792,1.2238 -1.31012,3.42788 -0.0822,2.20408 -0.27169,3.0335 0.87513,3.3171 1.14682,0.28359 1.74172,-0.3315 2.46092,0.0717 0.71919,0.40316 -0.12367,1.22629 0.57368,1.50186 0.69734,0.27556 1.21876,0.61343 2.01636,0.30985 0.7976,-0.30358 1.4245,-0.95536 1.86553,-2.12649 0.44103,-1.17114 1.96631,0.24178 2.11018,-1.34059 0.14387,-1.58237 -0.55599,-2.25324 -0.55599,-2.25324 l -3.66206,-2.09375 -0.0765,-3.51575 -1.24818,-0.44145 z"
+         id="path92139" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 193.5043,158.19036 -0.97381,2.22742 c 0,0 1.22792,1.2238 1.31012,3.42788 0.0822,2.20408 0.27169,3.0335 -0.87513,3.3171 -1.14682,0.28359 -1.74172,-0.3315 -2.46092,0.0717 -0.71919,0.40316 0.12367,1.22629 -0.57368,1.50186 -0.69734,0.27556 -1.21876,0.61343 -2.01636,0.30985 -0.7976,-0.30358 -1.4245,-0.95536 -1.86553,-2.12649 -0.44103,-1.17114 -1.96631,0.24178 -2.11018,-1.34059 -0.14387,-1.58237 0.55599,-2.25324 0.55599,-2.25324 l 3.66206,-2.09375 0.0765,-3.51575 1.24818,-0.44145 z"
+         id="path92141" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 159.27589,168.79826 c 0,0 -1.82503,0.21048 -2.66128,0.77183 -0.83626,0.56134 -1.38918,1.32698 -1.38918,1.32698 l 0.0377,2.17145 7.19362,-0.14962 c 0,0 0.23819,-0.41065 0.82322,-0.55861 0.58503,-0.14796 2.60799,0.27969 3.13205,0.0243 0.52405,-0.25534 0.54837,-1.05165 0.54837,-1.05165 l -0.3601,-2.44172 z"
+         id="path92143" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 177.3002,168.79826 c 0,0 1.82503,0.21048 2.66128,0.77183 0.83626,0.56134 1.38918,1.32698 1.38918,1.32698 l -0.0377,2.17145 -7.19362,-0.14962 c 0,0 -0.23819,-0.41065 -0.82322,-0.55861 -0.58503,-0.14796 -2.60799,0.27969 -3.13205,0.0243 -0.52405,-0.25534 -0.54837,-1.05165 -0.54837,-1.05165 l 0.3601,-2.44172 z"
+         id="path92145" />
+    </g>
+    <g
+       id="g92165"
+       transform="translate(26.479093,-285.82366)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="display:inline;fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 225.50273,481.81755 1.90376,-0.41585 19.7452,-0.016 1.72441,0.25226 c 0,0 0.10029,-2.4933 -0.17076,-5.07476 -0.27104,-2.58146 -1.09989,-4.39947 -1.09989,-4.39947 l -0.0406,-5.4349 0.0149,-2.62063 0.089,-1.20243 -0.0554,-1.94026 c 0,0 -1.70069,-8.7998 -9.9596,-8.79922 -10.49765,-0.0995 -10.83151,8.36273 -10.83151,8.36273 l 0.20885,11.83184 c 0,0 -1.2347,2.35936 -1.39832,4.64603 -0.16362,2.28668 -0.13001,4.81064 -0.13001,4.81064 z"
+         id="path92149"
+         sodipodi:nodetypes="ccccsccccccccscc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125313;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92151"
+         width="2.4594269"
+         height="2.3120646"
+         x="245.37123"
+         y="460.4046"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.398752;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92153"
+         width="19.489958"
+         height="2.3120646"
+         x="226.80275"
+         y="460.4046"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 226.99809,469.86116 3.62552,3.16473 13.29789,-0.0684 3.73265,-3.24145 -0.0389,2.41029 -3.22216,2.56802 0.0412,4.52917 1.35462,-0.14805 1.47905,-0.59785 0.0872,1.72109 c 0,0 0.11761,0.85838 -0.31693,1.52307 -0.43454,0.66468 -1.92002,1.71042 -1.92002,1.71042 l -1.88849,1.0204 c 0,0 -0.57762,0.0342 -1.04482,0.57516 -0.46721,0.54088 -0.61276,1.77616 -0.61276,1.77616 l -3.60152,0.0145 c 0,0 -0.20815,-0.47699 -0.22672,-0.86689 -0.0186,-0.3899 -0.10543,-1.02093 -0.10543,-1.02093 l -0.94328,0.037 c 0,0 0.13243,0.54266 0.0364,0.99362 -0.0961,0.45096 -0.3379,0.92016 -0.3379,0.92016 l -3.41156,-0.0898 c 0,0 -0.0108,-0.68207 -0.30897,-1.25613 -0.29823,-0.57405 -1.17583,-1.04132 -1.17583,-1.04132 0,0 -1.18046,-0.48199 -2.11924,-1.07013 -0.93878,-0.58813 -2.00482,-1.96339 -2.00482,-1.96339 l -0.0488,-3.08452 c 0,0 0.73699,0.39561 1.22868,0.56707 0.49169,0.17146 1.54541,0.23449 1.54541,0.23449 l -0.047,-4.57775 -3.05407,-2.67876 z"
+         id="path92155"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 225.4385,481.81674 0.46122,1.05496 c 0,0 -0.58157,0.57962 -0.6205,1.62352 -0.0389,1.04391 -0.12868,1.43675 0.41448,1.57106 0.54316,0.13432 0.82492,-0.157 1.16555,0.034 0.34062,0.19095 -0.0586,0.5808 0.27171,0.71132 0.33027,0.13051 0.57723,0.29053 0.95499,0.14675 0.37777,-0.14378 0.67468,-0.45248 0.88356,-1.00715 0.20889,-0.55468 0.9313,0.11447 0.99944,-0.63495 0.0681,-0.74945 -0.26333,-1.06719 -0.26333,-1.06719 l -1.73444,-0.99164 -0.0362,-1.66514 -0.59117,-0.20909 z"
+         id="path92157"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 249.14358,481.81674 -0.46122,1.05496 c 0,0 0.58158,0.57962 0.62051,1.62352 0.0389,1.04391 0.12868,1.43675 -0.41448,1.57106 -0.54317,0.13432 -0.82493,-0.157 -1.16556,0.034 -0.34062,0.19095 0.0586,0.5808 -0.2717,0.71132 -0.33028,0.13051 -0.57724,0.29053 -0.955,0.14675 -0.37776,-0.14378 -0.67468,-0.45248 -0.88356,-1.00715 -0.20888,-0.55468 -0.93129,0.11447 -0.99943,-0.63495 -0.0681,-0.74945 0.26333,-1.06719 0.26333,-1.06719 l 1.73444,-0.99164 0.0362,-1.66514 0.59117,-0.20909 z"
+         id="path92159"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 232.93218,486.8409 c 0,0 -0.86437,0.0997 -1.26044,0.36555 -0.39607,0.26586 -0.65795,0.6285 -0.65795,0.6285 l 0.0179,1.02844 3.40707,-0.0708 c 0,0 0.11281,-0.19451 0.3899,-0.26458 0.27708,-0.0701 1.2352,0.13247 1.48341,0.0121 0.2482,-0.12089 0.25972,-0.49809 0.25972,-0.49809 l -0.17055,-1.15645 z"
+         id="path92161"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 241.46893,486.8409 c 0,0 0.86438,0.0997 1.26045,0.36555 0.39607,0.26586 0.65795,0.6285 0.65795,0.6285 l -0.0178,1.02844 -3.40708,-0.0708 c 0,0 -0.11281,-0.19451 -0.38989,-0.26458 -0.27709,-0.0701 -1.23521,0.13247 -1.48342,0.0121 -0.2482,-0.12089 -0.25972,-0.49809 -0.25972,-0.49809 l 0.17055,-1.15645 z"
+         id="path92163"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g92183"
+       transform="translate(72.955432,-277.50884)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="display:inline;fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 225.50273,481.81755 1.90376,-0.41585 19.7452,-0.016 1.72441,0.25226 c 0,0 0.10029,-2.4933 -0.17076,-5.07476 -0.27104,-2.58146 -1.09989,-4.39947 -1.09989,-4.39947 l -0.0406,-5.4349 0.0149,-2.62063 0.089,-1.20243 -0.0554,-1.94026 c 0,0 -1.70069,-8.7998 -9.9596,-8.79922 -10.49765,-0.0995 -10.83151,8.36273 -10.83151,8.36273 l 0.20885,11.83184 c 0,0 -1.2347,2.35936 -1.39832,4.64603 -0.16362,2.28668 -0.13001,4.81064 -0.13001,4.81064 z"
+         id="path92167"
+         sodipodi:nodetypes="ccccsccccccccscc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125313;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92169"
+         width="2.4594269"
+         height="2.3120646"
+         x="245.37123"
+         y="460.4046"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.398752;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92171"
+         width="19.489958"
+         height="2.3120646"
+         x="226.80275"
+         y="460.4046"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 226.99809,469.86116 3.62552,3.16473 13.29789,-0.0684 3.73265,-3.24145 -0.0389,2.41029 -3.22216,2.56802 0.0412,4.52917 1.35462,-0.14805 1.47905,-0.59785 0.0872,1.72109 c 0,0 0.11761,0.85838 -0.31693,1.52307 -0.43454,0.66468 -1.92002,1.71042 -1.92002,1.71042 l -1.88849,1.0204 c 0,0 -0.57762,0.0342 -1.04482,0.57516 -0.46721,0.54088 -0.61276,1.77616 -0.61276,1.77616 l -3.60152,0.0145 c 0,0 -0.20815,-0.47699 -0.22672,-0.86689 -0.0186,-0.3899 -0.10543,-1.02093 -0.10543,-1.02093 l -0.94328,0.037 c 0,0 0.13243,0.54266 0.0364,0.99362 -0.0961,0.45096 -0.3379,0.92016 -0.3379,0.92016 l -3.41156,-0.0898 c 0,0 -0.0108,-0.68207 -0.30897,-1.25613 -0.29823,-0.57405 -1.17583,-1.04132 -1.17583,-1.04132 0,0 -1.18046,-0.48199 -2.11924,-1.07013 -0.93878,-0.58813 -2.00482,-1.96339 -2.00482,-1.96339 l -0.0488,-3.08452 c 0,0 0.73699,0.39561 1.22868,0.56707 0.49169,0.17146 1.54541,0.23449 1.54541,0.23449 l -0.047,-4.57775 -3.05407,-2.67876 z"
+         id="path92173"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 225.4385,481.81674 0.46122,1.05496 c 0,0 -0.58157,0.57962 -0.6205,1.62352 -0.0389,1.04391 -0.12868,1.43675 0.41448,1.57106 0.54316,0.13432 0.82492,-0.157 1.16555,0.034 0.34062,0.19095 -0.0586,0.5808 0.27171,0.71132 0.33027,0.13051 0.57723,0.29053 0.95499,0.14675 0.37777,-0.14378 0.67468,-0.45248 0.88356,-1.00715 0.20889,-0.55468 0.9313,0.11447 0.99944,-0.63495 0.0681,-0.74945 -0.26333,-1.06719 -0.26333,-1.06719 l -1.73444,-0.99164 -0.0362,-1.66514 -0.59117,-0.20909 z"
+         id="path92175"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 249.14358,481.81674 -0.46122,1.05496 c 0,0 0.58158,0.57962 0.62051,1.62352 0.0389,1.04391 0.12868,1.43675 -0.41448,1.57106 -0.54317,0.13432 -0.82493,-0.157 -1.16556,0.034 -0.34062,0.19095 0.0586,0.5808 -0.2717,0.71132 -0.33028,0.13051 -0.57724,0.29053 -0.955,0.14675 -0.37776,-0.14378 -0.67468,-0.45248 -0.88356,-1.00715 -0.20888,-0.55468 -0.93129,0.11447 -0.99943,-0.63495 -0.0681,-0.74945 0.26333,-1.06719 0.26333,-1.06719 l 1.73444,-0.99164 0.0362,-1.66514 0.59117,-0.20909 z"
+         id="path92177"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 232.93218,486.8409 c 0,0 -0.86437,0.0997 -1.26044,0.36555 -0.39607,0.26586 -0.65795,0.6285 -0.65795,0.6285 l 0.0179,1.02844 3.40707,-0.0708 c 0,0 0.11281,-0.19451 0.3899,-0.26458 0.27708,-0.0701 1.2352,0.13247 1.48341,0.0121 0.2482,-0.12089 0.25972,-0.49809 0.25972,-0.49809 l -0.17055,-1.15645 z"
+         id="path92179"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 241.46893,486.8409 c 0,0 0.86438,0.0997 1.26045,0.36555 0.39607,0.26586 0.65795,0.6285 0.65795,0.6285 l -0.0178,1.02844 -3.40708,-0.0708 c 0,0 -0.11281,-0.19451 -0.38989,-0.26458 -0.27709,-0.0701 -1.23521,0.13247 -1.48342,0.0121 -0.2482,-0.12089 -0.25972,-0.49809 -0.25972,-0.49809 l 0.17055,-1.15645 z"
+         id="path92181"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g92223"
+       style="display:inline"
+       transform="matrix(0.55628201,0,0,0.55628201,300.70214,3.76481)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.5895,158.19207 4.01956,-0.87803 41.6896,-0.0337 3.64087,0.53262 c 0,0 0.21177,-5.26432 -0.36052,-10.71475 -0.57228,-5.45044 -2.3223,-9.28893 -2.3223,-9.28893 l -0.0858,-11.47516 0.0315,-5.53312 0.18792,-2.53879 -0.11694,-4.09664 c 0,0 -3.5908,-18.579711 -21.02848,-18.578481 -22.16452,-0.209952 -22.86943,17.656901 -22.86943,17.656901 l 0.44095,24.98148 c 0,0 -2.60691,4.98151 -2.95238,9.80955 -0.34546,4.82804 -0.27449,10.15709 -0.27449,10.15709 z"
+         id="path92185"
+         sodipodi:nodetypes="ccccsccccccccscc" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92187"
+         width="5.1927824"
+         height="4.8816452"
+         x="185.53943"
+         y="112.98118" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92189"
+         width="4.0640955"
+         height="4.8816452"
+         x="146.33432"
+         y="112.98118" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92191"
+         cx="176.54158"
+         cy="115.16708"
+         r="9.4803848" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92193"
+         cx="159.58713"
+         cy="115.35176"
+         r="9.4803848" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92195"
+         cx="176.62535"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92197"
+         cx="159.43898"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92199"
+         cx="160.7424"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle92201"
+         cx="160.75185"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse92203"
+         cx="159.99802"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92205"
+         cx="174.1489"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle92207"
+         cx="174.15834"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse92209"
+         cx="173.40451"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 160.13761,131.13154 c 0,0 2.76726,1.72399 6.81532,1.7983 4.04806,0.0743 8.38446,-1.3874 8.38446,-1.3874"
+         id="path92211" />
+      <path
+         style="fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 146.74676,132.94759 7.65485,6.68194 28.07689,-0.14427 7.88104,-6.84394 -0.0822,5.08902 -6.80319,5.42207 0.087,9.56279 2.8601,-0.31257 3.12284,-1.2623 0.18409,3.63388 c 0,0 0.24833,1.81235 -0.66916,3.21576 -0.91748,1.4034 -4.05388,3.61137 -4.05388,3.61137 l -3.98733,2.15443 c 0,0 -1.21956,0.0724 -2.20601,1.2144 -0.98645,1.14199 -1.29376,3.75014 -1.29376,3.75014 l -7.60417,0.0306 c 0,0 -0.43949,-1.0071 -0.47871,-1.83032 -0.0392,-0.82322 -0.2226,-2.15559 -0.2226,-2.15559 l -1.99162,0.0781 c 0,0 0.27961,1.14574 0.0768,2.09789 -0.20283,0.95216 -0.71345,1.94282 -0.71345,1.94282 l -7.20309,-0.18968 c 0,0 -0.0227,-1.44012 -0.65235,-2.65216 -0.62968,-1.21204 -2.48262,-2.19863 -2.48262,-2.19863 0,0 -2.4924,-1.01767 -4.47452,-2.25945 -1.98213,-1.24178 -4.23294,-4.14547 -4.23294,-4.14547 l -0.10301,-6.5126 c 0,0 1.55606,0.8353 2.59421,1.19731 1.03815,0.36203 3.26294,0.49512 3.26294,0.49512 l -0.0993,-9.66539 -6.44829,-5.65588 z"
+         id="path92213" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.45388,158.19036 0.97381,2.22742 c 0,0 -1.22792,1.2238 -1.31012,3.42788 -0.0822,2.20408 -0.27169,3.0335 0.87513,3.3171 1.14682,0.28359 1.74172,-0.3315 2.46092,0.0717 0.71919,0.40316 -0.12367,1.22629 0.57368,1.50186 0.69734,0.27556 1.21876,0.61343 2.01636,0.30985 0.7976,-0.30358 1.4245,-0.95536 1.86553,-2.12649 0.44103,-1.17114 1.96631,0.24178 2.11018,-1.34059 0.14387,-1.58237 -0.55599,-2.25324 -0.55599,-2.25324 l -3.66206,-2.09375 -0.0765,-3.51575 -1.24818,-0.44145 z"
+         id="path92215" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 193.5043,158.19036 -0.97381,2.22742 c 0,0 1.22792,1.2238 1.31012,3.42788 0.0822,2.20408 0.27169,3.0335 -0.87513,3.3171 -1.14682,0.28359 -1.74172,-0.3315 -2.46092,0.0717 -0.71919,0.40316 0.12367,1.22629 -0.57368,1.50186 -0.69734,0.27556 -1.21876,0.61343 -2.01636,0.30985 -0.7976,-0.30358 -1.4245,-0.95536 -1.86553,-2.12649 -0.44103,-1.17114 -1.96631,0.24178 -2.11018,-1.34059 -0.14387,-1.58237 0.55599,-2.25324 0.55599,-2.25324 l 3.66206,-2.09375 0.0765,-3.51575 1.24818,-0.44145 z"
+         id="path92217" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 159.27589,168.79826 c 0,0 -1.82503,0.21048 -2.66128,0.77183 -0.83626,0.56134 -1.38918,1.32698 -1.38918,1.32698 l 0.0377,2.17145 7.19362,-0.14962 c 0,0 0.23819,-0.41065 0.82322,-0.55861 0.58503,-0.14796 2.60799,0.27969 3.13205,0.0243 0.52405,-0.25534 0.54837,-1.05165 0.54837,-1.05165 l -0.3601,-2.44172 z"
+         id="path92219" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 177.3002,168.79826 c 0,0 1.82503,0.21048 2.66128,0.77183 0.83626,0.56134 1.38918,1.32698 1.38918,1.32698 l -0.0377,2.17145 -7.19362,-0.14962 c 0,0 -0.23819,-0.41065 -0.82322,-0.55861 -0.58503,-0.14796 -2.60799,0.27969 -3.13205,0.0243 -0.52405,-0.25534 -0.54837,-1.05165 -0.54837,-1.05165 l 0.3601,-2.44172 z"
+         id="path92221" />
+    </g>
+    <g
+       id="g92263"
+       style="display:inline"
+       transform="matrix(0.55628201,0,0,0.55628201,345.34999,-9.070703)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.5895,158.19207 4.01956,-0.87803 41.6896,-0.0337 3.64087,0.53262 c 0,0 0.21177,-5.26432 -0.36052,-10.71475 -0.57228,-5.45044 -2.3223,-9.28893 -2.3223,-9.28893 l -0.0858,-11.47516 0.0315,-5.53312 0.18792,-2.53879 -0.11694,-4.09664 c 0,0 -3.5908,-18.579711 -21.02848,-18.578481 -22.16452,-0.209952 -22.86943,17.656901 -22.86943,17.656901 l 0.44095,24.98148 c 0,0 -2.60691,4.98151 -2.95238,9.80955 -0.34546,4.82804 -0.27449,10.15709 -0.27449,10.15709 z"
+         id="path92225"
+         sodipodi:nodetypes="ccccsccccccccscc" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92227"
+         width="5.1927824"
+         height="4.8816452"
+         x="185.53943"
+         y="112.98118" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92229"
+         width="4.0640955"
+         height="4.8816452"
+         x="146.33432"
+         y="112.98118" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92231"
+         cx="176.54158"
+         cy="115.16708"
+         r="9.4803848" />
+      <circle
+         style="fill:#9a9a9a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92233"
+         cx="159.58713"
+         cy="115.35176"
+         r="9.4803848" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92235"
+         cx="176.62535"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92237"
+         cx="159.43898"
+         cy="115.35337"
+         r="6.9538918" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92239"
+         cx="160.7424"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle92241"
+         cx="160.75185"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse92243"
+         cx="159.99802"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <circle
+         style="fill:#804929;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle92245"
+         cx="174.1489"
+         cy="115.50404"
+         r="2.3679049" />
+      <circle
+         style="fill:#070100;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:bevel"
+         id="circle92247"
+         cx="174.15834"
+         cy="115.58395"
+         r="0.79708582" />
+      <ellipse
+         style="fill:#fcfbf9;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:bevel"
+         id="ellipse92249"
+         cx="173.40451"
+         cy="114.89569"
+         rx="0.43485221"
+         ry="0.38608614" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 160.13761,131.13154 c 0,0 2.76726,1.72399 6.81532,1.7983 4.04806,0.0743 8.38446,-1.3874 8.38446,-1.3874"
+         id="path92251" />
+      <path
+         style="fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 146.74676,132.94759 7.65485,6.68194 28.07689,-0.14427 7.88104,-6.84394 -0.0822,5.08902 -6.80319,5.42207 0.087,9.56279 2.8601,-0.31257 3.12284,-1.2623 0.18409,3.63388 c 0,0 0.24833,1.81235 -0.66916,3.21576 -0.91748,1.4034 -4.05388,3.61137 -4.05388,3.61137 l -3.98733,2.15443 c 0,0 -1.21956,0.0724 -2.20601,1.2144 -0.98645,1.14199 -1.29376,3.75014 -1.29376,3.75014 l -7.60417,0.0306 c 0,0 -0.43949,-1.0071 -0.47871,-1.83032 -0.0392,-0.82322 -0.2226,-2.15559 -0.2226,-2.15559 l -1.99162,0.0781 c 0,0 0.27961,1.14574 0.0768,2.09789 -0.20283,0.95216 -0.71345,1.94282 -0.71345,1.94282 l -7.20309,-0.18968 c 0,0 -0.0227,-1.44012 -0.65235,-2.65216 -0.62968,-1.21204 -2.48262,-2.19863 -2.48262,-2.19863 0,0 -2.4924,-1.01767 -4.47452,-2.25945 -1.98213,-1.24178 -4.23294,-4.14547 -4.23294,-4.14547 l -0.10301,-6.5126 c 0,0 1.55606,0.8353 2.59421,1.19731 1.03815,0.36203 3.26294,0.49512 3.26294,0.49512 l -0.0993,-9.66539 -6.44829,-5.65588 z"
+         id="path92253" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.45388,158.19036 0.97381,2.22742 c 0,0 -1.22792,1.2238 -1.31012,3.42788 -0.0822,2.20408 -0.27169,3.0335 0.87513,3.3171 1.14682,0.28359 1.74172,-0.3315 2.46092,0.0717 0.71919,0.40316 -0.12367,1.22629 0.57368,1.50186 0.69734,0.27556 1.21876,0.61343 2.01636,0.30985 0.7976,-0.30358 1.4245,-0.95536 1.86553,-2.12649 0.44103,-1.17114 1.96631,0.24178 2.11018,-1.34059 0.14387,-1.58237 -0.55599,-2.25324 -0.55599,-2.25324 l -3.66206,-2.09375 -0.0765,-3.51575 -1.24818,-0.44145 z"
+         id="path92255" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 193.5043,158.19036 -0.97381,2.22742 c 0,0 1.22792,1.2238 1.31012,3.42788 0.0822,2.20408 0.27169,3.0335 -0.87513,3.3171 -1.14682,0.28359 -1.74172,-0.3315 -2.46092,0.0717 -0.71919,0.40316 0.12367,1.22629 -0.57368,1.50186 -0.69734,0.27556 -1.21876,0.61343 -2.01636,0.30985 -0.7976,-0.30358 -1.4245,-0.95536 -1.86553,-2.12649 -0.44103,-1.17114 -1.96631,0.24178 -2.11018,-1.34059 -0.14387,-1.58237 0.55599,-2.25324 0.55599,-2.25324 l 3.66206,-2.09375 0.0765,-3.51575 1.24818,-0.44145 z"
+         id="path92257" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 159.27589,168.79826 c 0,0 -1.82503,0.21048 -2.66128,0.77183 -0.83626,0.56134 -1.38918,1.32698 -1.38918,1.32698 l 0.0377,2.17145 7.19362,-0.14962 c 0,0 0.23819,-0.41065 0.82322,-0.55861 0.58503,-0.14796 2.60799,0.27969 3.13205,0.0243 0.52405,-0.25534 0.54837,-1.05165 0.54837,-1.05165 l -0.3601,-2.44172 z"
+         id="path92259" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 177.3002,168.79826 c 0,0 1.82503,0.21048 2.66128,0.77183 0.83626,0.56134 1.38918,1.32698 1.38918,1.32698 l -0.0377,2.17145 -7.19362,-0.14962 c 0,0 -0.23819,-0.41065 -0.82322,-0.55861 -0.58503,-0.14796 -2.60799,0.27969 -3.13205,0.0243 -0.52405,-0.25534 -0.54837,-1.05165 -0.54837,-1.05165 l 0.3601,-2.44172 z"
+         id="path92261" />
+    </g>
+    <g
+       id="g92281"
+       transform="translate(144.61906,-288.38106)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="display:inline;fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 225.50273,481.81755 1.90376,-0.41585 19.7452,-0.016 1.72441,0.25226 c 0,0 0.10029,-2.4933 -0.17076,-5.07476 -0.27104,-2.58146 -1.09989,-4.39947 -1.09989,-4.39947 l -0.0406,-5.4349 0.0149,-2.62063 0.089,-1.20243 -0.0554,-1.94026 c 0,0 -1.70069,-8.7998 -9.9596,-8.79922 -10.49765,-0.0995 -10.83151,8.36273 -10.83151,8.36273 l 0.20885,11.83184 c 0,0 -1.2347,2.35936 -1.39832,4.64603 -0.16362,2.28668 -0.13001,4.81064 -0.13001,4.81064 z"
+         id="path92265"
+         sodipodi:nodetypes="ccccsccccccccscc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125313;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92267"
+         width="2.4594269"
+         height="2.3120646"
+         x="245.37123"
+         y="460.4046"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.398752;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92269"
+         width="19.489958"
+         height="2.3120646"
+         x="226.80275"
+         y="460.4046"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 226.99809,469.86116 3.62552,3.16473 13.29789,-0.0684 3.73265,-3.24145 -0.0389,2.41029 -3.22216,2.56802 0.0412,4.52917 1.35462,-0.14805 1.47905,-0.59785 0.0872,1.72109 c 0,0 0.11761,0.85838 -0.31693,1.52307 -0.43454,0.66468 -1.92002,1.71042 -1.92002,1.71042 l -1.88849,1.0204 c 0,0 -0.57762,0.0342 -1.04482,0.57516 -0.46721,0.54088 -0.61276,1.77616 -0.61276,1.77616 l -3.60152,0.0145 c 0,0 -0.20815,-0.47699 -0.22672,-0.86689 -0.0186,-0.3899 -0.10543,-1.02093 -0.10543,-1.02093 l -0.94328,0.037 c 0,0 0.13243,0.54266 0.0364,0.99362 -0.0961,0.45096 -0.3379,0.92016 -0.3379,0.92016 l -3.41156,-0.0898 c 0,0 -0.0108,-0.68207 -0.30897,-1.25613 -0.29823,-0.57405 -1.17583,-1.04132 -1.17583,-1.04132 0,0 -1.18046,-0.48199 -2.11924,-1.07013 -0.93878,-0.58813 -2.00482,-1.96339 -2.00482,-1.96339 l -0.0488,-3.08452 c 0,0 0.73699,0.39561 1.22868,0.56707 0.49169,0.17146 1.54541,0.23449 1.54541,0.23449 l -0.047,-4.57775 -3.05407,-2.67876 z"
+         id="path92271"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 225.4385,481.81674 0.46122,1.05496 c 0,0 -0.58157,0.57962 -0.6205,1.62352 -0.0389,1.04391 -0.12868,1.43675 0.41448,1.57106 0.54316,0.13432 0.82492,-0.157 1.16555,0.034 0.34062,0.19095 -0.0586,0.5808 0.27171,0.71132 0.33027,0.13051 0.57723,0.29053 0.95499,0.14675 0.37777,-0.14378 0.67468,-0.45248 0.88356,-1.00715 0.20889,-0.55468 0.9313,0.11447 0.99944,-0.63495 0.0681,-0.74945 -0.26333,-1.06719 -0.26333,-1.06719 l -1.73444,-0.99164 -0.0362,-1.66514 -0.59117,-0.20909 z"
+         id="path92273"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 249.14358,481.81674 -0.46122,1.05496 c 0,0 0.58158,0.57962 0.62051,1.62352 0.0389,1.04391 0.12868,1.43675 -0.41448,1.57106 -0.54317,0.13432 -0.82493,-0.157 -1.16556,0.034 -0.34062,0.19095 0.0586,0.5808 -0.2717,0.71132 -0.33028,0.13051 -0.57724,0.29053 -0.955,0.14675 -0.37776,-0.14378 -0.67468,-0.45248 -0.88356,-1.00715 -0.20888,-0.55468 -0.93129,0.11447 -0.99943,-0.63495 -0.0681,-0.74945 0.26333,-1.06719 0.26333,-1.06719 l 1.73444,-0.99164 0.0362,-1.66514 0.59117,-0.20909 z"
+         id="path92275"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 232.93218,486.8409 c 0,0 -0.86437,0.0997 -1.26044,0.36555 -0.39607,0.26586 -0.65795,0.6285 -0.65795,0.6285 l 0.0179,1.02844 3.40707,-0.0708 c 0,0 0.11281,-0.19451 0.3899,-0.26458 0.27708,-0.0701 1.2352,0.13247 1.48341,0.0121 0.2482,-0.12089 0.25972,-0.49809 0.25972,-0.49809 l -0.17055,-1.15645 z"
+         id="path92277"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 241.46893,486.8409 c 0,0 0.86438,0.0997 1.26045,0.36555 0.39607,0.26586 0.65795,0.6285 0.65795,0.6285 l -0.0178,1.02844 -3.40708,-0.0708 c 0,0 -0.11281,-0.19451 -0.38989,-0.26458 -0.27709,-0.0701 -1.23521,0.13247 -1.48342,0.0121 -0.2482,-0.12089 -0.25972,-0.49809 -0.25972,-0.49809 l 0.17055,-1.15645 z"
+         id="path92279"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g92299"
+       transform="translate(189.4747,-278.93101)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="display:inline;fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 225.50273,481.81755 1.90376,-0.41585 19.7452,-0.016 1.72441,0.25226 c 0,0 0.10029,-2.4933 -0.17076,-5.07476 -0.27104,-2.58146 -1.09989,-4.39947 -1.09989,-4.39947 l -0.0406,-5.4349 0.0149,-2.62063 0.089,-1.20243 -0.0554,-1.94026 c 0,0 -1.70069,-8.7998 -9.9596,-8.79922 -10.49765,-0.0995 -10.83151,8.36273 -10.83151,8.36273 l 0.20885,11.83184 c 0,0 -1.2347,2.35936 -1.39832,4.64603 -0.16362,2.28668 -0.13001,4.81064 -0.13001,4.81064 z"
+         id="path92283"
+         sodipodi:nodetypes="ccccsccccccccscc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125313;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92285"
+         width="2.4594269"
+         height="2.3120646"
+         x="245.37123"
+         y="460.4046"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.398752;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92287"
+         width="19.489958"
+         height="2.3120646"
+         x="226.80275"
+         y="460.4046"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 226.99809,469.86116 3.62552,3.16473 13.29789,-0.0684 3.73265,-3.24145 -0.0389,2.41029 -3.22216,2.56802 0.0412,4.52917 1.35462,-0.14805 1.47905,-0.59785 0.0872,1.72109 c 0,0 0.11761,0.85838 -0.31693,1.52307 -0.43454,0.66468 -1.92002,1.71042 -1.92002,1.71042 l -1.88849,1.0204 c 0,0 -0.57762,0.0342 -1.04482,0.57516 -0.46721,0.54088 -0.61276,1.77616 -0.61276,1.77616 l -3.60152,0.0145 c 0,0 -0.20815,-0.47699 -0.22672,-0.86689 -0.0186,-0.3899 -0.10543,-1.02093 -0.10543,-1.02093 l -0.94328,0.037 c 0,0 0.13243,0.54266 0.0364,0.99362 -0.0961,0.45096 -0.3379,0.92016 -0.3379,0.92016 l -3.41156,-0.0898 c 0,0 -0.0108,-0.68207 -0.30897,-1.25613 -0.29823,-0.57405 -1.17583,-1.04132 -1.17583,-1.04132 0,0 -1.18046,-0.48199 -2.11924,-1.07013 -0.93878,-0.58813 -2.00482,-1.96339 -2.00482,-1.96339 l -0.0488,-3.08452 c 0,0 0.73699,0.39561 1.22868,0.56707 0.49169,0.17146 1.54541,0.23449 1.54541,0.23449 l -0.047,-4.57775 -3.05407,-2.67876 z"
+         id="path92289"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 225.4385,481.81674 0.46122,1.05496 c 0,0 -0.58157,0.57962 -0.6205,1.62352 -0.0389,1.04391 -0.12868,1.43675 0.41448,1.57106 0.54316,0.13432 0.82492,-0.157 1.16555,0.034 0.34062,0.19095 -0.0586,0.5808 0.27171,0.71132 0.33027,0.13051 0.57723,0.29053 0.95499,0.14675 0.37777,-0.14378 0.67468,-0.45248 0.88356,-1.00715 0.20889,-0.55468 0.9313,0.11447 0.99944,-0.63495 0.0681,-0.74945 -0.26333,-1.06719 -0.26333,-1.06719 l -1.73444,-0.99164 -0.0362,-1.66514 -0.59117,-0.20909 z"
+         id="path92291"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 249.14358,481.81674 -0.46122,1.05496 c 0,0 0.58158,0.57962 0.62051,1.62352 0.0389,1.04391 0.12868,1.43675 -0.41448,1.57106 -0.54317,0.13432 -0.82493,-0.157 -1.16556,0.034 -0.34062,0.19095 0.0586,0.5808 -0.2717,0.71132 -0.33028,0.13051 -0.57724,0.29053 -0.955,0.14675 -0.37776,-0.14378 -0.67468,-0.45248 -0.88356,-1.00715 -0.20888,-0.55468 -0.93129,0.11447 -0.99943,-0.63495 -0.0681,-0.74945 0.26333,-1.06719 0.26333,-1.06719 l 1.73444,-0.99164 0.0362,-1.66514 0.59117,-0.20909 z"
+         id="path92293"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 232.93218,486.8409 c 0,0 -0.86437,0.0997 -1.26044,0.36555 -0.39607,0.26586 -0.65795,0.6285 -0.65795,0.6285 l 0.0179,1.02844 3.40707,-0.0708 c 0,0 0.11281,-0.19451 0.3899,-0.26458 0.27708,-0.0701 1.2352,0.13247 1.48341,0.0121 0.2482,-0.12089 0.25972,-0.49809 0.25972,-0.49809 l -0.17055,-1.15645 z"
+         id="path92295"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 241.46893,486.8409 c 0,0 0.86438,0.0997 1.26045,0.36555 0.39607,0.26586 0.65795,0.6285 0.65795,0.6285 l -0.0178,1.02844 -3.40708,-0.0708 c 0,0 -0.11281,-0.19451 -0.38989,-0.26458 -0.27709,-0.0701 -1.23521,0.13247 -1.48342,0.0121 -0.2482,-0.12089 -0.25972,-0.49809 -0.25972,-0.49809 l 0.17055,-1.15645 z"
+         id="path92297"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g92317"
+       transform="translate(228.11806,-288.66302)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="display:inline;fill:#fed42a;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 225.50273,481.81755 1.90376,-0.41585 19.7452,-0.016 1.72441,0.25226 c 0,0 0.10029,-2.4933 -0.17076,-5.07476 -0.27104,-2.58146 -1.09989,-4.39947 -1.09989,-4.39947 l -0.0406,-5.4349 0.0149,-2.62063 0.089,-1.20243 -0.0554,-1.94026 c 0,0 -1.70069,-8.7998 -9.9596,-8.79922 -10.49765,-0.0995 -10.83151,8.36273 -10.83151,8.36273 l 0.20885,11.83184 c 0,0 -1.2347,2.35936 -1.39832,4.64603 -0.16362,2.28668 -0.13001,4.81064 -0.13001,4.81064 z"
+         id="path92301"
+         sodipodi:nodetypes="ccccsccccccccscc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125313;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92303"
+         width="2.4594269"
+         height="2.3120646"
+         x="245.37123"
+         y="460.4046"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.398752;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect92305"
+         width="19.489958"
+         height="2.3120646"
+         x="226.80275"
+         y="460.4046"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#0000fe;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 226.99809,469.86116 3.62552,3.16473 13.29789,-0.0684 3.73265,-3.24145 -0.0389,2.41029 -3.22216,2.56802 0.0412,4.52917 1.35462,-0.14805 1.47905,-0.59785 0.0872,1.72109 c 0,0 0.11761,0.85838 -0.31693,1.52307 -0.43454,0.66468 -1.92002,1.71042 -1.92002,1.71042 l -1.88849,1.0204 c 0,0 -0.57762,0.0342 -1.04482,0.57516 -0.46721,0.54088 -0.61276,1.77616 -0.61276,1.77616 l -3.60152,0.0145 c 0,0 -0.20815,-0.47699 -0.22672,-0.86689 -0.0186,-0.3899 -0.10543,-1.02093 -0.10543,-1.02093 l -0.94328,0.037 c 0,0 0.13243,0.54266 0.0364,0.99362 -0.0961,0.45096 -0.3379,0.92016 -0.3379,0.92016 l -3.41156,-0.0898 c 0,0 -0.0108,-0.68207 -0.30897,-1.25613 -0.29823,-0.57405 -1.17583,-1.04132 -1.17583,-1.04132 0,0 -1.18046,-0.48199 -2.11924,-1.07013 -0.93878,-0.58813 -2.00482,-1.96339 -2.00482,-1.96339 l -0.0488,-3.08452 c 0,0 0.73699,0.39561 1.22868,0.56707 0.49169,0.17146 1.54541,0.23449 1.54541,0.23449 l -0.047,-4.57775 -3.05407,-2.67876 z"
+         id="path92307"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 225.4385,481.81674 0.46122,1.05496 c 0,0 -0.58157,0.57962 -0.6205,1.62352 -0.0389,1.04391 -0.12868,1.43675 0.41448,1.57106 0.54316,0.13432 0.82492,-0.157 1.16555,0.034 0.34062,0.19095 -0.0586,0.5808 0.27171,0.71132 0.33027,0.13051 0.57723,0.29053 0.95499,0.14675 0.37777,-0.14378 0.67468,-0.45248 0.88356,-1.00715 0.20889,-0.55468 0.9313,0.11447 0.99944,-0.63495 0.0681,-0.74945 -0.26333,-1.06719 -0.26333,-1.06719 l -1.73444,-0.99164 -0.0362,-1.66514 -0.59117,-0.20909 z"
+         id="path92309"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 249.14358,481.81674 -0.46122,1.05496 c 0,0 0.58158,0.57962 0.62051,1.62352 0.0389,1.04391 0.12868,1.43675 -0.41448,1.57106 -0.54317,0.13432 -0.82493,-0.157 -1.16556,0.034 -0.34062,0.19095 0.0586,0.5808 -0.2717,0.71132 -0.33028,0.13051 -0.57724,0.29053 -0.955,0.14675 -0.37776,-0.14378 -0.67468,-0.45248 -0.88356,-1.00715 -0.20888,-0.55468 -0.93129,0.11447 -0.99943,-0.63495 -0.0681,-0.74945 0.26333,-1.06719 0.26333,-1.06719 l 1.73444,-0.99164 0.0362,-1.66514 0.59117,-0.20909 z"
+         id="path92311"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 232.93218,486.8409 c 0,0 -0.86437,0.0997 -1.26044,0.36555 -0.39607,0.26586 -0.65795,0.6285 -0.65795,0.6285 l 0.0179,1.02844 3.40707,-0.0708 c 0,0 0.11281,-0.19451 0.3899,-0.26458 0.27708,-0.0701 1.2352,0.13247 1.48341,0.0121 0.2482,-0.12089 0.25972,-0.49809 0.25972,-0.49809 l -0.17055,-1.15645 z"
+         id="path92313"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.125313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 241.46893,486.8409 c 0,0 0.86438,0.0997 1.26045,0.36555 0.39607,0.26586 0.65795,0.6285 0.65795,0.6285 l -0.0178,1.02844 -3.40708,-0.0708 c 0,0 -0.11281,-0.19451 -0.38989,-0.26458 -0.27709,-0.0701 -1.23521,0.13247 -1.48342,0.0121 -0.2482,-0.12089 -0.25972,-0.49809 -0.25972,-0.49809 l 0.17055,-1.15645 z"
+         id="path92315"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="14.345842"
+       y="198.64453"
+       id="text96362"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000;stroke-width:0.264583"
+         x="14.345842"
+         y="198.64453"
+         id="tspan96364">Trabajando</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="142.54309"
+       y="144.8795"
+       id="text98070"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.264583"
+         x="142.54309"
+         y="144.8795"
+         id="tspan98068">Esperando</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="257.92593"
+       y="144.8795"
+       id="text108318"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.264583"
+         x="257.92593"
+         y="144.8795"
+         id="tspan108316">Esperando</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="397.46732"
+       y="144.8795"
+       id="text108322"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S11/ford-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.264583"
+         x="397.46732"
+         y="144.8795"
+         id="tspan108320">Esperando</tspan></text>
+  </g>
+</svg>
