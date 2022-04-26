@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="622.34076mm"
    height="249.82198mm"
    viewBox="0 0 622.34077 249.82197"
    version="1.1"
    id="svg7345"
-   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
-   sodipodi:docname="Ej4-01.svg">
+   inkscape:version="1.1.2 (0a00cf5, 2022-02-04)"
+   sodipodi:docname="Ej4-01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs7339">
     <marker
@@ -278,16 +278,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497474"
-     inkscape:cx="1275.1463"
-     inkscape:cy="515.29656"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1246.5283"
+     inkscape:cy="1084.9038"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer17"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-width="1858"
+     inkscape:window-height="1016"
+     inkscape:window-x="62"
+     inkscape:window-y="1107"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -296,7 +296,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata7342">
     <rdf:RDF>
@@ -305,7 +306,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -322,7 +322,7 @@
        height="249.82198"
        x="-46.187828"
        y="19.197117"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
@@ -338,7 +338,7 @@
        height="27.43227"
        x="78.858307"
        y="152.86076"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -348,7 +348,7 @@
        x="14.790123"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#000000;stroke-width:0.235086"
@@ -363,7 +363,7 @@
        x="271.83667"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
@@ -378,7 +378,7 @@
        height="27.43227"
        x="109.15101"
        y="152.86076"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -388,7 +388,7 @@
        x="113.58217"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#0000ff;stroke-width:0.235086"
@@ -403,7 +403,7 @@
        height="27.43227"
        x="139.4437"
        y="152.86076"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -413,7 +413,7 @@
        x="143.90685"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#0000ff;stroke-width:0.235086"
@@ -428,7 +428,7 @@
        height="27.43227"
        x="169.73639"
        y="152.86076"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -438,7 +438,7 @@
        x="174.23152"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#0000ff;stroke-width:0.235086"
@@ -453,7 +453,7 @@
        height="27.43227"
        x="200.02908"
        y="152.86076"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -463,7 +463,7 @@
        x="204.5562"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#0000ff;stroke-width:0.235086"
@@ -478,7 +478,7 @@
        height="27.43227"
        x="230.32178"
        y="152.86076"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -488,7 +488,7 @@
        height="27.43227"
        x="260.61447"
        y="152.86076"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -498,7 +498,7 @@
        height="27.43227"
        x="290.9072"
        y="152.86076"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -508,7 +508,7 @@
        height="27.43227"
        x="321.19989"
        y="152.86076"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -518,7 +518,7 @@
        height="27.43227"
        x="351.49258"
        y="152.86076"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -528,7 +528,7 @@
        height="27.43227"
        x="381.78528"
        y="152.86076"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -538,7 +538,7 @@
        height="27.43227"
        x="412.07797"
        y="152.86076"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -548,7 +548,7 @@
        x="92.549232"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
@@ -563,7 +563,7 @@
        x="124.92821"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
@@ -578,7 +578,7 @@
        x="154.4097"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
@@ -593,7 +593,7 @@
        x="186.78868"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
@@ -608,7 +608,7 @@
        x="214.90965"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
@@ -623,7 +623,7 @@
        x="247.28862"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
@@ -638,7 +638,7 @@
        x="276.77011"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
@@ -653,7 +653,7 @@
        x="306.66037"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
@@ -668,7 +668,7 @@
        x="336.996"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
@@ -683,7 +683,7 @@
        x="363.57101"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
@@ -698,7 +698,7 @@
        x="394.19928"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
@@ -713,7 +713,7 @@
        x="424.45444"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
@@ -728,7 +728,7 @@
        height="27.43227"
        x="442.37067"
        y="152.86076"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -738,7 +738,7 @@
        height="27.43227"
        x="472.66336"
        y="152.86076"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -748,7 +748,7 @@
        height="27.43227"
        x="502.95605"
        y="152.86076"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -758,7 +758,7 @@
        height="27.43227"
        x="533.24878"
        y="152.86076"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -768,7 +768,7 @@
        x="459.88846"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
@@ -783,7 +783,7 @@
        x="486.46347"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
@@ -798,7 +798,7 @@
        x="517.09174"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
@@ -813,7 +813,7 @@
        x="547.34686"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.235086"
@@ -828,7 +828,7 @@
        height="27.43227"
        x="79.13826"
        y="193.52704"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -838,7 +838,7 @@
        x="83.537727"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#0000ff;stroke-width:0.235086"
@@ -853,7 +853,7 @@
        height="27.43227"
        x="109.43095"
        y="193.52704"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -863,7 +863,7 @@
        x="113.86241"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#0000ff;stroke-width:0.235086"
@@ -878,7 +878,7 @@
        height="27.43227"
        x="139.72363"
        y="193.52704"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -888,7 +888,7 @@
        x="144.18709"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#0000ff;stroke-width:0.235086"
@@ -903,7 +903,7 @@
        height="27.43227"
        x="170.01633"
        y="193.52704"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -913,7 +913,7 @@
        height="27.43227"
        x="200.30902"
        y="193.52704"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -923,7 +923,7 @@
        height="27.43227"
        x="230.60172"
        y="193.52704"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -933,7 +933,7 @@
        height="27.43227"
        x="260.89444"
        y="193.52704"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -943,7 +943,7 @@
        height="27.43227"
        x="291.18713"
        y="193.52704"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -953,7 +953,7 @@
        height="27.43227"
        x="321.47983"
        y="193.52704"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -963,7 +963,7 @@
        height="27.43227"
        x="351.77252"
        y="193.52704"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -973,7 +973,7 @@
        height="27.43227"
        x="382.06522"
        y="193.52704"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -983,7 +983,7 @@
        height="27.43227"
        x="412.35791"
        y="193.52704"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -993,7 +993,7 @@
        height="27.43227"
        x="442.65057"
        y="193.52704"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -1003,7 +1003,7 @@
        height="27.43227"
        x="472.9433"
        y="193.52704"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -1013,7 +1013,7 @@
        height="27.43227"
        x="503.23602"
        y="193.52704"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -1023,7 +1023,7 @@
        height="27.43227"
        x="533.52869"
        y="193.52704"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -1033,7 +1033,7 @@
        x="14.790122"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#000000;stroke-width:0.235086"
@@ -1048,7 +1048,7 @@
        x="538.7229"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#0000ff;stroke-width:0.235086"
@@ -1063,7 +1063,7 @@
        x="80.004143"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#0000ff;stroke-width:0.235086"
@@ -1078,7 +1078,7 @@
        x="325.96786"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#0000ff;stroke-width:0.235086"
@@ -1093,7 +1093,7 @@
        x="356.88956"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#0000ff;stroke-width:0.235086"
@@ -1108,7 +1108,7 @@
        x="387.04218"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#0000ff;stroke-width:0.235086"
@@ -1123,7 +1123,7 @@
        x="418.14075"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#0000ff;stroke-width:0.235086"
@@ -1138,7 +1138,7 @@
        x="79.146873"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#008000;stroke-width:0.235086"
@@ -1153,7 +1153,7 @@
        x="298.07428"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#008000;stroke-width:0.235086"
@@ -1168,7 +1168,7 @@
        x="326.77979"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#008000;stroke-width:0.235086"
@@ -1183,7 +1183,7 @@
        x="387.49652"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#008000;stroke-width:0.235086"
@@ -1198,7 +1198,7 @@
        x="418.39587"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#008000;stroke-width:0.235086"
@@ -1213,7 +1213,7 @@
        x="477.28775"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#008000;stroke-width:0.235086"
@@ -1228,7 +1228,7 @@
        x="508.90457"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#008000;stroke-width:0.235086"
@@ -1243,7 +1243,7 @@
        x="80.830505"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#ff0000;stroke-width:0.235086"
@@ -1258,7 +1258,7 @@
        x="237.87595"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#ff0000;stroke-width:0.235086"
@@ -1268,27 +1268,12 @@
          sodipodi:role="line">FF</tspan></text>
     <text
        transform="scale(0.99894541,1.0010557)"
-       id="text986-8-0-9-7-6-56-2-7-8-2-52-7"
-       y="213.17358"
-       x="237.87595"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.235086"
-       xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#ff0000;stroke-width:0.235086"
-         y="213.17358"
-         x="237.87595"
-         id="tspan984-5-9-3-5-7-2-9-53-4-06-54-4"
-         sodipodi:role="line">00</tspan></text>
-    <text
-       transform="scale(0.99894541,1.0010557)"
        id="text986-8-0-9-7-6-56-2-7-8-2-52-4"
        y="212.23463"
        x="539.89478"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.799px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.235086"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/Soluciones/S04/Ej04-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#ff0000;stroke-width:0.235086"
