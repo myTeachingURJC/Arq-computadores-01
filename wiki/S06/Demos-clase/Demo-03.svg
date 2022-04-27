@@ -2177,6 +2177,12 @@
        width="88.058727"
        height="13.7127"
        id="rect32371" />
+    <rect
+       x="204.08769"
+       y="-1030.4247"
+       width="88.058727"
+       height="13.7127"
+       id="rect9373" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2185,17 +2191,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24508552"
-     inkscape:cx="801.76097"
-     inkscape:cy="454.94325"
+     inkscape:zoom="0.5"
+     inkscape:cx="959"
+     inkscape:cy="752"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1858"
-     inkscape:window-height="1016"
-     inkscape:window-x="62"
-     inkscape:window-y="1107"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -4049,7 +4055,7 @@
        inkscape:export-ydpi="96"><tspan
          x="204.08789"
          y="-1021.0601"
-         id="tspan49551">addi x5, x0, 0xC0</tspan></text>
+         id="tspan13821">addi x5, x0, 0xC0</tspan></text>
     <text
        xml:space="preserve"
        id="text32369"
@@ -4060,7 +4066,7 @@
        inkscape:export-ydpi="96"><tspan
          x="204.08789"
          y="-1021.0601"
-         id="tspan49553">addi x6, x5, 1</tspan></text>
+         id="tspan13823">addi x6, x5, 1</tspan></text>
     <g
        id="g654"
        transform="translate(110.09267,799.48567)"
@@ -4089,7 +4095,7 @@
     </g>
     <g
        id="g564"
-       transform="translate(169.10529,816.18636)"
+       transform="translate(179.78043,629.42363)"
        style="display:inline">
       <rect
          style="fill:#f2f2f2;fill-opacity:1;stroke-width:0.793999;stroke-miterlimit:4;stroke-dasharray:none"
@@ -4146,5 +4152,16 @@
              id="tspan44325">0x00000063</tspan></text>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       id="text9371"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9373);fill:#0000ff;fill-opacity:1;stroke:none"
+       transform="translate(66.395584,1346.1376)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/TEST-1-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="204.08789"
+         y="-1021.0601"
+         id="tspan13825">beq x0,x0,0</tspan></text>
   </g>
 </svg>
