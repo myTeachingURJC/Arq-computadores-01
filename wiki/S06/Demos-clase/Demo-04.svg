@@ -2287,17 +2287,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3771191"
-     inkscape:cx="1149.5042"
-     inkscape:cy="788.87545"
+     inkscape:zoom="0.5"
+     inkscape:cx="1419"
+     inkscape:cy="876"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1858"
-     inkscape:window-height="1016"
-     inkscape:window-x="62"
-     inkscape:window-y="1107"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -4466,19 +4466,19 @@
        inkscape:export-ydpi="96"><tspan
          x="204.08789"
          y="-1021.0601"
-         id="tspan17411">ld x1, <tspan
+         id="tspan18320">ld x1, <tspan
    style="fill:#008000"
-   id="tspan17409">0x100</tspan>(x0)
+   id="tspan18318">0x100</tspan>(x0)
 </tspan><tspan
          x="204.08789"
          y="-1007.831"
-         id="tspan17415">sd x1, <tspan
+         id="tspan18324">sd x1, <tspan
    style="fill:#008000"
-   id="tspan17413">0x108</tspan>(x0)
+   id="tspan18322">0x108</tspan>(x0)
 </tspan><tspan
          x="204.08789"
          y="-994.60184"
-         id="tspan17417">beq x0,x0,0</tspan></text>
+         id="tspan18326">beq x0,x0,0</tspan></text>
     <g
        id="g2343"
        transform="matrix(1.8419073,0,0,1.8419073,-624.12406,2032.1933)"
@@ -4742,35 +4742,6 @@
            id="tspan1280-5-0-6-2-5-3-4-6-3-6-4">0x00000063</tspan></text>
     </g>
     <g
-       id="g15562"
-       style="display:inline"
-       transform="translate(-100.12088,960.0713)">
-      <rect
-         style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.05833"
-         id="rect15556"
-         width="65.245232"
-         height="12.982608"
-         x="267.78949"
-         y="-775.89661"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/TEST-2-02.png"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="270.33585"
-         y="-766.49628"
-         id="text15560"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/TEST-2-02.png"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"><tspan
-           sodipodi:role="line"
-           x="270.33585"
-           y="-766.49628"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
-           id="tspan15558">0x10003083</tspan></text>
-    </g>
-    <g
        id="g15572"
        transform="translate(296.57557,717.55439)"
        style="display:inline"
@@ -4831,34 +4802,6 @@
            id="tspan3606">0xCAFE</tspan></text>
     </g>
     <g
-       id="g15905"
-       transform="translate(-305.36614,-69.787318)">
-      <rect
-         style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.05833"
-         id="rect15899"
-         width="39.509937"
-         height="12.982608"
-         x="494.51117"
-         y="299.40234"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/TEST-2-02.png"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="495.76657"
-         y="309.48581"
-         id="text15903"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/TEST-2-02.png"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"><tspan
-           sodipodi:role="line"
-           x="495.76657"
-           y="309.48581"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264583"
-           id="tspan15901">0xCAFE</tspan></text>
-    </g>
-    <g
        id="g2629"
        transform="translate(345.12346,836.64654)"
        style="display:inline"
@@ -4890,35 +4833,6 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264582"
              id="tspan2623">4</tspan></text>
       </g>
-    </g>
-    <g
-       id="g16569"
-       style="display:inline"
-       transform="translate(-98.474449,945.85689)">
-      <rect
-         style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.05833"
-         id="rect16563"
-         width="65.245232"
-         height="12.982608"
-         x="267.78949"
-         y="-762.52808"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/TEST-2-02.png"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="270.33585"
-         y="-753.12775"
-         id="text16567"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/TEST-2-02.png"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"><tspan
-           sodipodi:role="line"
-           x="270.33585"
-           y="-753.12775"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
-           id="tspan16565">0x10103423</tspan></text>
     </g>
     <g
        id="g2545-9"
@@ -4975,35 +4889,6 @@
            y="-303.49405"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264582"
            id="tspan16581">8</tspan></text>
-    </g>
-    <g
-       id="g16593"
-       style="display:inline"
-       transform="translate(-99.458963,930.75864)">
-      <rect
-         style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.05833"
-         id="rect16587"
-         width="65.245232"
-         height="12.982608"
-         x="267.78949"
-         y="-747.65936"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/TEST-2-02.png"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="270.33585"
-         y="-738.25903"
-         id="text16591"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/TEST-2-02.png"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"><tspan
-           sodipodi:role="line"
-           x="270.33585"
-           y="-738.25903"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
-           id="tspan16589">0x00000063</tspan></text>
     </g>
   </g>
 </svg>
