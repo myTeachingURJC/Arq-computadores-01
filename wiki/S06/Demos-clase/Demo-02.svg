@@ -2187,15 +2187,15 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.34660326"
      inkscape:cx="1086.2564"
-     inkscape:cy="693.87691"
+     inkscape:cy="692.43434"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1858"
-     inkscape:window-height="1016"
-     inkscape:window-x="62"
-     inkscape:window-y="1107"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -3774,7 +3774,7 @@
     </g>
     <g
        id="g532"
-       transform="translate(162.35146,690.97816)"
+       transform="translate(98.090682,848.17508)"
        style="display:inline">
       <rect
          style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.05833"
@@ -3803,7 +3803,7 @@
     </g>
     <g
        id="g590"
-       transform="translate(130.95077,669.39619)"
+       transform="translate(66.498804,827.20379)"
        style="display:inline">
       <rect
          style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.05833"
@@ -4013,7 +4013,7 @@
        inkscape:export-ydpi="96"><tspan
          x="204.08789"
          y="-1021.0601"
-         id="tspan52580">addi x5, x0, 0xC0</tspan></text>
+         id="tspan5018">addi x5, x0, 0xC0</tspan></text>
     <text
        xml:space="preserve"
        id="text32369"
@@ -4024,7 +4024,7 @@
        inkscape:export-ydpi="96"><tspan
          x="204.08789"
          y="-1021.0601"
-         id="tspan52582">addi x6, x5, 1</tspan></text>
+         id="tspan5020">addi x6, x5, 1</tspan></text>
     <g
        id="g654"
        transform="translate(110.09267,799.48567)"
