@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="43.689098"
-     inkscape:cy="156.32111"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="158.08887"
+     inkscape:cy="163.13964"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -68,21 +68,12 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:nodetypes="cccccccc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.61241px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.301034px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="58.178139"
-       y="134.9955"
+    <path
+       style="font-style:italic;font-weight:bold;font-size:53.9405px;line-height:1.25;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#008000;stroke-width:0.301034px"
+       d="m 78.405826,111.52822 q -3.661001,0 -6.031433,3.31861 -2.370432,3.3186 -2.370432,8.45454 0,2.79184 1.26423,4.26677 1.290569,1.4486 3.740015,1.4486 3.661001,0 6.031433,-3.3186 2.370432,-3.34495 2.370432,-8.50722 0,-2.7655 -1.290568,-4.2141 -1.264231,-1.4486 -3.713677,-1.4486 z m 0.763805,-6.74256 q 6.584534,0 10.350887,3.34494 3.766353,3.34495 3.766353,9.113 0,3.34494 -1.185216,6.50552 -1.185216,3.13423 -3.450295,5.74171 -2.68649,3.1079 -6.347491,4.68819 -3.661,1.58028 -8.164821,1.58028 -6.505519,0 -10.271872,-3.34494 -3.740015,-3.34494 -3.740015,-9.11299 0,-3.31861 1.211554,-6.47918 1.211554,-3.18692 3.476633,-5.82073 2.633814,-3.05522 6.268476,-4.63551 3.661001,-1.58029 8.085807,-1.58029 z"
        id="text4142"
        transform="scale(0.91185407,1.0966667)"
-       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan4144"
-         x="58.178139"
-         y="134.9955"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.9405px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000;stroke-width:0.301034px">o</tspan></text>
+       aria-label="o" />
     <path
        d="m 113.9669,126.76209 11.92921,-9.14969 9.654,2.18024 -7.71396,32.94496 -7.50901,-1.69591 5.93263,-26.29687 -8.81573,5.34131 z"
        id="path4"
